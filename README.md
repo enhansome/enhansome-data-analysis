@@ -8,7 +8,7 @@
 
 **📖 For comfortable reading:** [Web version](https://pavelgrigoryevds.github.io/awesome-data-analysis/)
 
-**🌱 Want to improve?** [Suggest here](https://github.com/PavelGrigoryevDS/awesome-data-analysis/issues/16) ⭐ 1,961 | 🐛 9 | 📅 2026-08-09 or [Welcome to Discussions](https://github.com/PavelGrigoryevDS/awesome-data-analysis/discussions) ⭐ 1,961 | 🐛 9 | 📅 2026-08-09
+**🌱 Want to improve?** [Suggest here](https://github.com/PavelGrigoryevDS/awesome-data-analysis/issues/16) ⭐ 1,962 | 🐛 10 | 📅 2026-08-09 or [Welcome to Discussions](https://github.com/PavelGrigoryevDS/awesome-data-analysis/discussions) ⭐ 1,962 | 🐛 10 | 📅 2026-08-09
 
 🌟 Join us in making data analysis more efficient! ![GitHub stars](https://img.shields.io/github/stars/PavelGrigoryevDS/awesome-data-analysis?style=social)
 
@@ -103,10 +103,10 @@ Maintained with ❤️
 
 Curated collections of high-quality GitHub repos for inspiration and learning.
 
-* [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) ⭐ 37,043 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-09-13 - Microsoft's data science curriculum.
-* [Awesome Data Science](https://github.com/academic/awesome-datascience) ⭐ 29,992 | 🐛 3 | 📅 2026-09-09 - A curated list of courses, books, tools, and resources for data science.
-* [OSSU Data Science](https://github.com/ossu/data-science) ⭐ 21,962 | 🐛 4 | 📅 2025-05-13 - Open Source Society University's self-study path.
-* [Data Science Using Python](https://github.com/WillKoehrsen/Data-Analysis) ⭐ 5,581 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2023-07-08 - Resources for data analysis using Python.
+* [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) ⭐ 37,092 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-09-13 - Microsoft's data science curriculum.
+* [Awesome Data Science](https://github.com/academic/awesome-datascience) ⭐ 30,000 | 🐛 5 | 📅 2026-09-09 - A curated list of courses, books, tools, and resources for data science.
+* [OSSU Data Science](https://github.com/ossu/data-science) ⭐ 21,964 | 🐛 4 | 📅 2025-05-13 - Open Source Society University's self-study path.
+* [Data Science Using Python](https://github.com/WillKoehrsen/Data-Analysis) ⭐ 5,582 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2023-07-08 - Resources for data analysis using Python.
 * [Data Science Articles from CodeCut](https://github.com/CodeCutTech/Data-science) ⚠️ Archived - A collection of articles, videos, and code related to data science.
 * [Data Science Best Resources](https://github.com/tirthajyoti/Data-science-best-resources) ⭐ 3,224 | 🐛 12 | 📅 2024-08-17 - Carefully curated links for data science resources in one place.
 
@@ -120,11 +120,11 @@ Curated collections of high-quality GitHub repos for inspiration and learning.
 
 Step-by-step guides and skill trees to master data science and analytics.
 
-* [Data Science Roadmap Tutorials](https://github.com/MrMimic/data-scientist-roadmap) ⭐ 7,389 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-02-11 - Tutorials for the data science roadmap.
-* [Data Science Roadmap from A to Z](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap) ⭐ 4,364 | 🐛 2 | 📅 2025-12-06 - Comprehensive roadmap for data science.
+* [Data Science Roadmap Tutorials](https://github.com/MrMimic/data-scientist-roadmap) ⭐ 7,387 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-02-11 - Tutorials for the data science roadmap.
+* [Data Science Roadmap from A to Z](https://github.com/Moataz-Elmesmary/Data-Science-Roadmap) ⭐ 4,368 | 🐛 2 | 📅 2025-12-06 - Comprehensive roadmap for data science.
 * [Roadmap To Learn Data Science](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2025) ⭐ 4,117 | 🐛 15 | 📅 2025-08-19 - A comprehensive and updated roadmap for learning data science with modern tools and technologies.
 * [66DaysOfData](https://github.com/mrankitgupta/Data-Analyst-Roadmap) ⭐ 1,055 | 🐛 4 | 📅 2024-06-14 - 66-day data analytics learning challenge.
-* [Data Analyst Roadmap from Zero](https://github.com/mtahiraslan/data-analyst-roadmap) ⭐ 1,046 | 🐛 2 | 📅 2025-10-14 - Guide to becoming a data analyst from scratch.
+* [Data Analyst Roadmap from Zero](https://github.com/mtahiraslan/data-analyst-roadmap) ⭐ 1,048 | 🐛 2 | 📅 2025-10-14 - Guide to becoming a data analyst from scratch.
 * [Data Analyst Roadmap for Professionals](https://github.com/hemansnation/Data-Analyst-Roadmap) ⭐ 189 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-07-27 - 8-week program for analysts at all levels.
 * [Data Analyst Roadmap](https://roadmap.sh/data-analyst) - Structured learning path for analysts.
 
@@ -142,15 +142,15 @@ Step-by-step guides and skill trees to master data science and analytics.
 
 A collection of resources for learning and mastering Python programming.
 
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 321,088 | 🐛 19 | 🌐 Python | 📅 2026-09-15 - An opinionated list of awesome Python frameworks, libraries, software, and resources.
-* [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) ⭐ 73,936 | 🐛 210 | 🌐 Python | 📅 2026-09-10 - A 30-day programming challenge to learn the Python programming language.
-* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) ⭐ 49,902 | 🐛 226 | 🌐 Jupyter Notebook | 📅 2024-06-26 - Full text of the "Python Data Science Handbook" in Jupyter Notebooks.
-* [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) ⭐ 31,817 | 🐛 75 | 🌐 Python | 📅 2024-05-08 - 120+ interactive Python coding interview challenges.
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 321,318 | 🐛 21 | 🌐 Python | 📅 2026-09-15 - An opinionated list of awesome Python frameworks, libraries, software, and resources.
+* [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) ⭐ 74,000 | 🐛 211 | 🌐 Python | 📅 2026-09-10 - A 30-day programming challenge to learn the Python programming language.
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) ⭐ 49,913 | 🐛 226 | 🌐 Jupyter Notebook | 📅 2024-06-26 - Full text of the "Python Data Science Handbook" in Jupyter Notebooks.
+* [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) ⭐ 31,821 | 🐛 75 | 🌐 Python | 📅 2024-05-08 - 120+ interactive Python coding interview challenges.
 * [Clean Code Python](https://github.com/zedr/clean-code-python) ⭐ 4,849 | 🐛 5 | 🌐 Python | 📅 2023-06-10 - Clean Code concepts adapted for Python.
-* [Best of Python](https://github.com/ml-tooling/best-of-python) ⭐ 4,602 | 🐛 50 | 📅 2026-09-10 - A ranked list of awesome Python open-source libraries and tools.
+* [Best of Python](https://github.com/ml-tooling/best-of-python) ⭐ 4,603 | 🐛 50 | 📅 2026-09-17 - A ranked list of awesome Python open-source libraries and tools.
 * [Awesome Python Data Science](https://github.com/krzjoa/awesome-python-data-science) ⭐ 3,592 | 🐛 21 | 📅 2026-04-13 - A curated list of Python resources for data science.
 * [Think Python](https://github.com/AllenDowney/ThinkPython) ⭐ 2,737 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-03-08 - Jupyter notebooks and other resources for Think Python by Allen Downey.
-* [Tanu N Prabhu Python](https://github.com/Tanu-N-Prabhu/Python/tree/master) ⭐ 2,287 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-09-16 - This repository helps you understand Python from scratch.
+* [Tanu N Prabhu Python](https://github.com/Tanu-N-Prabhu/Python/tree/master) ⭐ 2,287 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-09-17 - This repository helps you understand Python from scratch.
 * [Real Python Tutorials](https://realpython.com/) - Tutorials on Python from Real Python.
 * [GeeksforGeeks Python](https://www.geeksforgeeks.org/python-programming-language-tutorial/) - Python tutorial from GeeksforGeeks.
 * [W3Schools Python](https://www.w3schools.com/python/) - A beginner-friendly tutorial and reference for the Python programming language.
@@ -165,10 +165,10 @@ A collection of resources for learning and mastering Python programming.
 
 Tutorials and best practices for working with Pandas and Numpy.
 
-* [NumPy 100 Exercises](https://github.com/rougier/numpy-100) ⭐ 14,466 | 🐛 59 | 🌐 Python | 📅 2026-08-26 - A collection of 100 exercises to master the NumPy library for scientific computing.
-* [Pandas Exercises](https://github.com/guipsamora/pandas_exercises) ⭐ 13,088 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2025-10-17 - Exercises designed to help you improve your Pandas skills.
+* [NumPy 100 Exercises](https://github.com/rougier/numpy-100) ⭐ 14,471 | 🐛 59 | 🌐 Python | 📅 2026-08-26 - A collection of 100 exercises to master the NumPy library for scientific computing.
+* [Pandas Exercises](https://github.com/guipsamora/pandas_exercises) ⭐ 13,091 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2025-10-17 - Exercises designed to help you improve your Pandas skills.
 * [Pandas Cookbook](https://github.com/jvns/pandas-cookbook) ⭐ 7,117 | 🐛 33 | 🌐 Jupyter Notebook | 📅 2024-10-24 - A cookbook with various recipes for using Pandas effectively.
-* [100 data puzzles for pandas](https://github.com/ajcr/100-pandas-puzzles) ⭐ 3,032 | 🐛 36 | 🌐 Jupyter Notebook | 📅 2024-07-10 - A collection of data puzzles to practice your Pandas skills.
+* [100 data puzzles for pandas](https://github.com/ajcr/100-pandas-puzzles) ⭐ 3,033 | 🐛 36 | 🌐 Jupyter Notebook | 📅 2024-07-10 - A collection of data puzzles to practice your Pandas skills.
 * [From Python to Numpy](https://github.com/rougier/from-python-to-numpy) ⭐ 2,151 | 🐛 22 | 🌐 Python | 📅 2025-05-06 - An open-access book on vectorization and efficient numerical computing with NumPy.
 * [Effective Pandas](https://github.com/TomAugspurger/effective-pandas) ⭐ 1,563 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2022-12-14 - A series focused on writing effective and idiomatic Pandas code.
 * [Hands-On Data Analysis with Pandas](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition) ⭐ 732 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-04-11 - Materials for following along with Hands-On Data Analysis with Pandas.
@@ -189,18 +189,18 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 
 #### Data Processing & Transformation
 
-* [Pandas](https://github.com/pandas-dev/pandas) ⭐ 49,732 | 🐛 2,709 | 🌐 Python | 📅 2026-09-16 - Powerful Python library for data analysis and manipulation with flexible data structures.
-* [Polars](https://github.com/pola-rs/polars) ⭐ 39,744 | 🐛 2,900 | 🌐 Rust | 📅 2026-09-16 - Multithreaded, vectorized query engine for DataFrames.
-* [NumPy](https://github.com/numpy/numpy) ⭐ 32,753 | 🐛 2,283 | 🌐 Python | 📅 2026-09-16 - Fundamental package for scientific computing in Python with multidimensional array support.
-* [Dask](https://github.com/dask/dask) ⭐ 13,919 | 🐛 1,335 | 🌐 Python | 📅 2026-08-24 - Parallel computing for arrays and DataFrames.
-* [CuPy](https://github.com/cupy/cupy) ⭐ 12,328 | 🐛 691 | 🌐 Python | 📅 2026-09-15 - A NumPy-compatible array library accelerated by NVIDIA CUDA for high-performance computing.
-* [Numba](https://github.com/numba/numba) ⭐ 11,153 | 🐛 1,794 | 🌐 Python | 📅 2026-09-16 - A JIT compiler that translates a subset of Python and NumPy code into fast machine code.
-* [Modin](https://github.com/modin-project/modin) ⭐ 10,390 | 🐛 715 | 🌐 Python | 📅 2026-02-10 - Speeds up Pandas by distributing computations.
+* [Pandas](https://github.com/pandas-dev/pandas) ⭐ 49,739 | 🐛 2,697 | 🌐 Python | 📅 2026-09-17 - Powerful Python library for data analysis and manipulation with flexible data structures.
+* [Polars](https://github.com/pola-rs/polars) ⭐ 39,764 | 🐛 2,898 | 🌐 Rust | 📅 2026-09-17 - Multithreaded, vectorized query engine for DataFrames.
+* [NumPy](https://github.com/numpy/numpy) ⭐ 32,763 | 🐛 2,289 | 🌐 Python | 📅 2026-09-17 - Fundamental package for scientific computing in Python with multidimensional array support.
+* [Dask](https://github.com/dask/dask) ⭐ 13,921 | 🐛 1,337 | 🌐 Python | 📅 2026-08-24 - Parallel computing for arrays and DataFrames.
+* [CuPy](https://github.com/cupy/cupy) ⭐ 12,327 | 🐛 690 | 🌐 Python | 📅 2026-09-17 - A NumPy-compatible array library accelerated by NVIDIA CUDA for high-performance computing.
+* [Numba](https://github.com/numba/numba) ⭐ 11,155 | 🐛 1,791 | 🌐 Python | 📅 2026-09-17 - A JIT compiler that translates a subset of Python and NumPy code into fast machine code.
+* [Modin](https://github.com/modin-project/modin) ⭐ 10,391 | 🐛 715 | 🌐 Python | 📅 2026-02-10 - Speeds up Pandas by distributing computations.
 * [Arrow](https://github.com/arrow-py/arrow) ⭐ 9,049 | 🐛 201 | 🌐 Python | 📅 2026-06-22 - Enhanced work with dates and times.
 * [Vaex](https://github.com/vaexio/vaex) ⭐ 8,508 | 🐛 552 | 🌐 Python | 📅 2026-04-01 - High-performance Python library for lazy Out-of-Core DataFrames.
-* [Pendulum](https://github.com/sdispater/pendulum) ⭐ 6,674 | 🐛 275 | 🌐 Python | 📅 2026-08-20 - Alternative to datetime with timezone support.
+* [Pendulum](https://github.com/sdispater/pendulum) ⭐ 6,675 | 🐛 275 | 🌐 Python | 📅 2026-08-20 - Alternative to datetime with timezone support.
 * [Pandarallel](https://github.com/nalepae/pandarallel) ⭐ 3,798 | 🐛 99 | 🌐 Python | 📅 2024-07-09 - Parallel operations for pandas DataFrames.
-* [TheFuzz](https://github.com/seatgeek/thefuzz) ⭐ 3,648 | 🐛 47 | 🌐 Python | 📅 2025-03-03 - Fuzzy string matching (Levenshtein distance).
+* [TheFuzz](https://github.com/seatgeek/thefuzz) ⭐ 3,649 | 🐛 47 | 🌐 Python | 📅 2025-03-03 - Fuzzy string matching (Levenshtein distance).
 * [Pandas DataReader](https://github.com/pydata/pandas-datareader) ⭐ 3,269 | 🐛 147 | 🌐 Python | 📅 2026-07-21 - Reads data from various online sources into pandas DataFrames.
 * [Sklearn Pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) ⭐ 2,841 | 🐛 43 | 🌐 Python | 📅 2023-06-08 - Bridge between Pandas and Scikit-learn.
 * [DateUtil](https://github.com/dateutil/dateutil) ⭐ 2,634 | 🐛 490 | 🌐 Python | 📅 2026-05-19 - Extensions for standard Python datetime features.
@@ -219,19 +219,19 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 
 #### Automated EDA and Visualization Tools
 
-* [PandasAI](https://github.com/sinaptik-ai/pandas-ai) ⭐ 23,798 | 🐛 23 | 🌐 Python | 📅 2025-10-28 - Conversational data analysis using LLMs and RAG.
-* [PyGWalker](https://github.com/Kanaries/pygwalker) ⭐ 15,970 | 🐛 68 | 🌐 Python | 📅 2026-09-05 - Interactive UIs for visual analysis of DataFrames.
+* [PandasAI](https://github.com/sinaptik-ai/pandas-ai) ⭐ 23,800 | 🐛 23 | 🌐 Python | 📅 2025-10-28 - Conversational data analysis using LLMs and RAG.
+* [PyGWalker](https://github.com/Kanaries/pygwalker) ⭐ 15,971 | 🐛 68 | 🌐 Python | 📅 2026-09-05 - Interactive UIs for visual analysis of DataFrames.
 * [YData Profiling](https://github.com/ydataai/ydata-profiling) ⭐ 13,697 | 🐛 327 | 🌐 Python | 📅 2026-09-11 - Data quality profiling & exploratory data analysis.
-* [Lux](https://github.com/lux-org/lux) ⭐ 5,375 | 🐛 90 | 🌐 Python | 📅 2024-03-20 - Automatic DataFrame visualization in Jupyter.
+* [Lux](https://github.com/lux-org/lux) ⭐ 5,376 | 🐛 90 | 🌐 Python | 📅 2024-03-20 - Automatic DataFrame visualization in Jupyter.
 * [D-Tale](https://github.com/man-group/dtale) ⭐ 5,223 | 🐛 71 | 🌐 TypeScript | 📅 2026-07-24 - Interactive GUI for data analysis in a browser.
-* [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ⭐ 4,403 | 🐛 117 | 🌐 Python | 📅 2025-02-19 - Visual diagnostic tools for machine learning.
+* [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ⭐ 4,404 | 🐛 117 | 🌐 Python | 📅 2025-02-19 - Visual diagnostic tools for machine learning.
 * [Missingno](https://github.com/ResidentMario/missingno) ⭐ 4,213 | 🐛 14 | 🌐 Python | 📅 2024-05-14 - Visualize missing data patterns.
-* [Vizro](https://github.com/mckinsey/vizro) ⭐ 3,791 | 🐛 36 | 🌐 Python | 📅 2026-09-16 - Low-code toolkit for building data visualization apps.
+* [Vizro](https://github.com/mckinsey/vizro) ⭐ 3,791 | 🐛 37 | 🌐 Python | 📅 2026-09-17 - Low-code toolkit for building data visualization apps.
 * [Datashader](https://github.com/holoviz/datashader) ⭐ 3,561 | 🐛 143 | 🌐 Python | 📅 2026-08-19 - Quickly and accurately render even the largest data.
 * [Pandasgui](https://github.com/adamerose/pandasgui) ⭐ 3,257 | 🐛 82 | 🌐 Python | 📅 2025-05-30 - GUI for viewing and filtering DataFrames.
 * [Sweetviz](https://github.com/fbdesignpro/sweetviz) ⭐ 3,127 | 🐛 41 | 🌐 Python | 📅 2026-04-11 - Automatic EDA with dataset comparison.
 * [QGrid](https://github.com/quantopian/qgrid) ⭐ 3,081 | 🐛 181 | 🌐 Python | 📅 2024-01-12 - Interactive grid for DataFrames in Jupyter.
-* [Great Tables](https://github.com/posit-dev/great-tables) ⭐ 2,732 | 🐛 107 | 🌐 Python | 📅 2026-09-14 - Create awesome display tables using Python.
+* [Great Tables](https://github.com/posit-dev/great-tables) ⭐ 2,732 | 🐛 109 | 🌐 Python | 📅 2026-09-14 - Create awesome display tables using Python.
 * [Mito](https://github.com/mito-ds/mito) ⭐ 2,648 | 🐛 293 | 🌐 Jupyter Notebook | 📅 2026-07-21 - Jupyter extensions for faster code writing.
 * [AutoViz](https://github.com/AutoViML/AutoViz) ⭐ 1,898 | 🐛 2 | 🌐 Python | 📅 2024-06-10 - Automatic data visualization in 1 line of code.
 * [DataMapPlot](https://github.com/TutteInstitute/datamapplot) ⭐ 1,025 | 🐛 48 | 🌐 Python | 📅 2026-09-11 - Create beautiful plots of data maps.
@@ -245,11 +245,11 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 
 #### Data Quality & Validation
 
-* [Pydantic](https://github.com/pydantic/pydantic) ⭐ 28,782 | 🐛 580 | 🌐 Python | 📅 2026-09-16 - Data validation using Python type annotations.
-* [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,796 | 🐛 41 | 🌐 Python | 📅 2026-09-16 - Data validation and testing.
-* [PyOD](https://github.com/yzhao062/pyod) ⭐ 10,008 | 🐛 237 | 🌐 Python | 📅 2026-09-16 - Outlier and anomaly detection.
-* [Pandera](https://github.com/unionai-oss/pandera) ⭐ 4,455 | 🐛 425 | 🌐 Python | 📅 2026-09-14 - Data validation through declarative schemas.
-* [Cerberus](https://github.com/pyeve/cerberus) ⭐ 3,281 | 🐛 25 | 🌐 Python | 📅 2026-07-01 - Data validation through schemas.
+* [Pydantic](https://github.com/pydantic/pydantic) ⭐ 28,812 | 🐛 577 | 🌐 Python | 📅 2026-09-17 - Data validation using Python type annotations.
+* [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,797 | 🐛 45 | 🌐 Python | 📅 2026-09-17 - Data validation and testing.
+* [PyOD](https://github.com/yzhao062/pyod) ⭐ 10,008 | 🐛 235 | 🌐 Python | 📅 2026-09-17 - Outlier and anomaly detection.
+* [Pandera](https://github.com/unionai-oss/pandera) ⭐ 4,457 | 🐛 426 | 🌐 Python | 📅 2026-09-14 - Data validation through declarative schemas.
+* [Cerberus](https://github.com/pyeve/cerberus) ⭐ 3,281 | 🐛 26 | 🌐 Python | 📅 2026-07-01 - Data validation through schemas.
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,549 | 🐛 146 | 🌐 Jupyter Notebook | 📅 2025-12-11 - Outlier, adversarial and drift detection.
 * [Dora](https://github.com/NathanEpstein/Dora) ⭐ 648 | 🐛 0 | 🌐 Python | 📅 2025-08-05 - Automate EDA: preprocessing, feature engineering, visualization.
 
@@ -261,12 +261,12 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 
 #### Feature Engineering & Selection
 
-* [FeatureTools](https://github.com/alteryx/featuretools) ⭐ 7,677 | 🐛 171 | 🌐 Python | 📅 2026-09-11 - Automated feature engineering.
-* [Imbalanced Learn](https://github.com/scikit-learn-contrib/imbalanced-learn) ⭐ 7,121 | 🐛 90 | 🌐 Python | 📅 2026-06-29 - Handling imbalanced datasets.
+* [FeatureTools](https://github.com/alteryx/featuretools) ⭐ 7,678 | 🐛 171 | 🌐 Python | 📅 2026-09-11 - Automated feature engineering.
+* [Imbalanced Learn](https://github.com/scikit-learn-contrib/imbalanced-learn) ⭐ 7,121 | 🐛 91 | 🌐 Python | 📅 2026-06-29 - Handling imbalanced datasets.
 * [Category Encoders](https://github.com/scikit-learn-contrib/category_encoders) ⭐ 2,502 | 🐛 2 | 🌐 Python | 📅 2026-09-08 - Extensive collection of categorical variable encoders.
 * [Feature Engine](https://github.com/feature-engine/feature_engine) ⭐ 2,280 | 🐛 92 | 🌐 Python | 📅 2026-09-16 - Feature engineering with Scikit-Learn compatibility.
-* [Feature Selector](https://github.com/WillKoehrsen/feature-selector) ⭐ 2,228 | 🐛 42 | 🌐 Jupyter Notebook | 📅 2024-06-17 - Tool for dimensionality reduction of machine learning datasets.
-* [Prince](https://github.com/MaxHalford/prince) ⭐ 1,484 | 🐛 10 | 🌐 Python | 📅 2026-09-03 - Multivariate exploratory data analysis (PCA, CA, MCA).
+* [Feature Selector](https://github.com/WillKoehrsen/feature-selector) ⭐ 2,227 | 🐛 42 | 🌐 Jupyter Notebook | 📅 2024-06-17 - Tool for dimensionality reduction of machine learning datasets.
+* [Prince](https://github.com/MaxHalford/prince) ⭐ 1,485 | 🐛 5 | 🌐 Python | 📅 2026-09-17 - Multivariate exploratory data analysis (PCA, CA, MCA).
 * [Fitter](https://github.com/cokelaer/fitter) ⭐ 412 | 🐛 25 | 🌐 Python | 📅 2026-03-07 - Figures out the distribution your data comes from.
 
 [⬆ back to contents](#contents)
@@ -277,19 +277,19 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 
 #### Specialized Data Tools
 
-* [Faker](https://github.com/joke2k/faker) ⭐ 19,402 | 🐛 25 | 🌐 Python | 📅 2026-09-15 - Generates fake data for testing.
-* [NetworkX](https://github.com/networkx/networkx) ⭐ 17,262 | 🐛 312 | 🌐 Python | 📅 2026-09-16 - Network analysis and graph theory.
-* [cuDF](https://github.com/rapidsai/cudf) ⭐ 9,752 | 🐛 1,330 | 🌐 C++ | 📅 2026-09-16 - A GPU DataFrame library for loading, joining, and aggregating data.
+* [Faker](https://github.com/joke2k/faker) ⭐ 19,403 | 🐛 25 | 🌐 Python | 📅 2026-09-15 - Generates fake data for testing.
+* [NetworkX](https://github.com/networkx/networkx) ⭐ 17,266 | 🐛 314 | 🌐 Python | 📅 2026-09-17 - Network analysis and graph theory.
+* [cuDF](https://github.com/rapidsai/cudf) ⭐ 9,752 | 🐛 1,336 | 🌐 C++ | 📅 2026-09-17 - A GPU DataFrame library for loading, joining, and aggregating data.
 * [Geopandas](https://github.com/geopandas/geopandas) ⭐ 5,250 | 🐛 422 | 🌐 Python | 📅 2026-09-16 - Geographic data operations with pandas.
 * [Geopy](https://github.com/geopy/geopy) ⭐ 4,862 | 🐛 54 | 🌐 Python | 📅 2026-07-12 - Geocoding addresses and calculating distances.
 * [Mimesis](https://github.com/lk-geimfari/mimesis) ⭐ 4,843 | 🐛 15 | 🌐 Python | 📅 2026-09-07 - Generates realistic test data.
-* [Joblib](https://github.com/joblib/joblib) ⭐ 4,394 | 🐛 437 | 🌐 Python | 📅 2026-09-15 - A lightweight pipelining library for Python, particularly useful for saving and loading large NumPy arrays.
+* [Joblib](https://github.com/joblib/joblib) ⭐ 4,394 | 🐛 436 | 🌐 Python | 📅 2026-09-15 - A lightweight pipelining library for Python, particularly useful for saving and loading large NumPy arrays.
 * [Texthero](https://github.com/jbesomi/texthero) ⭐ 2,906 | 🐛 82 | 🌐 Python | 📅 2023-08-29 - Text preprocessing, representation and visualization.
 * [Chardet](https://github.com/chardet/chardet) ⭐ 2,667 | 🐛 0 | 🌐 Python | 📅 2026-08-30 - Python library to detect the character encoding of text and files.
 * [Scattertext](https://github.com/JasonKessler/scattertext) ⭐ 2,343 | 🐛 23 | 🌐 Python | 📅 2026-07-04 - Beautiful visualizations of language differences among document types.
 * [IGraph](https://github.com/igraph/igraph) ⭐ 2,008 | 🐛 282 | 🌐 C | 📅 2026-09-14 - A library for creating and manipulating graphs and networks, with bindings for multiple languages.
-* [ImageIO](https://github.com/imageio/imageio) ⭐ 1,714 | 🐛 137 | 🌐 Python | 📅 2026-08-15 - A library that provides an easy interface to read and write a wide range of image data.
-* [PySAL](https://github.com/pysal/pysal) ⭐ 1,522 | 🐛 24 | 🌐 Python | 📅 2026-08-03 - Spatial analysis functions.
+* [ImageIO](https://github.com/imageio/imageio) ⭐ 1,714 | 🐛 138 | 🌐 Python | 📅 2026-08-15 - A library that provides an easy interface to read and write a wide range of image data.
+* [PySAL](https://github.com/pysal/pysal) ⭐ 1,523 | 🐛 24 | 🌐 Python | 📅 2026-08-03 - Spatial analysis functions.
 
 [⬆ back to contents](#contents)
 
@@ -305,15 +305,15 @@ A collection of Python libraries for efficient data manipulation, cleaning, visu
 
 SQL tutorials and database design principles.
 
-* [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,091 | 🐛 71 | 📅 2026-08-31 - A curated list of awesome PostgreSQL software, libraries, tools and resources.
-* [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning) ⭐ 11,018 | 🐛 16 | 📅 2024-08-29 - Educational resources on database internals, distributed systems, and storage.
-* [Awesome SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy) ⭐ 3,057 | 🐛 10 | 🌐 Python | 📅 2026-06-08 - A curated list of awesome tools for SQLAlchemy.
-* [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb) ⭐ 2,677 | 🐛 11 | 📅 2026-08-26 - A curated list of awesome MongoDB resources, libraries, tools, and applications.
+* [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,096 | 🐛 72 | 📅 2026-08-31 - A curated list of awesome PostgreSQL software, libraries, tools and resources.
+* [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning) ⭐ 11,022 | 🐛 16 | 📅 2024-08-29 - Educational resources on database internals, distributed systems, and storage.
+* [Awesome SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy) ⭐ 3,058 | 🐛 10 | 🌐 Python | 📅 2026-06-08 - A curated list of awesome tools for SQLAlchemy.
+* [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb) ⭐ 2,676 | 🐛 12 | 📅 2026-08-26 - A curated list of awesome MongoDB resources, libraries, tools, and applications.
 * [Awesome MySql](https://github.com/shlomi-noach/awesome-mysql) ⭐ 2,614 | 🐛 18 | 🌐 Python | 📅 2026-09-14 - A curated list of awesome MySQL software, libraries, tools and resources.
-* [Awesome Duckdb](https://github.com/davidgasquez/awesome-duckdb) ⭐ 2,490 | 🐛 2 | 📅 2026-09-14 - Curated tools, resources, and extensions for DuckDB analytical database.
+* [Awesome Duckdb](https://github.com/davidgasquez/awesome-duckdb) ⭐ 2,490 | 🐛 2 | 📅 2026-09-17 - Curated tools, resources, and extensions for DuckDB analytical database.
 * [SQL Tips and Tricks](https://github.com/ben-nour/SQL-tips-and-tricks) ⭐ 2,304 | 🐛 2 | 🌐 SQL | 📅 2025-11-23 - Useful SQL techniques and optimizations for data analysis.
 * [Awesome Sql](https://github.com/danhuss/awesome-sql) ⭐ 452 | 🐛 27 | 📅 2026-04-25 - List of tools and techniques for working with relational databases.
-* [Awesome Clickhouse](https://github.com/korchasa/awesome-clickhouse) ⭐ 199 | 🐛 0 | 🌐 HTML | 📅 2026-09-14 - A curated list of awesome ClickHouse software.
+* [Awesome Clickhouse](https://github.com/korchasa/awesome-clickhouse) ⭐ 199 | 🐛 0 | 🌐 HTML | 📅 2026-09-17 - A curated list of awesome ClickHouse software.
 * [SQLZoo - SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial) - Interactive SQL tutorial.
 * [SQL Bolt - Learn SQL](https://sqlbolt.com/) - Learn SQL through interactive lessons.
 * [SQL Tutorial](https://www.sqltutorial.org/) - Comprehensive SQL tutorial resource.
@@ -335,23 +335,23 @@ SQL tutorials and database design principles.
 
 Popular open-source database systems for a variety of use cases and data models.
 
-* [Redis](https://github.com/redis/redis) ⭐ 76,386 | 🐛 2,956 | 🌐 C | 📅 2026-09-16 – In‑memory data structure store used as database, cache, and message broker.
-* [ClickHouse](https://github.com/ClickHouse/ClickHouse) ⭐ 49,930 | 🐛 7,696 | 🌐 C++ | 📅 2026-09-16 – Columnar database for real‑time analytics on large datasets.
-* [DuckDB](https://github.com/duckdb/duckdb) ⭐ 41,319 | 🐛 876 | 🌐 C++ | 📅 2026-09-16 – In‑process analytical database designed for fast OLAP queries.
-* [CockroachDB](https://github.com/cockroachdb/cockroach) ⭐ 32,521 | 🐛 8,432 | 🌐 Go | 📅 2026-09-16 – Distributed SQL database with strong consistency and horizontal scaling.
-* [InfluxDB](https://github.com/influxdata/influxdb) ⭐ 31,743 | 🐛 2,176 | 🌐 Rust | 📅 2026-09-16 – Purpose‑built time‑series database for metrics and events.
-* [MongoDB](https://github.com/mongodb/mongo) ⭐ 28,561 | 🐛 34 | 🌐 C++ | 📅 2026-09-14 – Document database with a flexible, JSON‑like data model.
-* [TDengine](https://github.com/taosdata/TDengine) ⭐ 25,118 | 🐛 434 | 🌐 C | 📅 2026-09-16 – Time‑series database for IoT, vehicles, and industrial monitoring.
-* [TimescaleDB](https://github.com/timescale/timescaledb) ⭐ 23,531 | 🐛 391 | 🌐 C | 📅 2026-09-16 – Time‑series SQL database built on PostgreSQL.
-* [PostgreSQL](https://github.com/postgres/postgres) ⭐ 22,123 | 🐛 0 | 🌐 C | 📅 2026-09-16 – Advanced open‑source relational database with extensibility and SQL compliance.
-* [Neo4j](https://github.com/neo4j/neo4j) ⭐ 17,233 | 🐛 248 | 🌐 Java | 📅 2026-09-10 – Native graph database for connected data and relationships.
-* [ScyllaDB](https://github.com/scylladb/scylla) ⭐ 15,762 | 🐛 3,667 | 🌐 C++ | 📅 2026-09-16 – Drop‑in Cassandra alternative written in C++ for higher performance.
-* [MySQL](https://github.com/mysql/mysql-server) ⭐ 12,431 | 🐛 58 | 🌐 C++ | 📅 2026-09-11 – Widely used relational database management system (Oracle’s community version).
-* [SQLite](https://github.com/sqlite/sqlite) ⭐ 10,493 | 🐛 23 | 🌐 C | 📅 2026-09-16 – Embedded, file‑based SQL engine, the most used database in the world.
-* [Cassandra](https://github.com/apache/cassandra) ⭐ 10,095 | 🐛 528 | 🌐 Java | 📅 2026-09-16 – Highly scalable, distributed NoSQL database for large‑scale deployments.
-* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,234 | 🐛 488 | 🌐 C++ | 📅 2026-09-16 – Community developed fork of MySQL with enhanced features.
-* [Apache HBase](https://github.com/apache/hbase) ⭐ 5,558 | 🐛 407 | 🌐 Java | 📅 2026-09-16 – Distributed, scalable, big data store modeled after Google's Bigtable, running on top of HDFS.
-* [Apache Cloudberry](https://github.com/apache/cloudberry) ⭐ 1,405 | 🐛 237 | 🌐 C | 📅 2026-09-16 - A mature open-source MPP database evolved from Greenplum with a newer PostgreSQL kernel.
+* [Redis](https://github.com/redis/redis) ⭐ 76,396 | 🐛 2,954 | 🌐 C | 📅 2026-09-17 – In‑memory data structure store used as database, cache, and message broker.
+* [ClickHouse](https://github.com/ClickHouse/ClickHouse) ⭐ 49,951 | 🐛 7,755 | 🌐 C++ | 📅 2026-09-17 – Columnar database for real‑time analytics on large datasets.
+* [DuckDB](https://github.com/duckdb/duckdb) ⭐ 41,446 | 🐛 896 | 🌐 C++ | 📅 2026-09-17 – In‑process analytical database designed for fast OLAP queries.
+* [CockroachDB](https://github.com/cockroachdb/cockroach) ⭐ 32,473 | 🐛 8,428 | 🌐 Go | 📅 2026-09-16 – Distributed SQL database with strong consistency and horizontal scaling.
+* [InfluxDB](https://github.com/influxdata/influxdb) ⭐ 31,747 | 🐛 2,179 | 🌐 Rust | 📅 2026-09-17 – Purpose‑built time‑series database for metrics and events.
+* [MongoDB](https://github.com/mongodb/mongo) ⭐ 28,565 | 🐛 36 | 🌐 C++ | 📅 2026-09-17 – Document database with a flexible, JSON‑like data model.
+* [TDengine](https://github.com/taosdata/TDengine) ⭐ 25,121 | 🐛 434 | 🌐 C | 📅 2026-09-17 – Time‑series database for IoT, vehicles, and industrial monitoring.
+* [TimescaleDB](https://github.com/timescale/timescaledb) ⭐ 23,540 | 🐛 394 | 🌐 C | 📅 2026-09-17 – Time‑series SQL database built on PostgreSQL.
+* [PostgreSQL](https://github.com/postgres/postgres) ⭐ 22,130 | 🐛 0 | 🌐 C | 📅 2026-09-17 – Advanced open‑source relational database with extensibility and SQL compliance.
+* [Neo4j](https://github.com/neo4j/neo4j) ⭐ 17,242 | 🐛 248 | 🌐 Java | 📅 2026-09-10 – Native graph database for connected data and relationships.
+* [ScyllaDB](https://github.com/scylladb/scylla) ⭐ 15,763 | 🐛 3,691 | 🌐 C++ | 📅 2026-09-17 – Drop‑in Cassandra alternative written in C++ for higher performance.
+* [MySQL](https://github.com/mysql/mysql-server) ⭐ 12,430 | 🐛 60 | 🌐 C++ | 📅 2026-09-11 – Widely used relational database management system (Oracle’s community version).
+* [SQLite](https://github.com/sqlite/sqlite) ⭐ 10,498 | 🐛 23 | 🌐 C | 📅 2026-09-17 – Embedded, file‑based SQL engine, the most used database in the world.
+* [Cassandra](https://github.com/apache/cassandra) ⭐ 10,096 | 🐛 528 | 🌐 Java | 📅 2026-09-17 – Highly scalable, distributed NoSQL database for large‑scale deployments.
+* [MariaDB](https://github.com/MariaDB/server) ⭐ 8,237 | 🐛 489 | 🌐 C++ | 📅 2026-09-17 – Community developed fork of MySQL with enhanced features.
+* [Apache HBase](https://github.com/apache/hbase) ⭐ 5,559 | 🐛 405 | 🌐 Java | 📅 2026-09-17 – Distributed, scalable, big data store modeled after Google's Bigtable, running on top of HDFS.
+* [Apache Cloudberry](https://github.com/apache/cloudberry) ⭐ 1,407 | 🐛 241 | 🌐 C | 📅 2026-09-17 - A mature open-source MPP database evolved from Greenplum with a newer PostgreSQL kernel.
 
 [⬆ back to contents](#contents)
 
@@ -363,21 +363,21 @@ Popular open-source database systems for a variety of use cases and data models.
 
 A collection of libraries and drivers for seamless database access and interaction.
 
-* [DBeaver](https://github.com/dbeaver/dbeaver) ⭐ 51,783 | 🐛 3,328 | 🌐 Java | 📅 2026-09-16 - A free universal database tool and SQL client for developers, SQL programmers, and administrators.
-* [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) ⭐ 24,602 | 🐛 838 | 🌐 C++ | 📅 2026-09-16 - A high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
+* [DBeaver](https://github.com/dbeaver/dbeaver) ⭐ 51,791 | 🐛 3,321 | 🌐 Java | 📅 2026-09-17 - A free universal database tool and SQL client for developers, SQL programmers, and administrators.
+* [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) ⭐ 24,604 | 🐛 838 | 🌐 C++ | 📅 2026-09-17 - A high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
 * [Vanna.AI](https://github.com/vanna-ai/vanna) ⚠️ Archived - An AI-powered tool for generating SQL queries from natural language questions.
-* [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) ⭐ 23,617 | 🐛 1,156 | 🌐 TypeScript | 📅 2026-09-16 - A modern, easy-to-use SQL client and database manager with a clean, cross-platform interface.
-* [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) ⭐ 12,162 | 🐛 209 | 🌐 Python | 📅 2026-09-15 - SQL toolkit and ORM for Python.
-* [SQLFluff](https://github.com/sqlfluff/sqlfluff) ⭐ 9,875 | 🐛 333 | 🌐 Python | 📅 2026-09-13 - A modular SQL linter and auto-formatter designed to enforce consistent style and catch errors in SQL code.
-* [SQLGlot](https://github.com/tobymao/sqlglot) ⭐ 9,623 | 🐛 6 | 🌐 Python | 📅 2026-09-16 - A no-dependency SQL parser, transpiler, and optimizer for Python.
-* [PyMySQL](https://github.com/PyMySQL/PyMySQL) ⭐ 7,843 | 🐛 16 | 🌐 Python | 📅 2026-09-11 - A pure-Python MySQL client library for interacting with MySQL databases from Python applications.
+* [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) ⭐ 23,624 | 🐛 1,156 | 🌐 TypeScript | 📅 2026-09-17 - A modern, easy-to-use SQL client and database manager with a clean, cross-platform interface.
+* [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) ⭐ 12,165 | 🐛 209 | 🌐 Python | 📅 2026-09-15 - SQL toolkit and ORM for Python.
+* [SQLFluff](https://github.com/sqlfluff/sqlfluff) ⭐ 9,877 | 🐛 329 | 🌐 Python | 📅 2026-09-17 - A modular SQL linter and auto-formatter designed to enforce consistent style and catch errors in SQL code.
+* [SQLGlot](https://github.com/tobymao/sqlglot) ⭐ 9,625 | 🐛 10 | 🌐 Python | 📅 2026-09-17 - A no-dependency SQL parser, transpiler, and optimizer for Python.
+* [PyMySQL](https://github.com/PyMySQL/PyMySQL) ⭐ 7,845 | 🐛 16 | 🌐 Python | 📅 2026-09-17 - A pure-Python MySQL client library for interacting with MySQL databases from Python applications.
 * [Records](https://github.com/kennethreitz-archive/records) ⭐ 7,219 | 🐛 50 | 🌐 Python | 📅 2026-02-09 - SQL queries to databases via Python syntax.
-* [SQLChat](https://github.com/sqlchat/sqlchat) ⭐ 5,848 | 🐛 24 | 🌐 TypeScript | 📅 2026-04-21 - A chat-based SQL client that allows you to query databases using natural language conversations.
+* [SQLChat](https://github.com/sqlchat/sqlchat) ⭐ 5,848 | 🐛 22 | 🌐 TypeScript | 📅 2026-04-21 - A chat-based SQL client that allows you to query databases using natural language conversations.
 * [Dataset](https://github.com/pudo/dataset) ⭐ 4,870 | 🐛 22 | 🌐 Python | 📅 2026-07-22 - JSON-like interface for working with SQL databases.
-* [PyMongo](https://github.com/mongodb/mongo-python-driver) ⭐ 4,355 | 🐛 15 | 🌐 Python | 📅 2026-09-16 - Official MongoDB driver for Python.
+* [PyMongo](https://github.com/mongodb/mongo-python-driver) ⭐ 4,355 | 🐛 14 | 🌐 Python | 📅 2026-09-17 - Official MongoDB driver for Python.
 * [PonyORM](https://github.com/ponyorm/pony) ⭐ 3,818 | 🐛 358 | 🌐 Python | 📅 2026-08-10 - ORM for Python with dynamic query generation.
 * [Psycopg2](https://github.com/psycopg/psycopg2) ⭐ 3,654 | 🐛 16 | 🌐 C | 📅 2026-09-10 - PostgreSQL database adapter.
-* [PyODBC](https://github.com/mkleehammer/pyodbc) ⭐ 3,080 | 🐛 60 | 🌐 C++ | 📅 2026-06-06 - Python library for ODBC database access.
+* [PyODBC](https://github.com/mkleehammer/pyodbc) ⭐ 3,081 | 🐛 60 | 🌐 C++ | 📅 2026-06-06 - Python library for ODBC database access.
 * [SQLiteviz](https://github.com/lana-k/sqliteviz) ⭐ 2,354 | 🐛 20 | 🌐 JavaScript | 📅 2026-07-26 - A tool for exploring SQLite databases and visualizing the results of your queries.
 * [MySQL Connector/Python](https://github.com/mysql/mysql-connector-python) ⭐ 957 | 🐛 1 | 🌐 Python | 📅 2026-07-29 - MySQL driver for Python.
 * [DBConvert Streams](https://streams.dbconvert.com/) - Database IDE for exploring, migrating, and syncing PostgreSQL, MySQL, files, and S3.
@@ -396,11 +396,11 @@ A collection of libraries and drivers for seamless database access and interacti
 
 Color theory, chart selection guides, and storytelling tips.
 
-* [Scientific Visualization Book](https://github.com/rougier/scientific-visualization-book) ⭐ 11,540 | 🐛 18 | 🌐 Python | 📅 2026-01-04 - Guide to creating effective scientific visualizations and plots.
+* [Scientific Visualization Book](https://github.com/rougier/scientific-visualization-book) ⭐ 11,543 | 🐛 18 | 🌐 Python | 📅 2026-01-04 - Guide to creating effective scientific visualizations and plots.
 * [Friends Don't Let Friends](https://github.com/cxli233/FriendsDontLetFriends) ⭐ 7,108 | 🐛 12 | 🌐 R | 📅 2025-09-03 - A collection of bad data visualization practices and better alternatives.
-* [Awesome DataViz](https://github.com/hal9ai/awesome-dataviz) ⭐ 4,413 | 🐛 40 | 📅 2024-01-26 - A curated list of awesome data visualization libraries, tools, and resources.
+* [Awesome DataViz](https://github.com/hal9ai/awesome-dataviz) ⭐ 4,412 | 🐛 44 | 📅 2024-01-26 - A curated list of awesome data visualization libraries, tools, and resources.
 * [Visualization Curriculum](https://github.com/uwdata/visualization-curriculum) ⭐ 1,369 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-05-20 - Interactive notebooks designed to teach data visualization concepts.
-* [From Data to Viz](https://github.com/holtzy/data_to_viz) ⭐ 1,134 | 🐛 96 | 🌐 HTML | 📅 2024-10-18 - A guide to choosing the right visualization based on your data.
+* [From Data to Viz](https://github.com/holtzy/data_to_viz) ⭐ 1,135 | 🐛 96 | 🌐 HTML | 📅 2024-10-18 - A guide to choosing the right visualization based on your data.
 * [The Python Graph Gallery](https://python-graph-gallery.com/) - A collection of Python graph examples for data visualization.
 * [FlowingData](https://flowingdata.com/) - Insights on data analysis and visualization.
 * [Data Visualization Catalogue](https://datavizcatalogue.com/index.html) - A comprehensive catalog of data visualization types.
@@ -424,14 +424,14 @@ Color theory, chart selection guides, and storytelling tips.
 
 Libraries for static, interactive, and 3D visualizations.
 
-* [Apache ECharts](https://github.com/apache/echarts) ⭐ 67,338 | 🐛 1,502 | 🌐 TypeScript | 📅 2026-09-16 - A powerful, interactive charting and visualization library for browser-based applications.
-* [Deck.gl](https://github.com/visgl/deck.gl) ⭐ 14,594 | 🐛 534 | 🌐 TypeScript | 📅 2026-09-16 - A WebGL-powered framework for visual exploratory data analysis of large datasets.
-* [QGIS](https://github.com/qgis/QGIS) ⭐ 14,389 | 🐛 5,495 | 🌐 C++ | 📅 2026-09-16 - Free, open source, cross-platform geographic information system (GIS).
-* [Altair](https://github.com/vega/altair) ⭐ 10,473 | 🐛 150 | 🌐 Python | 📅 2026-09-16 - A declarative statistical visualization library for Python.
+* [Apache ECharts](https://github.com/apache/echarts) ⭐ 67,345 | 🐛 1,502 | 🌐 TypeScript | 📅 2026-09-16 - A powerful, interactive charting and visualization library for browser-based applications.
+* [Deck.gl](https://github.com/visgl/deck.gl) ⭐ 14,597 | 🐛 539 | 🌐 TypeScript | 📅 2026-09-17 - A WebGL-powered framework for visual exploratory data analysis of large datasets.
+* [QGIS](https://github.com/qgis/QGIS) ⭐ 14,392 | 🐛 5,503 | 🌐 C++ | 📅 2026-09-17 - Free, open source, cross-platform geographic information system (GIS).
+* [Altair](https://github.com/vega/altair) ⭐ 10,477 | 🐛 152 | 🌐 Python | 📅 2026-09-17 - A declarative statistical visualization library for Python.
 * [OSMnx](https://github.com/gboeing/osmnx) ⭐ 5,844 | 🐛 3 | 🌐 Python | 📅 2026-07-31 - A package to easily download, model, analyze, and visualize street networks from OpenStreetMap.
 * [Bqplot](https://github.com/bqplot/bqplot) ⭐ 3,693 | 🐛 279 | 🌐 TypeScript | 📅 2026-05-07 - A plotting library for IPython/Jupyter notebooks.
-* [VisPy](https://github.com/vispy/vispy) ⭐ 3,596 | 🐛 388 | 🌐 Python | 📅 2026-09-15 - A high-performance interactive 2D/3D data visualization library leveraging the power of OpenGL.
-* [Glumpy](https://github.com/glumpy/glumpy) ⭐ 1,276 | 🐛 100 | 🌐 Python | 📅 2025-07-15 - A Python library for scientific visualization that is fast, scalable and beautiful, based on OpenGL.
+* [VisPy](https://github.com/vispy/vispy) ⭐ 3,597 | 🐛 389 | 🌐 Python | 📅 2026-09-15 - A high-performance interactive 2D/3D data visualization library leveraging the power of OpenGL.
+* [Glumpy](https://github.com/glumpy/glumpy) ⭐ 1,277 | 🐛 100 | 🌐 Python | 📅 2025-07-15 - A Python library for scientific visualization that is fast, scalable and beautiful, based on OpenGL.
 * [Pandas-bokeh](https://github.com/PatrikHlobil/Pandas-Bokeh) ⭐ 880 | 🐛 41 | 🌐 Python | 📅 2024-04-10 - Bokeh plotting backend for Pandas.
 * [Python for Geo](https://github.com/geopandas/contextily) ⭐ 593 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2026-07-27 - Contextily: add background basemaps to your plots in GeoPandas.
 * [PyPalettes](https://github.com/JosephBARBIERDARNAL/pypalettes) ⭐ 483 | 🐛 3 | 🌐 Python | 📅 2026-01-26 - A large (+2500) collection of color maps for Python.
@@ -460,7 +460,7 @@ Libraries for static, interactive, and 3D visualizations.
 
 Ttutorials for building and enhancing dashboards and visualizations using various tools and frameworks.
 
-* [Dash Enterprise Samples](https://github.com/plotly/dash-sample-apps) ⭐ 3,339 | 🐛 65 | 🌐 Jupyter Notebook | 📅 2025-01-15 - Production-ready Dash apps.
+* [Dash Enterprise Samples](https://github.com/plotly/dash-sample-apps) ⭐ 3,338 | 🐛 65 | 🌐 Jupyter Notebook | 📅 2025-01-15 - Production-ready Dash apps.
 * [Awesome Streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit) ⭐ 2,279 | 🐛 31 | 🌐 HTML | 📅 2023-05-25 - Curated list of Streamlit resources and components.
 * [Awesome Dash](https://github.com/ucg8j/awesome-dash) ⭐ 2,270 | 🐛 1 | 🌐 Python | 📅 2024-12-30 - Comprehensive resources for Dash users.
 * [Best of Streamlit](https://github.com/jrieke/best-of-streamlit) ⭐ 1,412 | 🐛 110 | 📅 2024-06-28 - Showcase of community-built Streamlit applications.
@@ -480,19 +480,19 @@ Ttutorials for building and enhancing dashboards and visualizations using variou
 
 Frameworks for building custom dashboard solutions.
 
-* [Streamlit](https://github.com/streamlit/streamlit) ⭐ 45,768 | 🐛 1,167 | 🌐 Python | 📅 2026-09-16 - Simplified framework for building data applications.
-* [Gradio](https://github.com/gradio-app/gradio) ⭐ 43,550 | 🐛 115 | 🌐 Python | 📅 2026-09-16 - Tool for creating and sharing machine learning applications.
-* [Appsmith](https://github.com/appsmithorg/appsmith) ⭐ 40,888 | 🐛 4,470 | 🌐 TypeScript | 📅 2026-09-16 - An open-source platform to build and deploy internal tools, admin panels, and CRUD apps quickly.
-* [Reflex](https://github.com/reflex-dev/reflex) ⭐ 28,887 | 🐛 343 | 🌐 Python | 📅 2026-09-16 - Full-stack Python framework for building web apps.
-* [Dash](https://github.com/plotly/dash) ⭐ 24,409 | 🐛 476 | 🌐 Python | 📅 2026-09-16 - Framework for creating interactive web applications.
-* [Taipy](https://github.com/Avaiga/taipy) ⭐ 19,436 | 🐛 225 | 🌐 Python | 📅 2026-08-10 - Python library for building web applications and interactive dashboards.
-* [Tremor](https://github.com/tremorlabs/tremor-npm) ⭐ 16,496 | 🐛 63 | 🌐 TypeScript | 📅 2025-01-13 - A React library to build dashboards fast with pre-built components for charts, KPIs, and more.
-* [GridStack.js](https://github.com/gridstack/gridstack.js) ⭐ 9,118 | 🐛 40 | 🌐 TypeScript | 📅 2026-09-16 - A library for building draggable, resizable responsive dashboard layouts.
-* [Evidence](https://github.com/evidence-dev/evidence) ⭐ 6,941 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-16 - Business intelligence platform that uses SQL and Markdown for reports.
+* [Streamlit](https://github.com/streamlit/streamlit) ⭐ 45,774 | 🐛 1,174 | 🌐 Python | 📅 2026-09-17 - Simplified framework for building data applications.
+* [Gradio](https://github.com/gradio-app/gradio) ⭐ 43,561 | 🐛 109 | 🌐 Python | 📅 2026-09-17 - Tool for creating and sharing machine learning applications.
+* [Appsmith](https://github.com/appsmithorg/appsmith) ⭐ 40,895 | 🐛 4,478 | 🌐 TypeScript | 📅 2026-09-17 - An open-source platform to build and deploy internal tools, admin panels, and CRUD apps quickly.
+* [Reflex](https://github.com/reflex-dev/reflex) ⭐ 28,890 | 🐛 327 | 🌐 Python | 📅 2026-09-17 - Full-stack Python framework for building web apps.
+* [Dash](https://github.com/plotly/dash) ⭐ 24,411 | 🐛 476 | 🌐 Python | 📅 2026-09-17 - Framework for creating interactive web applications.
+* [Taipy](https://github.com/Avaiga/taipy) ⭐ 19,435 | 🐛 225 | 🌐 Python | 📅 2026-08-10 - Python library for building web applications and interactive dashboards.
+* [Tremor](https://github.com/tremorlabs/tremor-npm) ⭐ 16,493 | 🐛 63 | 🌐 TypeScript | 📅 2025-01-13 - A React library to build dashboards fast with pre-built components for charts, KPIs, and more.
+* [GridStack.js](https://github.com/gridstack/gridstack.js) ⭐ 9,122 | 🐛 40 | 🌐 TypeScript | 📅 2026-09-16 - A library for building draggable, resizable responsive dashboard layouts.
+* [Evidence](https://github.com/evidence-dev/evidence) ⭐ 6,945 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-16 - Business intelligence platform that uses SQL and Markdown for reports.
 * [Voilà](https://github.com/voila-dashboards/voila) ⭐ 5,944 | 🐛 330 | 🌐 Python | 📅 2026-09-07 - Turn Jupyter notebooks into standalone web applications.
 * [Panel](https://github.com/holoviz/panel) ⭐ 5,773 | 🐛 1,112 | 🌐 Python | 📅 2026-09-16 - Python library for creating custom interactive web apps and dashboards.
 * [H2O Wave](https://github.com/h2oai/wave) ⭐ 4,251 | 🐛 222 | 🌐 Python | 📅 2026-09-15 - A Python framework for rapidly building and deploying realtime web apps and dashboards for AI and analytics.
-* [OpenSearch Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) ⭐ 2,126 | 🐛 1,633 | 🌐 TypeScript | 📅 2026-09-16 - A powerful data visualization and dashboarding tool for OpenSearch data, forked from Kibana.
+* [OpenSearch Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards) ⭐ 2,125 | 🐛 1,638 | 🌐 TypeScript | 📅 2026-09-17 - A powerful data visualization and dashboarding tool for OpenSearch data, forked from Kibana.
 * [Grafanalib](https://github.com/weaveworks/grafanalib) ⭐ 1,974 | 🐛 83 | 🌐 Python | 📅 2025-12-08 - A Python library for generating Grafana dashboards configuration as code.
 * [Shiny for Python](https://github.com/posit-dev/py-shiny) ⭐ 1,752 | 🐛 459 | 🌐 Python | 📅 2026-09-14 - Python version of the popular R Shiny framework.
 
@@ -506,9 +506,9 @@ Frameworks for building custom dashboard solutions.
 
 A list of leading tools and platforms for data visualization and dashboard creation.
 
-* [Metabase](https://github.com/metabase/metabase) ⭐ 49,296 | 🐛 4,381 | 🌐 Clojure | 📅 2026-09-16 - The simplest way to get analytics and business intelligence for everyone in your company.
-* [Redash](https://github.com/getredash/redash) ⭐ 28,796 | 🐛 804 | 🌐 Python | 📅 2026-09-03 - Tool for visualizing and sharing data insights.
-* [Kibana](https://github.com/elastic/kibana) ⭐ 21,287 | 🐛 14,576 | 🌐 TypeScript | 📅 2026-09-16 - The official visualization and dashboarding tool for the Elastic Stack (Elasticsearch, Logstash, Beats).
+* [Metabase](https://github.com/metabase/metabase) ⭐ 49,313 | 🐛 4,402 | 🌐 Clojure | 📅 2026-09-17 - The simplest way to get analytics and business intelligence for everyone in your company.
+* [Redash](https://github.com/getredash/redash) ⭐ 28,800 | 🐛 804 | 🌐 Python | 📅 2026-09-03 - Tool for visualizing and sharing data insights.
+* [Kibana](https://github.com/elastic/kibana) ⭐ 21,291 | 🐛 14,598 | 🌐 TypeScript | 📅 2026-09-17 - The official visualization and dashboarding tool for the Elastic Stack (Elasticsearch, Logstash, Beats).
 * [Rath](https://github.com/Kanaries/Rath) ⭐ 4,683 | 🐛 68 | 🌐 TypeScript | 📅 2026-08-14 - Next-generation automated data exploratory analysis and visualization platform.
 * [Datawrapper](https://github.com/datawrapper/datawrapper) ⭐ 1,456 | 🐛 75 | 🌐 TypeScript | 📅 2025-03-30 - User-friendly chart and map creation tool.
 * [Tableau](https://www.tableau.com) - Leading data visualization software.
@@ -536,9 +536,9 @@ A list of leading tools and platforms for data visualization and dashboard creat
 
 A collection of valuable resources, tutorials, and libraries for web scraping with Python.
 
-* [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) ⭐ 8,149 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-08 - List of libraries, tools, and APIs for web scraping and data processing.
+* [Awesome Web Scraping](https://github.com/lorien/awesome-web-scraping) ⭐ 8,148 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-08 - List of libraries, tools, and APIs for web scraping and data processing.
 * [Python Scraping](https://github.com/REMitchell/python-scraping) ⭐ 4,730 | 🐛 89 | 🌐 Jupyter Notebook | 📅 2024-06-01 - Code samples from the book "Web Scraping with Python".
-* [Webscraping from 0 to Hero](https://github.com/TheWebScrapingClub/webscraping-from-0-to-hero) ⭐ 1,736 | 🐛 0 | 📅 2024-05-27 - An open project repository sharing knowledge and experiences about web scraping with Python.
+* [Webscraping from 0 to Hero](https://github.com/TheWebScrapingClub/webscraping-from-0-to-hero) ⭐ 1,737 | 🐛 0 | 📅 2024-05-27 - An open project repository sharing knowledge and experiences about web scraping with Python.
 * [Scraping Tutorial](https://github.com/Blatzar/scraping-tutorial) ⭐ 386 | 🐛 9 | 📅 2024-01-20 - Tutorial for scraping streaming sites.
 
 [⬆ back to contents](#contents)
@@ -551,23 +551,23 @@ A collection of valuable resources, tutorials, and libraries for web scraping wi
 
 A list of libraries and tools for web scraping.
 
-* [Browser Use](https://github.com/browser-use/browser-use) ⭐ 114,832 | 🐛 433 | 🌐 Python | 📅 2026-09-15 - A library for browser automation and web scraping.
-* [Crawl4AI](https://github.com/unclecode/crawl4ai) ⭐ 83,691 | 🐛 199 | 🌐 Python | 📅 2026-09-16 - Advanced web crawling framework designed for AI and data extraction tasks.
-* [Scrapling](https://github.com/D4Vinci/Scrapling) ⭐ 81,460 | 🐛 7 | 🌐 Python | 📅 2026-09-14 - A framework for building web scrapers and crawlers.
-* [You-Get](https://github.com/soimort/you-get) ⭐ 56,874 | 🐛 386 | 🌐 Python | 📅 2026-08-24 - A tiny command-line utility to download media contents (videos, audios, images) from the web.
-* [Requests](https://github.com/psf/requests) ⭐ 54,306 | 🐛 237 | 🌐 Python | 📅 2026-09-07 - A simple, yet elegant, HTTP library for Python.
-* [Selenium](https://github.com/SeleniumHQ/selenium) ⭐ 34,493 | 🐛 187 | 🌐 Java | 📅 2026-09-16 - A tool for automating web applications for testing purposes.
-* [ScrapeGraph AI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) ⭐ 31,038 | 🐛 16 | 🌐 Python | 📅 2026-09-07 - A Python scraper based on AI.
-* [Playwright](https://github.com/microsoft/playwright-python) ⭐ 15,006 | 🐛 16 | 🌐 Python | 📅 2026-09-15 - Python version of the Playwright browser automation library.
+* [Browser Use](https://github.com/browser-use/browser-use) ⭐ 114,970 | 🐛 435 | 🌐 Python | 📅 2026-09-15 - A library for browser automation and web scraping.
+* [Crawl4AI](https://github.com/unclecode/crawl4ai) ⭐ 83,752 | 🐛 201 | 🌐 Python | 📅 2026-09-16 - Advanced web crawling framework designed for AI and data extraction tasks.
+* [Scrapling](https://github.com/D4Vinci/Scrapling) ⭐ 81,835 | 🐛 7 | 🌐 Python | 📅 2026-09-14 - A framework for building web scrapers and crawlers.
+* [You-Get](https://github.com/soimort/you-get) ⭐ 56,875 | 🐛 386 | 🌐 Python | 📅 2026-08-24 - A tiny command-line utility to download media contents (videos, audios, images) from the web.
+* [Requests](https://github.com/psf/requests) ⭐ 54,318 | 🐛 239 | 🌐 Python | 📅 2026-09-07 - A simple, yet elegant, HTTP library for Python.
+* [Selenium](https://github.com/SeleniumHQ/selenium) ⭐ 34,494 | 🐛 187 | 🌐 Java | 📅 2026-09-17 - A tool for automating web applications for testing purposes.
+* [ScrapeGraph AI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) ⭐ 31,058 | 🐛 16 | 🌐 Python | 📅 2026-09-07 - A Python scraper based on AI.
+* [Playwright](https://github.com/microsoft/playwright-python) ⭐ 15,008 | 🐛 16 | 🌐 Python | 📅 2026-09-15 - Python version of the Playwright browser automation library.
 * [Helium](https://github.com/mherrmann/helium) ⭐ 8,320 | 🐛 55 | 🌐 Python | 📅 2026-08-10 - High-level Selenium wrapper for easier web automation.
-* [AutoScraper](https://github.com/alirezamika/autoscraper) ⭐ 7,975 | 🐛 1 | 🌐 Python | 📅 2026-07-29 - A smart, automatic, fast, and lightweight web scraper for Python.
-* [Trafilatura](https://github.com/adbar/trafilatura) ⭐ 6,826 | 🐛 61 | 🌐 Python | 📅 2026-09-11 - A Python & command-line tool to gather text and metadata on the web.
-* [Ferret](https://github.com/MontFerret/ferret) ⭐ 6,011 | 🐛 12 | 🌐 Go | 📅 2026-09-16 - A web scraping system that lets you declaratively describe what data to extract using a simple query language.
-* [Snscrape](https://github.com/JustAnotherArchivist/snscrape) ⭐ 5,449 | 🐛 73 | 🌐 Python | 📅 2023-11-15 - A social networking service scraper in Python.
+* [AutoScraper](https://github.com/alirezamika/autoscraper) ⭐ 7,982 | 🐛 1 | 🌐 Python | 📅 2026-07-29 - A smart, automatic, fast, and lightweight web scraper for Python.
+* [Trafilatura](https://github.com/adbar/trafilatura) ⭐ 6,832 | 🐛 61 | 🌐 Python | 📅 2026-09-11 - A Python & command-line tool to gather text and metadata on the web.
+* [Ferret](https://github.com/MontFerret/ferret) ⭐ 6,012 | 🐛 12 | 🌐 Go | 📅 2026-09-16 - A web scraping system that lets you declaratively describe what data to extract using a simple query language.
+* [Snscrape](https://github.com/JustAnotherArchivist/snscrape) ⭐ 5,446 | 🐛 73 | 🌐 Python | 📅 2023-11-15 - A social networking service scraper in Python.
 * [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) ⭐ 4,892 | 🐛 39 | 🌐 Python | 📅 2026-08-04 - A Python library for automating interaction with websites.
 * [Gerapy](https://github.com/Gerapy/Gerapy) ⭐ 3,511 | 🐛 8 | 🌐 Python | 📅 2026-07-04 - Distributed Crawler Management Framework based on Scrapy, Scrapyd, Django, and Vue.js.
 * [Grab](https://github.com/lorien/grab) ⭐ 2,461 | 🐛 1 | 🌐 Python | 📅 2025-09-19 - A Python framework for building web scraping apps, providing a high-level API for asynchronous requests.
-* [Feedparser](https://github.com/kurtmckee/feedparser) ⭐ 2,422 | 🐛 110 | 🌐 Python | 📅 2026-09-07 - A library to parse feeds in Python.
+* [Feedparser](https://github.com/kurtmckee/feedparser) ⭐ 2,423 | 🐛 110 | 🌐 Python | 📅 2026-09-07 - A library to parse feeds in Python.
 * [PyQuery](https://github.com/gawel/pyquery) ⭐ 2,377 | 🐛 60 | 🌐 Python | 📅 2026-07-27 - A jQuery-like library for parsing HTML documents in Python.
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - A library for parsing HTML and XML documents.
 * [Scrapy](https://scrapy.org/) - An open-source and collaborative web crawling framework for Python.
@@ -582,9 +582,9 @@ A list of libraries and tools for web scraping.
 
 A collection of resources for learning mathematics, particularly in the context of data science and machine learning.
 
-* [Awesome Math](https://github.com/rossant/awesome-math) ⭐ 16,443 | 🐛 0 | 🌐 Python | 📅 2026-08-14 - A curated list of mathematics resources, books, and online courses.
-* [MML Bool](https://github.com/mml-book/mml-book.github.io) ⭐ 16,014 | 🐛 198 | 🌐 Jupyter Notebook | 📅 2025-03-13 - Comprehensive resource for mathematics in machine learning.
-* [Fast.ai - Computational Linear Algebra](https://github.com/fastai/numerical-linear-algebra) ⭐ 10,976 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2024-04-16 - Resource for learning linear algebra computationally.
+* [Awesome Math](https://github.com/rossant/awesome-math) ⭐ 16,446 | 🐛 0 | 🌐 Python | 📅 2026-08-14 - A curated list of mathematics resources, books, and online courses.
+* [MML Bool](https://github.com/mml-book/mml-book.github.io) ⭐ 16,017 | 🐛 198 | 🌐 Jupyter Notebook | 📅 2025-03-13 - Comprehensive resource for mathematics in machine learning.
+* [Fast.ai - Computational Linear Algebra](https://github.com/fastai/numerical-linear-algebra) ⭐ 10,977 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2024-04-16 - Resource for learning linear algebra computationally.
 * [Hackermath](https://github.com/amitkaps/hackermath) ⭐ 1,450 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2017-11-26 - Resource for learning statistics and mathematics for data science.
 * [Stats Maths with Python](https://github.com/tirthajyoti/Stats-Maths-with-Python) ⭐ 1,036 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2022-09-18 - Collection of Python scripts and notebooks for statistics and mathematics.
 * [3Blue1Brown](https://www.3blue1brown.com/) - Visual explanations of mathematical concepts through animated videos.
@@ -604,7 +604,7 @@ A collection of resources for learning mathematics, particularly in the context 
 
 A selection of resources focused on statistics and probability, including tutorials and comprehensive guides.
 
-* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,187 | 🐛 203 | 🌐 Jupyter Notebook | 📅 2024-06-25 - Resource for learning Bayesian methods in Python.
+* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,190 | 🐛 203 | 🌐 Jupyter Notebook | 📅 2024-06-25 - Resource for learning Bayesian methods in Python.
 * [Code repository for O'Reilly book](https://github.com/gedeck/practical-statistics-for-data-scientists) ⭐ 3,380 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-08-16 - Companion code for a practical statistics book.
 * [Seeing Theory](https://github.com/seeingtheory/Seeing-Theory) ⭐ 2,189 | 🐛 37 | 🌐 HTML | 📅 2023-09-25 - Interactive visual resource for learning probability and statistics.
 * [Think Bayes 2](https://github.com/AllenDowney/ThinkBayes2) ⭐ 2,080 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-09-15 - Book and code for Bayesian statistical methods.
@@ -632,18 +632,18 @@ A selection of resources focused on statistics and probability, including tutori
 
 A collection of tools focused on statistics and probability.
 
-* [SciPy](https://github.com/scipy/scipy) ⭐ 15,017 | 🐛 1,838 | 🌐 Python | 📅 2026-09-16 - Fundamental library for scientific computing and statistics.
-* [Statsmodels](https://github.com/statsmodels/statsmodels) ⭐ 11,625 | 🐛 2,818 | 🌐 Python | 📅 2026-09-16 - Statistical modeling, testing, and data exploration.
-* [PyMC](https://github.com/pymc-devs/pymc) ⭐ 9,753 | 🐛 503 | 🌐 Python | 📅 2026-09-14 - A probabilistic programming library for Python that allows for flexible Bayesian modeling.
-* [DoWhy](https://github.com/py-why/dowhy) ⭐ 8,316 | 🐛 236 | 🌐 Python | 📅 2026-09-16 - A Python library for causal inference that supports explicit modeling and testing of causal assumptions.
+* [SciPy](https://github.com/scipy/scipy) ⭐ 15,021 | 🐛 1,842 | 🌐 Python | 📅 2026-09-17 - Fundamental library for scientific computing and statistics.
+* [Statsmodels](https://github.com/statsmodels/statsmodels) ⭐ 11,629 | 🐛 2,816 | 🌐 Python | 📅 2026-09-17 - Statistical modeling, testing, and data exploration.
+* [PyMC](https://github.com/pymc-devs/pymc) ⭐ 9,754 | 🐛 503 | 🌐 Python | 📅 2026-09-14 - A probabilistic programming library for Python that allows for flexible Bayesian modeling.
+* [DoWhy](https://github.com/py-why/dowhy) ⭐ 8,317 | 🐛 235 | 🌐 Python | 📅 2026-09-17 - A Python library for causal inference that supports explicit modeling and testing of causal assumptions.
 * [Pomegranate](https://github.com/jmschrei/pomegranate) ⭐ 3,544 | 🐛 44 | 🌐 Python | 📅 2025-03-06 - Fast and flexible probabilistic modeling library for Python with GPU support.
-* [Pgmpy](https://github.com/pgmpy/pgmpy) ⭐ 3,330 | 🐛 638 | 🌐 Python | 📅 2026-09-16 - Python library for probabilistic and causal inference using graphical models.
-* [NumPyro](https://github.com/pyro-ppl/numpyro) ⭐ 2,754 | 🐛 66 | 🌐 Python | 📅 2026-09-15 - A probabilistic programming library built on JAX for high-performance Bayesian modeling.
-* [Lifelines](https://github.com/CamDavidsonPilon/lifelines) ⭐ 2,610 | 🐛 301 | 🌐 Python | 📅 2026-03-07 - Survival analysis and event history analysis in Python.
+* [Pgmpy](https://github.com/pgmpy/pgmpy) ⭐ 3,330 | 🐛 640 | 🌐 Python | 📅 2026-09-16 - Python library for probabilistic and causal inference using graphical models.
+* [NumPyro](https://github.com/pyro-ppl/numpyro) ⭐ 2,754 | 🐛 66 | 🌐 Python | 📅 2026-09-17 - A probabilistic programming library built on JAX for high-performance Bayesian modeling.
+* [Lifelines](https://github.com/CamDavidsonPilon/lifelines) ⭐ 2,611 | 🐛 301 | 🌐 Python | 📅 2026-03-07 - Survival analysis and event history analysis in Python.
 * [Pingouin](https://github.com/raphaelvallat/pingouin) ⭐ 1,930 | 🐛 13 | 🌐 Python | 📅 2026-09-09 - Statistical package with improved usability over SciPy.
 * [ArviZ](https://github.com/arviz-devs/arviz) ⭐ 1,852 | 🐛 110 | 🌐 TeX | 📅 2026-09-09 - Exploratory analysis of Bayesian models with visual diagnostics.
 * [scikit-survival](https://github.com/sebp/scikit-survival) ⭐ 1,321 | 🐛 29 | 🌐 Python | 📅 2026-09-13 - Survival analysis built on scikit-learn for time-to-event prediction.
-* [PyGAM](https://github.com/dswah/pyGAM) ⭐ 1,014 | 🐛 236 | 🌐 Python | 📅 2026-04-21 - A Python library for generalized additive models with built-in smoothing and regularization.
+* [PyGAM](https://github.com/dswah/pyGAM) ⭐ 1,015 | 🐛 236 | 🌐 Python | 📅 2026-04-21 - A Python library for generalized additive models with built-in smoothing and regularization.
 * [Patsy](https://github.com/pydata/patsy) ⭐ 990 | 🐛 78 | 🌐 Python | 📅 2026-09-14 - A Python library for describing statistical models and building design matrices.
 * [Causal Impact](https://github.com/WillianFuks/tfcausalimpact) ⭐ 678 | 🐛 48 | 🌐 Python | 📅 2025-01-13 - A Python implementation of the R package for causal inference using Bayesian structural time-series models.
 * [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) ⭐ 388 | 🐛 1 | 🌐 Python | 📅 2026-09-10 - Post-hoc tests for statistical analysis of data.
@@ -682,7 +682,7 @@ A collection of resources for understanding time series fundamentals and analyti
 
 * [Awesome Time Series Anomaly Detection](https://github.com/rob-med/awesome-TS-anomaly-detection) ⭐ 3,166 | 🐛 6 | 📅 2024-10-21 - A curated list of tools, datasets, and papers dedicated to time series anomaly detection.
 * [Awesome Time Series in Python](https://github.com/MaxBenChrist/awesome_time_series_in_python) ⭐ 2,264 | 🐛 7 | 📅 2023-02-10 - A comprehensive list of Python tools and libraries for time series analysis.
-* [Awesome Time Series](https://github.com/lmmentel/awesome-time-series) ⭐ 700 | 🐛 7 | 📅 2025-07-26 - A curated list of resources dedicated to time series analysis and forecasting.
+* [Awesome Time Series](https://github.com/lmmentel/awesome-time-series) ⭐ 699 | 🐛 7 | 📅 2025-07-26 - A curated list of resources dedicated to time series analysis and forecasting.
 * [Forecasting: Principles and Practice](https://otexts.com/fpp3/) - Comprehensive textbook on forecasting methods with practical examples.
 * [NIST/SEMATECH e-Handbook](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm) - Official time series analysis guide from NIST.
 
@@ -696,17 +696,17 @@ A collection of resources for understanding time series fundamentals and analyti
 
 A collection of tools for working with temporal data.
 
-* [TimesFM](https://github.com/google-research/timesfm) ⭐ 32,832 | 🐛 253 | 🌐 Python | 📅 2026-09-15 - A pretrained time series foundation model from Google Research for zero-shot forecasting.
-* [Facebook Prophet](https://github.com/facebook/prophet) ⭐ 20,404 | 🐛 454 | 🌐 Python | 📅 2026-08-27 - A procedure for forecasting time series data based on an additive model.
-* [Time-Series-Library](https://github.com/thuml/Time-Series-Library) ⭐ 12,873 | 🐛 47 | 🌐 Python | 📅 2026-04-18 - A library for deep learning-based time series analysis and forecasting.
-* [sktime](https://github.com/sktime/sktime) ⭐ 10,018 | 🐛 2,489 | 🌐 Python | 📅 2026-09-16 - A unified Python framework for machine learning with time series, compatible with scikit-learn.
+* [TimesFM](https://github.com/google-research/timesfm) ⭐ 33,019 | 🐛 255 | 🌐 Python | 📅 2026-09-15 - A pretrained time series foundation model from Google Research for zero-shot forecasting.
+* [Facebook Prophet](https://github.com/facebook/prophet) ⭐ 20,406 | 🐛 455 | 🌐 Python | 📅 2026-08-27 - A procedure for forecasting time series data based on an additive model.
+* [Time-Series-Library](https://github.com/thuml/Time-Series-Library) ⭐ 12,875 | 🐛 47 | 🌐 Python | 📅 2026-04-18 - A library for deep learning-based time series analysis and forecasting.
+* [sktime](https://github.com/sktime/sktime) ⭐ 10,019 | 🐛 2,484 | 🌐 Python | 📅 2026-09-17 - A unified Python framework for machine learning with time series, compatible with scikit-learn.
 * [TSFresh](https://github.com/blue-yonder/tsfresh) ⭐ 9,424 | 🐛 74 | 🌐 Jupyter Notebook | 📅 2026-07-06 - Automatically extracting features from time series data.
 * [Kats](https://github.com/facebookresearch/Kats) ⭐ 6,470 | 🐛 66 | 🌐 Python | 📅 2026-08-19 - Toolkit for analyzing time series data from Facebook Research.
-* [PlotJuggler](https://github.com/facontidavide/PlotJuggler) ⭐ 6,183 | 🐛 164 | 🌐 C++ | 📅 2026-08-10 - A tool to visualize and analyze time series data logs in real-time.
+* [PlotJuggler](https://github.com/facontidavide/PlotJuggler) ⭐ 6,186 | 🐛 164 | 🌐 C++ | 📅 2026-08-10 - A tool to visualize and analyze time series data logs in real-time.
 * [GluonTS](https://github.com/awslabs/gluonts) ⭐ 5,236 | 🐛 482 | 🌐 Python | 📅 2026-07-31 - A Python toolkit for probabilistic time series modeling, built on MXNet.
-* [PyTorch Forecasting](https://github.com/sktime/pytorch-forecasting) ⭐ 4,992 | 🐛 819 | 🌐 Python | 📅 2026-09-14 - A PyTorch-based library for time series forecasting with neural networks.
+* [PyTorch Forecasting](https://github.com/sktime/pytorch-forecasting) ⭐ 4,992 | 🐛 819 | 🌐 Python | 📅 2026-09-17 - A PyTorch-based library for time series forecasting with neural networks.
 * [Uber Orbit](https://github.com/uber/orbit) ⭐ 2,076 | 🐛 59 | 🌐 Python | 📅 2026-05-22 - A Python package for Bayesian time series forecasting and inference.
-* [pmdarima](https://github.com/alkaline-ml/pmdarima) ⭐ 1,735 | 🐛 65 | 🌐 Python | 📅 2025-11-17 - Python library for ARIMA modeling and time series analysis.
+* [pmdarima](https://github.com/alkaline-ml/pmdarima) ⭐ 1,736 | 🐛 65 | 🌐 Python | 📅 2025-11-17 - Python library for ARIMA modeling and time series analysis.
 * [Time-series-prediction](https://github.com/LongxingTan/Time-series-prediction) ⭐ 890 | 🐛 12 | 🌐 Python | 📅 2026-09-08 - A collection of time series prediction methods and implementations.
 
 [⬆ back to contents](#contents)
@@ -723,12 +723,12 @@ A collection of tools for working with temporal data.
 
 A collection of resources to help you build and manage robust data pipelines and infrastructure.
 
-* [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) ⭐ 45,585 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-09-15 - Free course on data engineering fundamentals.
-* [Data Engineer Handbook](https://github.com/DataExpert-io/data-engineer-handbook) ⭐ 44,131 | 🐛 47 | 🌐 Jupyter Notebook | 📅 2026-08-03 - A comprehensive guide covering fundamental and advanced data engineering concepts.
-* [Data Engineering Cookbook](https://github.com/andkret/Cookbook) ⭐ 15,421 | 🐛 129 | 🌐 Python | 📅 2026-07-23 - Techniques and strategies for building reliable data platforms.
-* [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) ⭐ 9,066 | 🐛 25 | 📅 2026-09-07 - A curated list of data engineering tools, software, and resources.
+* [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) ⭐ 45,603 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-09-15 - Free course on data engineering fundamentals.
+* [Data Engineer Handbook](https://github.com/DataExpert-io/data-engineer-handbook) ⭐ 44,139 | 🐛 47 | 🌐 Jupyter Notebook | 📅 2026-08-03 - A comprehensive guide covering fundamental and advanced data engineering concepts.
+* [Data Engineering Cookbook](https://github.com/andkret/Cookbook) ⭐ 15,422 | 🐛 129 | 🌐 Python | 📅 2026-07-23 - Techniques and strategies for building reliable data platforms.
+* [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) ⭐ 9,069 | 🐛 30 | 📅 2026-09-07 - A curated list of data engineering tools, software, and resources.
 * [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) ⭐ 6,624 | 🐛 33 | 📅 2026-09-08 - A curated list of pipeline toolkits for data processing and workflow management.
-* [Awesome DB Tools](https://github.com/mgramin/awesome-db-tools) ⭐ 5,305 | 🐛 202 | 📅 2026-05-21 - A curated list of awesome database tools.
+* [Awesome DB Tools](https://github.com/mgramin/awesome-db-tools) ⭐ 5,310 | 🐛 203 | 📅 2026-05-21 - A curated list of awesome database tools.
 * [Awesome Kafka](https://github.com/infoslack/awesome-kafka) ⭐ 593 | 🐛 2 | 📅 2026-05-05 - Curated resources for learning and working with Apache Kafka: books, trainings, tools.
 
 [⬆ back to contents](#contents)
@@ -741,30 +741,30 @@ A collection of resources to help you build and manage robust data pipelines and
 
 A collection of tools for building, deploying, and managing data pipelines and infrastructure.
 
-* [Apache Airflow](https://github.com/apache/airflow) ⭐ 46,872 | 🐛 2,127 | 🌐 Python | 📅 2026-09-16 - A platform to programmatically author, schedule, and monitor workflows.
-* [Apache Spark](https://github.com/apache/spark) ⭐ 44,004 | 🐛 581 | 🌐 Scala | 📅 2026-09-16 - A unified engine for large-scale data processing and analytics.
-* [Apache Kafka](https://github.com/apache/kafka) ⭐ 33,740 | 🐛 565 | 🌐 Java | 📅 2026-09-16 - A distributed event streaming platform for building real-time data pipelines.
-* [Conductor](https://github.com/conductor-oss/conductor) ⭐ 32,204 | 🐛 253 | 🌐 Java | 📅 2026-09-16 - Orchestration engine for running complex, multi-step workflows and business processes.
-* [Kestra](https://github.com/kestra-io/kestra) ⭐ 28,141 | 🐛 665 | 🌐 Java | 📅 2026-09-16 - An open-source, event-driven orchestrator that simplifies data workflow management.
-* [Apache Flink](https://github.com/apache/flink) ⭐ 26,337 | 🐛 374 | 🌐 Java | 📅 2026-09-16 - A framework for stateful computations over unbounded and bounded data streams (real-time stream processing).
-* [Prefect](https://github.com/PrefectHQ/prefect) ⭐ 23,849 | 🐛 851 | 🌐 Python | 📅 2026-09-16 - Workflow orchestration for building resilient data pipelines.
-* [Luigi](https://github.com/spotify/luigi) ⭐ 18,774 | 🐛 176 | 🌐 Python | 📅 2026-07-18 - A Python module for building complex and batch-oriented data pipelines.
-* [Apache Arrow](https://github.com/apache/arrow) ⭐ 17,119 | 🐛 2,577 | 🌐 C++ | 📅 2026-09-16 - Universal columnar format and multi-language toolbox for fast data interchange.
-* [Dagster](https://github.com/dagster-io/dagster) ⭐ 16,162 | 🐛 2,587 | 🌐 Python | 📅 2026-09-16 - A data orchestrator for machine learning, analytics, and ETL.
-* [Apache Hadoop](https://github.com/apache/hadoop) ⭐ 15,662 | 🐛 224 | 🌐 Java | 📅 2026-09-16 - A framework that allows for the distributed processing of large data sets across clusters of computers.
-* [Apache Pulsar](https://github.com/apache/pulsar) ⭐ 15,332 | 🐛 1,732 | 🌐 Java | 📅 2026-09-16 - A cloud-native, distributed messaging and streaming platform.
-* [dbt-core](https://github.com/dbt-labs/dbt-core) ⭐ 13,909 | 🐛 1,543 | 🌐 Rust | 📅 2026-09-16 - A framework for transforming data in your warehouse using SQL and Jinja.
-* [Trino](https://github.com/trinodb/trino) ⭐ 13,241 | 🐛 2,776 | 🌐 Java | 📅 2026-09-16 - A distributed SQL query engine designed for fast analytic queries against large datasets.
-* [DataHub](https://github.com/datahub-project/datahub) ⭐ 12,718 | 🐛 1,310 | 🌐 Python | 📅 2026-09-16 - A metadata platform for the modern data stack.
-* [Kedro](https://github.com/kedro-org/kedro) ⭐ 11,002 | 🐛 136 | 🌐 Python | 📅 2026-09-16 - A framework for creating reproducible, maintainable and modular data science code.
-* [Apache Cassandra](https://github.com/apache/cassandra) ⭐ 10,095 | 🐛 528 | 🌐 Java | 📅 2026-09-16 - A highly scalable distributed NoSQL database designed for handling large amounts of data across many commodity servers.
-* [Apache Iceberg](https://github.com/apache/iceberg) ⭐ 9,242 | 🐛 926 | 🌐 Java | 📅 2026-09-16 - A high-performance table format for huge analytic datasets.
-* [Delta Lake](https://github.com/delta-io/delta) ⭐ 8,996 | 🐛 955 | 🌐 Scala | 📅 2026-09-16 - A storage layer that brings ACID transactions to Apache Spark and big data workloads.
-* [Apache Beam](https://github.com/apache/beam) ⭐ 8,666 | 🐛 3,951 | 🌐 Java | 📅 2026-09-16 - A unified model for defining both batch and streaming data-parallel processing pipelines.
-* [Apache Hudi](https://github.com/apache/hudi) ⭐ 6,249 | 🐛 2,882 | 🌐 Java | 📅 2026-09-16 - An open data lakehouse platform, built on a high-performance open table format.
-* [Apache Hive](https://github.com/apache/hive) ⭐ 6,022 | 🐛 125 | 🌐 Java | 📅 2026-09-16 - A data warehouse software for reading, writing, and managing large datasets in distributed storage using SQL.
-* [Apache Calcite](https://github.com/apache/calcite) ⭐ 5,185 | 🐛 324 | 🌐 Java | 📅 2026-09-16 - A dynamic data management framework that allows for SQL parsing, optimization, and federation.
-* [OpenLineage](https://github.com/OpenLineage/OpenLineage) ⭐ 2,660 | 🐛 367 | 🌐 Java | 📅 2026-09-16 - An open framework for collection and analysis of data lineage.
+* [Apache Airflow](https://github.com/apache/airflow) ⭐ 46,884 | 🐛 2,124 | 🌐 Python | 📅 2026-09-17 - A platform to programmatically author, schedule, and monitor workflows.
+* [Apache Spark](https://github.com/apache/spark) ⭐ 44,007 | 🐛 595 | 🌐 Scala | 📅 2026-09-17 - A unified engine for large-scale data processing and analytics.
+* [Apache Kafka](https://github.com/apache/kafka) ⭐ 33,743 | 🐛 580 | 🌐 Java | 📅 2026-09-17 - A distributed event streaming platform for building real-time data pipelines.
+* [Conductor](https://github.com/conductor-oss/conductor) ⭐ 32,207 | 🐛 252 | 🌐 Java | 📅 2026-09-17 - Orchestration engine for running complex, multi-step workflows and business processes.
+* [Kestra](https://github.com/kestra-io/kestra) ⭐ 28,146 | 🐛 665 | 🌐 Java | 📅 2026-09-17 - An open-source, event-driven orchestrator that simplifies data workflow management.
+* [Apache Flink](https://github.com/apache/flink) ⭐ 26,341 | 🐛 380 | 🌐 Java | 📅 2026-09-17 - A framework for stateful computations over unbounded and bounded data streams (real-time stream processing).
+* [Prefect](https://github.com/PrefectHQ/prefect) ⭐ 23,858 | 🐛 860 | 🌐 Python | 📅 2026-09-17 - Workflow orchestration for building resilient data pipelines.
+* [Luigi](https://github.com/spotify/luigi) ⭐ 18,775 | 🐛 177 | 🌐 Python | 📅 2026-07-18 - A Python module for building complex and batch-oriented data pipelines.
+* [Apache Arrow](https://github.com/apache/arrow) ⭐ 17,133 | 🐛 2,561 | 🌐 C++ | 📅 2026-09-17 - Universal columnar format and multi-language toolbox for fast data interchange.
+* [Dagster](https://github.com/dagster-io/dagster) ⭐ 16,169 | 🐛 2,582 | 🌐 Python | 📅 2026-09-17 - A data orchestrator for machine learning, analytics, and ETL.
+* [Apache Hadoop](https://github.com/apache/hadoop) ⭐ 15,662 | 🐛 225 | 🌐 Java | 📅 2026-09-17 - A framework that allows for the distributed processing of large data sets across clusters of computers.
+* [Apache Pulsar](https://github.com/apache/pulsar) ⭐ 15,332 | 🐛 1,737 | 🌐 Java | 📅 2026-09-17 - A cloud-native, distributed messaging and streaming platform.
+* [dbt-core](https://github.com/dbt-labs/dbt-core) ⭐ 13,851 | 🐛 1,546 | 🌐 Rust | 📅 2026-09-17 - A framework for transforming data in your warehouse using SQL and Jinja.
+* [Trino](https://github.com/trinodb/trino) ⭐ 13,246 | 🐛 2,768 | 🌐 Java | 📅 2026-09-17 - A distributed SQL query engine designed for fast analytic queries against large datasets.
+* [DataHub](https://github.com/datahub-project/datahub) ⭐ 12,723 | 🐛 1,311 | 🌐 Python | 📅 2026-09-17 - A metadata platform for the modern data stack.
+* [Kedro](https://github.com/kedro-org/kedro) ⭐ 11,003 | 🐛 136 | 🌐 Python | 📅 2026-09-17 - A framework for creating reproducible, maintainable and modular data science code.
+* [Apache Cassandra](https://github.com/apache/cassandra) ⭐ 10,096 | 🐛 528 | 🌐 Java | 📅 2026-09-17 - A highly scalable distributed NoSQL database designed for handling large amounts of data across many commodity servers.
+* [Apache Iceberg](https://github.com/apache/iceberg) ⭐ 9,246 | 🐛 922 | 🌐 Java | 📅 2026-09-17 - A high-performance table format for huge analytic datasets.
+* [Delta Lake](https://github.com/delta-io/delta) ⭐ 8,999 | 🐛 957 | 🌐 Scala | 📅 2026-09-17 - A storage layer that brings ACID transactions to Apache Spark and big data workloads.
+* [Apache Beam](https://github.com/apache/beam) ⭐ 8,667 | 🐛 3,950 | 🌐 Java | 📅 2026-09-17 - A unified model for defining both batch and streaming data-parallel processing pipelines.
+* [Apache Hudi](https://github.com/apache/hudi) ⭐ 6,254 | 🐛 2,885 | 🌐 Java | 📅 2026-09-17 - An open data lakehouse platform, built on a high-performance open table format.
+* [Apache Hive](https://github.com/apache/hive) ⭐ 6,022 | 🐛 127 | 🌐 Java | 📅 2026-09-17 - A data warehouse software for reading, writing, and managing large datasets in distributed storage using SQL.
+* [Apache Calcite](https://github.com/apache/calcite) ⭐ 5,186 | 🐛 325 | 🌐 Java | 📅 2026-09-17 - A dynamic data management framework that allows for SQL parsing, optimization, and federation.
+* [OpenLineage](https://github.com/OpenLineage/OpenLineage) ⭐ 2,662 | 🐛 367 | 🌐 Java | 📅 2026-09-17 - An open framework for collection and analysis of data lineage.
 
 [⬆ back to contents](#contents)
 
@@ -780,9 +780,9 @@ A collection of tools for building, deploying, and managing data pipelines and i
 
 A selection of resources for learning and applying natural language processing in Python.
 
-* [Awesome Nlp](https://github.com/keon/awesome-nlp) ⭐ 19,004 | 🐛 17 | 📅 2026-09-07 - A ranked list of awesome Python libraries for natural language processing (NLP).
-* [Oxford Deep NLP Lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) ⭐ 15,853 | 🐛 12 | 📅 2023-07-02 - Lecture materials from Oxford's Deep Natural Language Processing course.
-* [YSDA NLP Course](https://github.com/yandexdataschool/nlp_course) ⭐ 10,682 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-09-11 - Yandex School of Data Analysis course on Natural Language Processing.
+* [Awesome Nlp](https://github.com/keon/awesome-nlp) ⭐ 19,008 | 🐛 17 | 📅 2026-09-07 - A ranked list of awesome Python libraries for natural language processing (NLP).
+* [Oxford Deep NLP Lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) ⭐ 15,854 | 🐛 12 | 📅 2023-07-02 - Lecture materials from Oxford's Deep Natural Language Processing course.
+* [YSDA NLP Course](https://github.com/yandexdataschool/nlp_course) ⭐ 10,686 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-09-11 - Yandex School of Data Analysis course on Natural Language Processing.
 * [NLP with Python by Susan Li](https://github.com/susanli2016/NLP-with-Python) ⭐ 2,793 | 🐛 36 | 🌐 Jupyter Notebook | 📅 2024-03-28 - Jupyter notebooks demonstrating various NLP techniques and applications.
 * [The NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect) ⭐ 2,038 | 🐛 3 | 🌐 Python | 📅 2026-06-01 - Comprehensive NLP guide covering theory, models, and practical implementations.
 * [Practical NLP Code](https://github.com/practical-nlp/practical-nlp-code) ⭐ 1,462 | 🐛 58 | 🌐 Jupyter Notebook | 📅 2023-09-29 - Code examples and notebooks for practical natural language processing.
@@ -800,16 +800,16 @@ A selection of resources for learning and applying natural language processing i
 
 A collection of powerful libraries and frameworks for natural language processing.
 
-* [OpenHands](https://github.com/All-Hands-AI/OpenHands) ⭐ 88,171 | 🐛 800 | 🌐 TypeScript | 📅 2026-09-16 - A library and framework for building applications with large language models.
+* [OpenHands](https://github.com/All-Hands-AI/OpenHands) ⭐ 88,321 | 🐛 812 | 🌐 TypeScript | 📅 2026-09-17 - A library and framework for building applications with large language models.
 * [BERT](https://github.com/google-research/bert) ⚠️ Archived - A transformer-based model for NLP tasks.
-* [LangExtract](https://github.com/google/langextract) ⭐ 38,595 | 🐛 125 | 🌐 Python | 📅 2026-09-13 - Google's library for structured information extraction from text using language models.
-* [Rasa](https://github.com/RasaHQ/rasa) ⭐ 21,326 | 🐛 152 | 🌐 Python | 📅 2026-07-24 - Open-source framework for building contextual AI assistants and chatbots.
-* [SentenceTransformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,098 | 🐛 1,295 | 🌐 Python | 📅 2026-09-16 - Framework for state-of-the-art sentence and text embeddings.
-* [Gensim](https://github.com/piskvorky/gensim) ⭐ 16,486 | 🐛 440 | 🌐 Python | 📅 2025-11-01 - Topic modeling and natural language processing library for Python.
-* [Flair](https://github.com/flairNLP/flair) ⭐ 14,386 | 🐛 31 | 🌐 Python | 📅 2025-10-27 - A simple framework for state-of-the-art NLP.
-* [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,116 | 🐛 183 | 🌐 Java | 📅 2026-09-16 - A Java suite of core NLP tools providing fundamental linguistic analysis capabilities.
+* [LangExtract](https://github.com/google/langextract) ⭐ 38,611 | 🐛 125 | 🌐 Python | 📅 2026-09-13 - Google's library for structured information extraction from text using language models.
+* [Rasa](https://github.com/RasaHQ/rasa) ⭐ 21,326 | 🐛 153 | 🌐 Python | 📅 2026-07-24 - Open-source framework for building contextual AI assistants and chatbots.
+* [SentenceTransformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,097 | 🐛 1,303 | 🌐 Python | 📅 2026-09-17 - Framework for state-of-the-art sentence and text embeddings.
+* [Gensim](https://github.com/piskvorky/gensim) ⭐ 16,485 | 🐛 440 | 🌐 Python | 📅 2025-11-01 - Topic modeling and natural language processing library for Python.
+* [Flair](https://github.com/flairNLP/flair) ⭐ 14,387 | 🐛 31 | 🌐 Python | 📅 2025-10-27 - A simple framework for state-of-the-art NLP.
+* [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,119 | 🐛 183 | 🌐 Java | 📅 2026-09-17 - A Java suite of core NLP tools providing fundamental linguistic analysis capabilities.
 * [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,878 | 🐛 95 | 🌐 Python | 📅 2026-09-10 - Python NLP library for many human languages, from the Stanford NLP Group.
-* [John Snow Labs Spark-NLP](https://github.com/JohnSnowLabs/spark-nlp) ⭐ 4,159 | 🐛 34 | 🌐 Scala | 📅 2026-09-12 - A state-of-the-art Natural Language Processing library built on Apache Spark.
+* [John Snow Labs Spark-NLP](https://github.com/JohnSnowLabs/spark-nlp) ⭐ 4,159 | 🐛 34 | 🌐 Scala | 📅 2026-09-17 - A state-of-the-art Natural Language Processing library built on Apache Spark.
 * [TextAttack](https://github.com/QData/TextAttack) ⭐ 3,473 | 🐛 20 | 🌐 Python | 📅 2026-08-15 - A Python framework for adversarial attacks, data augmentation, and model training in NLP.
 * [Natural Language Toolkit (NLTK)](https://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
 * [TextBlob](https://textblob.readthedocs.io/en/dev/) - A simple library for processing textual data.
@@ -829,28 +829,28 @@ A collection of powerful libraries and frameworks for natural language processin
 
 A collection of resources to help you learn and apply machine learning concepts and techniques.
 
-* [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) ⭐ 105,089 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-09-16 - Educational repository for building LLMs from scratch.
-* [Microsoft ML for Beginners](https://github.com/microsoft/ML-For-Beginners) ⭐ 90,561 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-09-15 - A beginner-friendly introduction to machine learning concepts and practices.
-* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,356 | 🐛 29 | 🌐 Python | 📅 2026-09-12 - A curated list of awesome Machine Learning frameworks, libraries and software.
-* [AI For Beginners](https://github.com/microsoft/AI-For-Beginners) ⭐ 68,591 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-09-16 - Microsoft's curriculum on artificial intelligence.
-* [Annotated deep learning paper implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) ⭐ 67,448 | 🐛 33 | 🌐 Python | 📅 2026-01-22 - Implementations of deep learning papers with annotated code.
-* [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code) ⭐ 51,752 | 🐛 68 | 📅 2023-12-29 - A comprehensive coding challenge to learn machine learning over 100 days.
-* [Made With ML](https://github.com/GokuMohandas/Made-With-ML) ⭐ 49,514 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2026-03-04 - Resource for building and deploying machine learning applications.
-* [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,556 | 🐛 91 | 🌐 Python | 📅 2022-11-27 - Curated roadmap of seminal deep learning papers for newcomers.
-* [Google Research](https://github.com/google-research/google-research) ⭐ 38,776 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-16 - Official repository for Google Research projects and publications.
-* [Ml From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 32,866 | 🐛 78 | 🌐 Python | 📅 2023-10-15 - Core machine learning algorithms implemented in Python from scratch.
-* [Applied ML](https://github.com/eugeneyan/applied-ml) ⭐ 30,147 | 🐛 9 | 📅 2024-07-18 - Curated resources and tools for applied machine learning in industry.
-* [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) ⭐ 29,444 | 🐛 4 | 🌐 HTML | 📅 2026-09-10 - A comprehensive guide to generative AI models, tools, and applications.
-* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,929 | 🐛 85 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
-* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,394 | 🐛 457 | 📅 2025-07-31 - A curated list of papers, projects, and resources related to Large Language Models.
-* [Best of ML Python](https://github.com/lukasmasuch/best-of-ml-python) ⭐ 23,806 | 🐛 57 | 📅 2026-09-10 - A ranked list of awesome machine learning Python libraries and tools.
-* [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) ⭐ 18,202 | 🐛 47 | 📅 2024-06-12 - Machine learning and deep learning tutorials, articles and other resources.
-* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,483 | 🐛 75 | 🌐 Python | 📅 2026-08-15 - A curated list of artificial intelligence resources.
-* [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) ⭐ 14,435 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-09-15 - A free practical machine learning course focused on building and deploying models.
-* [Handson-ml3](https://github.com/ageron/handson-ml3) ⭐ 14,153 | 🐛 107 | 🌐 Jupyter Notebook | 📅 2026-05-19 - Hands-on guide to machine learning and deep learning using Python.
-* [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) ⭐ 10,714 | 🐛 0 | 🌐 Python | 📅 2026-09-03 - Open Machine Learning Course with practical assignments and real-world applications.
-* [Awesome Ai Ml Resources](https://github.com/armankhondker/awesome-ai-ml-resources) ⭐ 4,620 | 🐛 16 | 📅 2026-05-09 - Carefully curated list of AI/ML books, courses, and practical tools.
-* [Machine Learning with Python by Susan Li](https://github.com/susanli2016/Machine-Learning-with-Python) ⭐ 4,598 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2025-06-05 - Jupyter notebooks covering various machine learning algorithms and applications.
+* [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) ⭐ 105,154 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-09-17 - Educational repository for building LLMs from scratch.
+* [Microsoft ML for Beginners](https://github.com/microsoft/ML-For-Beginners) ⭐ 90,608 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-09-15 - A beginner-friendly introduction to machine learning concepts and practices.
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,361 | 🐛 29 | 🌐 Python | 📅 2026-09-17 - A curated list of awesome Machine Learning frameworks, libraries and software.
+* [AI For Beginners](https://github.com/microsoft/AI-For-Beginners) ⭐ 68,641 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-09-16 - Microsoft's curriculum on artificial intelligence.
+* [Annotated deep learning paper implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) ⭐ 67,454 | 🐛 33 | 🌐 Python | 📅 2026-01-22 - Implementations of deep learning papers with annotated code.
+* [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code) ⭐ 51,760 | 🐛 68 | 📅 2023-12-29 - A comprehensive coding challenge to learn machine learning over 100 days.
+* [Made With ML](https://github.com/GokuMohandas/Made-With-ML) ⭐ 49,526 | 🐛 25 | 🌐 Jupyter Notebook | 📅 2026-03-04 - Resource for building and deploying machine learning applications.
+* [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,557 | 🐛 91 | 🌐 Python | 📅 2022-11-27 - Curated roadmap of seminal deep learning papers for newcomers.
+* [Google Research](https://github.com/google-research/google-research) ⭐ 38,785 | 🐛 1,994 | 🌐 Jupyter Notebook | 📅 2026-09-16 - Official repository for Google Research projects and publications.
+* [Ml From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) ⭐ 32,873 | 🐛 78 | 🌐 Python | 📅 2023-10-15 - Core machine learning algorithms implemented in Python from scratch.
+* [Applied ML](https://github.com/eugeneyan/applied-ml) ⭐ 30,270 | 🐛 11 | 📅 2024-07-18 - Curated resources and tools for applied machine learning in industry.
+* [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) ⭐ 29,457 | 🐛 4 | 🌐 HTML | 📅 2026-09-10 - A comprehensive guide to generative AI models, tools, and applications.
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 28,933 | 🐛 86 | 📅 2025-05-26 - A curated list of awesome Deep Learning tutorials, projects and communities.
+* [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM) ⭐ 27,400 | 🐛 459 | 📅 2025-07-31 - A curated list of papers, projects, and resources related to Large Language Models.
+* [Best of ML Python](https://github.com/lukasmasuch/best-of-ml-python) ⭐ 23,809 | 🐛 57 | 📅 2026-09-17 - A ranked list of awesome machine learning Python libraries and tools.
+* [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) ⭐ 18,203 | 🐛 47 | 📅 2024-06-12 - Machine learning and deep learning tutorials, articles and other resources.
+* [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,490 | 🐛 75 | 🌐 Python | 📅 2026-08-15 - A curated list of artificial intelligence resources.
+* [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) ⭐ 14,455 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-09-15 - A free practical machine learning course focused on building and deploying models.
+* [Handson-ml3](https://github.com/ageron/handson-ml3) ⭐ 14,160 | 🐛 107 | 🌐 Jupyter Notebook | 📅 2026-05-19 - Hands-on guide to machine learning and deep learning using Python.
+* [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) ⭐ 10,715 | 🐛 0 | 🌐 Python | 📅 2026-09-03 - Open Machine Learning Course with practical assignments and real-world applications.
+* [Awesome Ai Ml Resources](https://github.com/armankhondker/awesome-ai-ml-resources) ⭐ 4,621 | 🐛 16 | 📅 2026-05-09 - Carefully curated list of AI/ML books, courses, and practical tools.
+* [Machine Learning with Python by Susan Li](https://github.com/susanli2016/Machine-Learning-with-Python) ⭐ 4,599 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2025-06-05 - Jupyter notebooks covering various machine learning algorithms and applications.
 * [Understanding Deep Learning](https://udlbook.github.io/udlbook/) - Comprehensive and accessible textbook on deep learning fundamentals.
 
 [⬆ back to contents](#contents)
@@ -865,33 +865,33 @@ A collection of tools for developing and deploying machine learning models.
 
 #### Machine Learning
 
-* [Scikit-learn](https://github.com/scikit-learn/scikit-learn) ⭐ 67,279 | 🐛 2,160 | 🌐 Python | 📅 2026-09-16 - Machine learning library for classical algorithms and model building.
-* [XGBoost](https://github.com/dmlc/xgboost) ⭐ 28,768 | 🐛 439 | 🌐 C++ | 📅 2026-09-16 - Optimized distributed gradient boosting library for tree-based models.
-* [SHAP](https://github.com/shap/shap) ⭐ 25,760 | 🐛 988 | 🌐 Jupyter Notebook | 📅 2026-09-16 - Game theoretic approach to explain the output of any machine learning model.
-* [LightGBM](https://github.com/microsoft/LightGBM) ⭐ 18,770 | 🐛 520 | 🌐 C++ | 📅 2026-09-13 - Fast, distributed, high-performance gradient boosting framework.
-* [Optuna](https://github.com/optuna/optuna) ⭐ 14,805 | 🐛 19 | 🌐 Python | 📅 2026-09-16 - Hyperparameter optimization framework.
+* [Scikit-learn](https://github.com/scikit-learn/scikit-learn) ⭐ 67,284 | 🐛 2,158 | 🌐 Python | 📅 2026-09-17 - Machine learning library for classical algorithms and model building.
+* [XGBoost](https://github.com/dmlc/xgboost) ⭐ 28,776 | 🐛 439 | 🌐 C++ | 📅 2026-09-17 - Optimized distributed gradient boosting library for tree-based models.
+* [SHAP](https://github.com/shap/shap) ⭐ 25,760 | 🐛 989 | 🌐 Jupyter Notebook | 📅 2026-09-16 - Game theoretic approach to explain the output of any machine learning model.
+* [LightGBM](https://github.com/microsoft/LightGBM) ⭐ 18,772 | 🐛 519 | 🌐 C++ | 📅 2026-09-17 - Fast, distributed, high-performance gradient boosting framework.
+* [Optuna](https://github.com/optuna/optuna) ⭐ 14,808 | 🐛 20 | 🌐 Python | 📅 2026-09-16 - Hyperparameter optimization framework.
 * [dlib](https://github.com/davisking/dlib) ⭐ 14,444 | 🐛 40 | 🌐 C++ | 📅 2026-08-11 - Modern C++ toolkit containing machine learning algorithms and tools.
-* [CatBoost](https://github.com/catboost/catboost) ⭐ 9,101 | 🐛 720 | 🌐 C++ | 📅 2026-09-16 - High-performance gradient boosting on decision trees with categorical features support.
-* [H2O-3](https://github.com/h2oai/h2o-3) ⭐ 7,504 | 🐛 2,879 | 🌐 Jupyter Notebook | 📅 2026-09-08 - Open-source distributed machine learning platform.
-* [InterpretML](https://github.com/interpretml/interpret) ⭐ 6,942 | 🐛 42 | 🌐 C++ | 📅 2026-09-14 - Fit interpretable models and explain blackbox machine learning.
-* [cuML](https://github.com/rapidsai/cuml) ⭐ 5,280 | 🐛 802 | 🌐 Python | 📅 2026-09-16 - GPU-accelerated machine learning algorithms from RAPIDS.
+* [CatBoost](https://github.com/catboost/catboost) ⭐ 9,104 | 🐛 722 | 🌐 C++ | 📅 2026-09-17 - High-performance gradient boosting on decision trees with categorical features support.
+* [H2O-3](https://github.com/h2oai/h2o-3) ⭐ 7,506 | 🐛 2,879 | 🌐 Jupyter Notebook | 📅 2026-09-17 - Open-source distributed machine learning platform.
+* [InterpretML](https://github.com/interpretml/interpret) ⭐ 6,944 | 🐛 42 | 🌐 C++ | 📅 2026-09-14 - Fit interpretable models and explain blackbox machine learning.
+* [cuML](https://github.com/rapidsai/cuml) ⭐ 5,281 | 🐛 794 | 🌐 Python | 📅 2026-09-17 - GPU-accelerated machine learning algorithms from RAPIDS.
 
 #### Deep Learning
 
-* [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 200,144 | 🐛 3,147 | 🌐 C++ | 📅 2026-09-16 - End-to-end open source platform for machine learning and deep learning.
-* [HuggingFace Transformers](https://github.com/huggingface/transformers) ⭐ 166,258 | 🐛 2,432 | 🌐 Python | 📅 2026-09-16 - Model-definition framework for state-of-the-art machine learning models.
-* [PyTorch](https://github.com/pytorch/pytorch) ⭐ 103,057 | 🐛 17,628 | 🌐 Python | 📅 2026-09-16 - Deep learning framework with strong support for research and production.
-* [TensorFlow Models](https://github.com/tensorflow/models) ⭐ 77,657 | 🐛 1,275 | 🌐 Python | 📅 2026-09-16 - Official TensorFlow repository with models and examples.
-* [Keras](https://github.com/keras-team/keras) ⭐ 64,318 | 🐛 205 | 🌐 Python | 📅 2026-09-16 - High-level neural networks API, running on top of TensorFlow.
-* [Ultralytics](https://github.com/ultralytics/ultralytics) ⭐ 61,686 | 🐛 73 | 🌐 Python | 📅 2026-09-16 - YOLOv8 and other computer vision models.
-* [YOLOv5](https://github.com/ultralytics/yolov5) ⭐ 58,021 | 🐛 31 | 🌐 Python | 📅 2026-09-16 - Real-time object detection system.
-* [JAX](https://github.com/jax-ml/jax) ⭐ 36,307 | 🐛 2,568 | 🌐 Python | 📅 2026-09-16 - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
-* [HuggingFace Diffusers](https://github.com/huggingface/diffusers) ⭐ 34,531 | 🐛 1,424 | 🌐 Python | 📅 2026-09-16 - Library for state-of-the-art pretrained diffusion models.
-* [PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning) ⭐ 31,346 | 🐛 1,085 | 🌐 Python | 📅 2026-09-14 - PyTorch wrapper for high-performance AI research.
-* [Fast.ai](https://github.com/fastai/fastai) ⭐ 28,149 | 🐛 270 | 🌐 Jupyter Notebook | 📅 2026-09-14 - Deep learning library simplifying training fast and accurate neural nets.
-* [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric) ⭐ 24,085 | 🐛 1,337 | 🌐 Python | 📅 2026-09-01 - Geometric deep learning extension library for PyTorch.
-* [PEFT](https://github.com/huggingface/peft) ⭐ 21,687 | 🐛 84 | 🌐 Python | 📅 2026-09-16 - Library for efficiently adapting large pretrained models.
-* [ONNX](https://github.com/onnx/onnx) ⭐ 21,496 | 🐛 240 | 🌐 Python | 📅 2026-09-16 - Open standard for machine learning interoperability.
+* [TensorFlow](https://github.com/tensorflow/tensorflow) ⭐ 200,160 | 🐛 3,166 | 🌐 C++ | 📅 2026-09-17 - End-to-end open source platform for machine learning and deep learning.
+* [HuggingFace Transformers](https://github.com/huggingface/transformers) ⭐ 166,254 | 🐛 2,418 | 🌐 Python | 📅 2026-09-17 - Model-definition framework for state-of-the-art machine learning models.
+* [PyTorch](https://github.com/pytorch/pytorch) ⭐ 103,072 | 🐛 17,661 | 🌐 Python | 📅 2026-09-17 - Deep learning framework with strong support for research and production.
+* [TensorFlow Models](https://github.com/tensorflow/models) ⭐ 77,655 | 🐛 1,274 | 🌐 Python | 📅 2026-09-16 - Official TensorFlow repository with models and examples.
+* [Keras](https://github.com/keras-team/keras) ⭐ 64,320 | 🐛 203 | 🌐 Python | 📅 2026-09-17 - High-level neural networks API, running on top of TensorFlow.
+* [Ultralytics](https://github.com/ultralytics/ultralytics) ⭐ 61,728 | 🐛 78 | 🌐 Python | 📅 2026-09-17 - YOLOv8 and other computer vision models.
+* [YOLOv5](https://github.com/ultralytics/yolov5) ⭐ 58,033 | 🐛 31 | 🌐 Python | 📅 2026-09-16 - Real-time object detection system.
+* [JAX](https://github.com/jax-ml/jax) ⭐ 36,308 | 🐛 2,578 | 🌐 Python | 📅 2026-09-17 - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
+* [HuggingFace Diffusers](https://github.com/huggingface/diffusers) ⭐ 34,533 | 🐛 1,428 | 🌐 Python | 📅 2026-09-17 - Library for state-of-the-art pretrained diffusion models.
+* [PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning) ⭐ 31,349 | 🐛 1,085 | 🌐 Python | 📅 2026-09-17 - PyTorch wrapper for high-performance AI research.
+* [Fast.ai](https://github.com/fastai/fastai) ⭐ 28,164 | 🐛 270 | 🌐 Jupyter Notebook | 📅 2026-09-14 - Deep learning library simplifying training fast and accurate neural nets.
+* [PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric) ⭐ 24,087 | 🐛 1,337 | 🌐 Python | 📅 2026-09-01 - Geometric deep learning extension library for PyTorch.
+* [PEFT](https://github.com/huggingface/peft) ⭐ 21,691 | 🐛 81 | 🌐 Python | 📅 2026-09-17 - Library for efficiently adapting large pretrained models.
+* [ONNX](https://github.com/onnx/onnx) ⭐ 21,501 | 🐛 237 | 🌐 Python | 📅 2026-09-17 - Open standard for machine learning interoperability.
 * [Sonnet](https://github.com/google-deepmind/sonnet) ⭐ 9,970 | 🐛 44 | 🌐 Python | 📅 2026-07-07 - DeepMind's library for building complex neural networks.
 * [Pyro](https://github.com/pyro-ppl/pyro) ⭐ 9,055 | 🐛 291 | 🌐 Python | 📅 2026-09-07 - Deep universal probabilistic programming with Python and PyTorch.
 * [Skorch](https://github.com/skorch-dev/skorch) ⭐ 6,179 | 🐛 63 | 🌐 Jupyter Notebook | 📅 2026-09-08 - Scikit-learn compatible neural network library.
@@ -912,14 +912,14 @@ A collection of tools for developing and deploying machine learning models.
 
 Materials and curated lists for machine learning operations.
 
-* [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 20,917 | 🐛 32 | 📅 2026-09-06 - A curated list of tools for deploying, monitoring, and maintaining ML systems in production.
-* [ML Engineering Guide](https://github.com/stas00/ml-engineering) ⭐ 19,004 | 🐛 4 | 🌐 Python | 📅 2026-09-12 - A practical guide to machine learning engineering and MLOps best practices.
-* [Llama Cookbook](https://github.com/meta-llama/llama-cookbook) ⭐ 18,560 | 🐛 93 | 🌐 Jupyter Notebook | 📅 2026-05-19 - Official recipes and examples for working with Llama models.
-* [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) ⭐ 15,298 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-09-15 - A free course focused on the practical aspects of deploying and maintaining ML systems.
-* [Awesome MLOps (visenger)](https://github.com/visenger/awesome-mlops) ⭐ 14,215 | 🐛 45 | 📅 2024-11-21 - A curated list of references for MLOps.
-* [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) ⭐ 7,298 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-09-15 - A course dedicated to Large Language Models, their architecture and applications.
-* [Awesome LLMOps](https://github.com/tensorchord/Awesome-LLMOps) ⭐ 5,935 | 🐛 304 | 🌐 Shell | 📅 2026-05-21 - An awesome & curated list of best LLMOps tools for developers.
-* [Awesome MLOps (kelvins)](https://github.com/kelvins/awesome-mlops) ⭐ 5,276 | 🐛 87 | 🌐 Python | 📅 2026-08-17 - A curated list of awesome MLOps tools.
+* [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 20,921 | 🐛 33 | 📅 2026-09-06 - A curated list of tools for deploying, monitoring, and maintaining ML systems in production.
+* [ML Engineering Guide](https://github.com/stas00/ml-engineering) ⭐ 19,008 | 🐛 4 | 🌐 Python | 📅 2026-09-12 - A practical guide to machine learning engineering and MLOps best practices.
+* [Llama Cookbook](https://github.com/meta-llama/llama-cookbook) ⭐ 18,559 | 🐛 92 | 🌐 Jupyter Notebook | 📅 2026-05-19 - Official recipes and examples for working with Llama models.
+* [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) ⭐ 15,302 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-09-15 - A free course focused on the practical aspects of deploying and maintaining ML systems.
+* [Awesome MLOps (visenger)](https://github.com/visenger/awesome-mlops) ⭐ 14,216 | 🐛 46 | 📅 2024-11-21 - A curated list of references for MLOps.
+* [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) ⭐ 7,304 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-09-15 - A course dedicated to Large Language Models, their architecture and applications.
+* [Awesome LLMOps](https://github.com/tensorchord/Awesome-LLMOps) ⭐ 5,935 | 🐛 308 | 🌐 Shell | 📅 2026-05-21 - An awesome & curated list of best LLMOps tools for developers.
+* [Awesome MLOps (kelvins)](https://github.com/kelvins/awesome-mlops) ⭐ 5,276 | 🐛 88 | 🌐 Python | 📅 2026-08-17 - A curated list of awesome MLOps tools.
 * [Awesome Kubeflow](https://github.com/terrytangyuan/awesome-kubeflow) ⭐ 230 | 🐛 0 | 📅 2026-06-20 - Curated resources, tools, and projects for the Kubeflow machine learning platform.
 
 [⬆ back to contents](#contents)
@@ -932,24 +932,24 @@ Materials and curated lists for machine learning operations.
 
 Platforms and utilities for deploying, monitoring, and maintaining ML systems.
 
-* [vLLM](https://github.com/vllm-project/vllm) ⭐ 91,938 | 🐛 8,053 | 🌐 Python | 📅 2026-09-16 - High-throughput and memory-efficient inference library for LLMs.
-* [netdata](https://github.com/netdata/netdata) ⭐ 80,549 | 🐛 402 | 🌐 Go | 📅 2026-09-16 - Real-time performance monitoring.
-* [meilisearch](https://github.com/meilisearch/meilisearch) ⭐ 59,304 | 🐛 309 | 🌐 Rust | 📅 2026-09-16 - Fast, open-source search engine.
-* [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 58,915 | 🐛 5,135 | 🌐 Python | 📅 2026-09-16 - Unified interface to call all LLM APIs (OpenAI, Anthropic, Cohere, etc.) with consistent output formatting.
-* [ColossalAI](https://github.com/hpcaitech/ColossalAI) ⭐ 41,440 | 🐛 504 | 🌐 Python | 📅 2026-09-16 - High-performance distributed training framework.
-* [mindsdb](https://github.com/mindsdb/mindsdb) ⭐ 39,739 | 🐛 6 | 🌐 Makefile | 📅 2026-09-16 - Platform for integrating AI into databases and applications.
-* [MLflow](https://github.com/mlflow/mlflow) ⭐ 27,988 | 🐛 2,097 | 🌐 Python | 📅 2026-09-16 - Open-source platform for the complete machine learning lifecycle.
-* [haystack](https://github.com/deepset-ai/haystack) ⭐ 26,523 | 🐛 157 | 🌐 Python | 📅 2026-09-16 - LLM framework for building search and question answering systems.
-* [Comet ML](https://github.com/comet-ml/opik) ⭐ 22,069 | 🐛 268 | 🌐 Python | 📅 2026-09-16 - ML platform for tracking, comparing and optimizing experiments.
+* [vLLM](https://github.com/vllm-project/vllm) ⭐ 92,030 | 🐛 8,073 | 🌐 Python | 📅 2026-09-17 - High-throughput and memory-efficient inference library for LLMs.
+* [netdata](https://github.com/netdata/netdata) ⭐ 80,562 | 🐛 405 | 🌐 Go | 📅 2026-09-17 - Real-time performance monitoring.
+* [meilisearch](https://github.com/meilisearch/meilisearch) ⭐ 59,317 | 🐛 308 | 🌐 Rust | 📅 2026-09-17 - Fast, open-source search engine.
+* [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 59,010 | 🐛 5,203 | 🌐 Python | 📅 2026-09-17 - Unified interface to call all LLM APIs (OpenAI, Anthropic, Cohere, etc.) with consistent output formatting.
+* [ColossalAI](https://github.com/hpcaitech/ColossalAI) ⭐ 41,441 | 🐛 504 | 🌐 Python | 📅 2026-09-16 - High-performance distributed training framework.
+* [mindsdb](https://github.com/mindsdb/mindsdb) ⭐ 39,742 | 🐛 6 | 🌐 Makefile | 📅 2026-09-16 - Platform for integrating AI into databases and applications.
+* [MLflow](https://github.com/mlflow/mlflow) ⭐ 28,004 | 🐛 2,107 | 🌐 Python | 📅 2026-09-17 - Open-source platform for the complete machine learning lifecycle.
+* [haystack](https://github.com/deepset-ai/haystack) ⭐ 26,531 | 🐛 155 | 🌐 Python | 📅 2026-09-17 - LLM framework for building search and question answering systems.
+* [Comet ML](https://github.com/comet-ml/opik) ⭐ 22,099 | 🐛 274 | 🌐 Python | 📅 2026-09-17 - ML platform for tracking, comparing and optimizing experiments.
 * [Jina AI Serve](https://github.com/jina-ai/serve) ⭐ 21,860 | 🐛 26 | 🌐 Python | 📅 2025-03-24 - Framework for building and deploying AI services that communicate via gRPC, HTTP and WebSockets.
-* [DVC](https://github.com/iterative/dvc) ⭐ 15,875 | 🐛 210 | 🌐 Python | 📅 2026-09-14 - Version control system for machine learning projects.
-* [Kubeflow](https://github.com/kubeflow/kubeflow) ⭐ 15,869 | 🐛 1 | 📅 2026-08-21 - Machine learning toolkit for Kubernetes.
-* [Wandb](https://github.com/wandb/wandb) ⭐ 11,251 | 🐛 971 | 🌐 Python | 📅 2026-09-16 - Tool for experiment tracking, dataset versioning, and model management.
-* [Netflix Metaflow](https://github.com/Netflix/metaflow) ⭐ 10,270 | 🐛 500 | 🌐 Python | 📅 2026-09-14 - A human-friendly Python library for helping scientists and engineers build and manage real-life data science projects.
+* [DVC](https://github.com/iterative/dvc) ⭐ 15,876 | 🐛 211 | 🌐 Python | 📅 2026-09-14 - Version control system for machine learning projects.
+* [Kubeflow](https://github.com/kubeflow/kubeflow) ⭐ 15,871 | 🐛 1 | 📅 2026-08-21 - Machine learning toolkit for Kubernetes.
+* [Wandb](https://github.com/wandb/wandb) ⭐ 11,252 | 🐛 984 | 🌐 Python | 📅 2026-09-17 - Tool for experiment tracking, dataset versioning, and model management.
+* [Netflix Metaflow](https://github.com/Netflix/metaflow) ⭐ 10,271 | 🐛 502 | 🌐 Python | 📅 2026-09-14 - A human-friendly Python library for helping scientists and engineers build and manage real-life data science projects.
 * [BentoML](https://github.com/bentoml/BentoML) ⭐ 8,847 | 🐛 219 | 🌐 Python | 📅 2026-09-07 - Framework for building, shipping, and scaling ML applications.
-* [Evidently](https://github.com/evidentlyai/evidently) ⭐ 7,922 | 🐛 304 | 🌐 Jupyter Notebook | 📅 2026-09-11 - Tool for analyzing and monitoring data and model drift.
-* [Feast](https://github.com/feast-dev/feast) ⭐ 7,274 | 🐛 439 | 🌐 Python | 📅 2026-09-16 - A feature store for machine learning that manages and serves ML features to models.
-* [KServe](https://github.com/kserve/kserve) ⭐ 5,945 | 🐛 210 | 🌐 Go | 📅 2026-09-16 - Standardized serverless inference platform for deploying and serving machine learning models on Kubernetes.
+* [Evidently](https://github.com/evidentlyai/evidently) ⭐ 7,923 | 🐛 304 | 🌐 Jupyter Notebook | 📅 2026-09-11 - Tool for analyzing and monitoring data and model drift.
+* [Feast](https://github.com/feast-dev/feast) ⭐ 7,276 | 🐛 437 | 🌐 Python | 📅 2026-09-17 - A feature store for machine learning that manages and serves ML features to models.
+* [KServe](https://github.com/kserve/kserve) ⭐ 5,947 | 🐛 208 | 🌐 Go | 📅 2026-09-17 - Standardized serverless inference platform for deploying and serving machine learning models on Kubernetes.
 * [SQLFlow](https://github.com/sql-machine-learning/sqlflow) ⭐ 5,188 | 🐛 250 | 🌐 Go | 📅 2024-04-18 - Brings machine learning capabilities to SQL, enabling model training and prediction using SQL syntax.
 * [Seldon Core](https://github.com/SeldonIO/seldon-core) ⭐ 4,781 | 🐛 396 | 🌐 Go | 📅 2026-03-23 - Open source platform for deploying and monitoring machine learning models in production.
 * [Deepchecks](https://github.com/deepchecks/deepchecks) ⭐ 4,055 | 🐛 267 | 🌐 Python | 📅 2025-12-28 - Validation for ML models and data.
@@ -969,33 +969,33 @@ Platforms and utilities for deploying, monitoring, and maintaining ML systems.
 
 A collection of resources focused on AI applications and platforms.
 
-* [System Prompts and Models](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ⭐ 143,676 | 🐛 162 | 📅 2026-08-11 - System Prompts, Internal Tools & AI Models from various AI applications and coding tools.
-* [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 138,512 | 🐛 15 | 🌐 Python | 📅 2026-09-16 - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-* [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) ⭐ 119,895 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2026-09-15 - Course on generative AI for beginners from Microsoft.
-* [LLM Course](https://github.com/mlabonne/llm-course) ⭐ 82,970 | 🐛 90 | 📅 2026-02-05 - Practical course to master large language models from start to finish.
-* [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 78,385 | 🐛 281 | 🌐 MDX | 📅 2026-03-11 - Guides, papers, and resources for prompt engineering with LLMs.
-* [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) ⭐ 74,897 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-09-10 - Microsoft's course on designing and building AI agents.
-* [Claude Cookbooks](https://github.com/anthropics/claude-cookbooks) ⭐ 52,747 | 🐛 337 | 🌐 Jupyter Notebook | 📅 2026-09-16 - Official Anthropic examples and recipes for working with Claude AI.
-* [500 AI Agents Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) ⭐ 37,789 | 🐛 63 | 🌐 Python | 📅 2026-07-27 - 500+ AI agent projects with code for learning and inspiration.
-* [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub) ⭐ 37,571 | 🐛 124 | 🌐 Jupyter Notebook | 📅 2026-09-10 - Resources for building, deploying, and maintaining AI systems.
-* [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐ 30,042 | 🐛 1,039 | 📅 2026-08-21 - A curated list of AI autonomous agents, environments, and frameworks.
-* [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) ⭐ 29,513 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-09-15 - Collection of advanced techniques for Retrieval-Augmented Generation.
-* [Hands On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) ⭐ 29,133 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2026-04-24 - Covers LLM fundamentals, prompt engineering, and fine-tuning.
-* [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) ⭐ 24,305 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2026-09-15 - Repository of AI agent implementations and tutorials.
-* [Agents Towards Production](https://github.com/NirDiamant/agents-towards-production) ⭐ 21,464 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-09-15 - Code-first tutorials for building production-grade GenAI agents.
-* [Awesome AI Apps](https://github.com/Arindam200/awesome-ai-apps) ⭐ 15,445 | 🐛 57 | 🌐 Python | 📅 2026-09-08 - A collection of projects showcasing RAG, agents, workflows, and other AI use cases.
-* [Open LLMs](https://github.com/eugeneyan/open-llms) ⭐ 12,875 | 🐛 10 | 📅 2025-02-13 - Comprehensive list of open-source large language models and their capabilities.
-* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,645 | 🐛 671 | 📅 2026-09-16 - A curated list of modern Generative Artificial Intelligence projects and services.
+* [System Prompts and Models](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ⭐ 143,697 | 🐛 162 | 📅 2026-08-11 - System Prompts, Internal Tools & AI Models from various AI applications and coding tools.
+* [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 138,664 | 🐛 19 | 🌐 Python | 📅 2026-09-16 - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+* [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) ⭐ 119,959 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2026-09-17 - Course on generative AI for beginners from Microsoft.
+* [LLM Course](https://github.com/mlabonne/llm-course) ⭐ 83,002 | 🐛 90 | 📅 2026-02-05 - Practical course to master large language models from start to finish.
+* [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) ⭐ 78,417 | 🐛 281 | 🌐 MDX | 📅 2026-03-11 - Guides, papers, and resources for prompt engineering with LLMs.
+* [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) ⭐ 75,003 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-09-10 - Microsoft's course on designing and building AI agents.
+* [Claude Cookbooks](https://github.com/anthropics/claude-cookbooks) ⭐ 52,777 | 🐛 338 | 🌐 Jupyter Notebook | 📅 2026-09-16 - Official Anthropic examples and recipes for working with Claude AI.
+* [500 AI Agents Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) ⭐ 37,814 | 🐛 64 | 🌐 Python | 📅 2026-07-27 - 500+ AI agent projects with code for learning and inspiration.
+* [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub) ⭐ 37,637 | 🐛 124 | 🌐 Jupyter Notebook | 📅 2026-09-10 - Resources for building, deploying, and maintaining AI systems.
+* [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) ⭐ 30,059 | 🐛 1,040 | 📅 2026-08-21 - A curated list of AI autonomous agents, environments, and frameworks.
+* [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) ⭐ 29,520 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-09-15 - Collection of advanced techniques for Retrieval-Augmented Generation.
+* [Hands On Large Language Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) ⭐ 29,153 | 🐛 40 | 🌐 Jupyter Notebook | 📅 2026-04-24 - Covers LLM fundamentals, prompt engineering, and fine-tuning.
+* [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) ⭐ 24,316 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2026-09-15 - Repository of AI agent implementations and tutorials.
+* [Agents Towards Production](https://github.com/NirDiamant/agents-towards-production) ⭐ 21,469 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-09-17 - Code-first tutorials for building production-grade GenAI agents.
+* [Awesome AI Apps](https://github.com/Arindam200/awesome-ai-apps) ⭐ 15,569 | 🐛 61 | 🌐 Python | 📅 2026-09-08 - A collection of projects showcasing RAG, agents, workflows, and other AI use cases.
+* [Open LLMs](https://github.com/eugeneyan/open-llms) ⭐ 12,877 | 🐛 10 | 📅 2025-02-13 - Comprehensive list of open-source large language models and their capabilities.
+* [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,648 | 🐛 680 | 📅 2026-09-16 - A curated list of modern Generative Artificial Intelligence projects and services.
 * [LLM Engineer Toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) ⭐ 10,792 | 🐛 17 | 📅 2026-09-09 - Curated list of 120+ LLM libraries across various categories.
-* [Awesome LangChain](https://github.com/kyrolabs/awesome-langchain) ⭐ 9,535 | 🐛 2 | 📅 2026-08-11 - Awesome list of tools and projects with the awesome LangChain framework.
-* [AI Collection](https://github.com/ai-collection/ai-collection) ⭐ 9,157 | 🐛 25 | 📅 2026-09-10 - The Generative AI Landscape - A Collection of Awesome Generative AI Applications.
-* [Prompt Engineering](https://github.com/NirDiamant/prompt_engineering) ⭐ 7,853 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-09-15 - Collection of prompt engineering techniques and strategies.
+* [Awesome LangChain](https://github.com/kyrolabs/awesome-langchain) ⭐ 9,536 | 🐛 7 | 📅 2026-08-11 - Awesome list of tools and projects with the awesome LangChain framework.
+* [AI Collection](https://github.com/ai-collection/ai-collection) ⭐ 9,158 | 🐛 22 | 📅 2026-09-17 - The Generative AI Landscape - A Collection of Awesome Generative AI Applications.
+* [Prompt Engineering](https://github.com/NirDiamant/prompt_engineering) ⭐ 7,855 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-09-15 - Collection of prompt engineering techniques and strategies.
 * [AI Notes](https://github.com/swyxio/ai-notes) ⭐ 6,252 | 🐛 8 | 🌐 HTML | 📅 2026-02-16 - Personal notes and essays on AI and software development.
-* [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) ⭐ 6,218 | 🐛 1,340 | 📅 2025-12-31 - A curated list of Artificial Intelligence Top Tools.
+* [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) ⭐ 6,226 | 🐛 1,345 | 📅 2025-12-31 - A curated list of Artificial Intelligence Top Tools.
 * [Awesome N8N](https://github.com/restyler/awesome-n8n) ⭐ 2,982 | 🐛 36 | 📅 2026-01-20 - Collection of templates, integrations, and resources for the n8n automation platform.
-* [Generative AI](https://github.com/genieincodebottle/generative-ai) ⭐ 2,633 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-13 - Roadmap and resources for mastering generative AI technologies.
-* [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security) ⭐ 1,698 | 🐛 223 | 📅 2025-08-20 - A curation of awesome tools, documents and projects about LLM Security.
-* [Ai Dev Tools Zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) ⭐ 1,621 | 🐛 3 | 🌐 Python | 📅 2026-09-15 - Free hands-on course on modern tools for building and deploying AI applications.
+* [Generative AI](https://github.com/genieincodebottle/generative-ai) ⭐ 2,636 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-13 - Roadmap and resources for mastering generative AI technologies.
+* [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security) ⭐ 1,699 | 🐛 226 | 📅 2025-08-20 - A curation of awesome tools, documents and projects about LLM Security.
+* [Ai Dev Tools Zoomcamp](https://github.com/DataTalksClub/ai-dev-tools-zoomcamp) ⭐ 1,623 | 🐛 3 | 🌐 Python | 📅 2026-09-15 - Free hands-on course on modern tools for building and deploying AI applications.
 * [Free Llm Api Resources](https://github.com/cheahjs/free-llm-api-resources) - Up-to-date list of free APIs for accessing large language models (LLMs).
 
 [⬆ back to contents](#contents)
@@ -1010,95 +1010,95 @@ A collection of frameworks, platforms, and end-user applications for building an
 
 #### AI Agents & Automation
 
-* [n8n](https://github.com/n8n-io/n8n) ⭐ 204,646 | 🐛 1,178 | 🌐 TypeScript | 📅 2026-09-16 - Workflow automation platform for connecting APIs and services.
-* [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 187,395 | 🐛 568 | 🌐 Python | 📅 2026-09-16 - Autonomous AI agent that can complete complex tasks.
-* [Langflow](https://github.com/langflow-ai/langflow) ⭐ 154,895 | 🐛 1,069 | 🌐 Python | 📅 2026-09-16 - Powerful visual platform for building and deploying AI-powered agents and workflows.
-* [MetaGPT](https://github.com/FoundationAgents/MetaGPT) ⭐ 70,426 | 🐛 133 | 🌐 Python | 📅 2026-01-21 - Multi-agent framework that simulates roles in a software company to build projects.
-* [mem0](https://github.com/mem0ai/mem0) ⭐ 65,430 | 🐛 755 | 🌐 Python | 📅 2026-09-16 - AI memory system for long-term context and personalized interactions.
-* [autogen](https://github.com/microsoft/autogen) ⭐ 61,006 | 🐛 1,071 | 🌐 Python | 📅 2026-04-15 - Framework for building multi-agent conversational systems.
-* [crewAI](https://github.com/crewAIInc/crewAI) ⭐ 58,663 | 🐛 811 | 🌐 Python | 📅 2026-09-16 - Framework for orchestrating role-playing AI agents.
-* [OpenManus](https://github.com/FoundationAgents/OpenManus) ⭐ 58,324 | 🐛 457 | 🌐 Python | 📅 2026-08-22 - Open-source platform for building and deploying AI agents.
-* [N8N Workflows](https://github.com/Zie619/n8n-workflows) ⭐ 56,643 | 🐛 41 | 🌐 Python | 📅 2026-06-24 - Collection of ready-to-use workflow templates for the n8n automation platform.
+* [n8n](https://github.com/n8n-io/n8n) ⭐ 204,936 | 🐛 1,195 | 🌐 TypeScript | 📅 2026-09-17 - Workflow automation platform for connecting APIs and services.
+* [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 187,411 | 🐛 584 | 🌐 Python | 📅 2026-09-17 - Autonomous AI agent that can complete complex tasks.
+* [Langflow](https://github.com/langflow-ai/langflow) ⭐ 154,944 | 🐛 1,087 | 🌐 Python | 📅 2026-09-17 - Powerful visual platform for building and deploying AI-powered agents and workflows.
+* [MetaGPT](https://github.com/FoundationAgents/MetaGPT) ⭐ 70,472 | 🐛 132 | 🌐 Python | 📅 2026-01-21 - Multi-agent framework that simulates roles in a software company to build projects.
+* [mem0](https://github.com/mem0ai/mem0) ⭐ 65,510 | 🐛 760 | 🌐 Python | 📅 2026-09-17 - AI memory system for long-term context and personalized interactions.
+* [autogen](https://github.com/microsoft/autogen) ⭐ 61,021 | 🐛 1,074 | 🌐 Python | 📅 2026-04-15 - Framework for building multi-agent conversational systems.
+* [crewAI](https://github.com/crewAIInc/crewAI) ⭐ 58,706 | 🐛 339 | 🌐 Python | 📅 2026-09-17 - Framework for orchestrating role-playing AI agents.
+* [OpenManus](https://github.com/FoundationAgents/OpenManus) ⭐ 58,333 | 🐛 458 | 🌐 Python | 📅 2026-08-22 - Open-source platform for building and deploying AI agents.
+* [N8N Workflows](https://github.com/Zie619/n8n-workflows) ⭐ 56,654 | 🐛 41 | 🌐 Python | 📅 2026-06-24 - Collection of ready-to-use workflow templates for the n8n automation platform.
 * [Flowise](https://github.com/FlowiseAI/Flowise) ⚠️ Archived - Open-source UI visual tool for building custom LLM orchestration flows and AI agents.
-* [LangGraph](https://github.com/langchain-ai/langgraph) ⭐ 41,777 | 🐛 790 | 🌐 Python | 📅 2026-09-16 - Framework for building stateful, multi-actor applications with LLMs, with cycles and control flow.
-* [deepagents](https://github.com/langchain-ai/deepagents) ⭐ 29,485 | 🐛 191 | 🌐 Python | 📅 2026-09-16 - LangChain framework for building sophisticated multi-agent systems.
-* [Mastra](https://github.com/mastra-ai/mastra) ⭐ 28,111 | 🐛 543 | 🌐 TypeScript | 📅 2026-09-16 - Open-source AI agent platform for building and scaling production-grade autonomous agents.
-* [agenticSeek](https://github.com/Fosowl/agenticSeek) ⭐ 27,223 | 🐛 25 | 🌐 Python | 📅 2026-09-13 - Framework for building and deploying AI agents with advanced reasoning and tool use.
-* [Agents.md](https://github.com/openai/agents.md) ⭐ 24,414 | 🐛 176 | 🌐 TypeScript | 📅 2026-09-10 - Open source framework for building agentic AI systems.
+* [LangGraph](https://github.com/langchain-ai/langgraph) ⭐ 41,843 | 🐛 794 | 🌐 Python | 📅 2026-09-17 - Framework for building stateful, multi-actor applications with LLMs, with cycles and control flow.
+* [deepagents](https://github.com/langchain-ai/deepagents) ⭐ 29,525 | 🐛 202 | 🌐 Python | 📅 2026-09-17 - LangChain framework for building sophisticated multi-agent systems.
+* [Mastra](https://github.com/mastra-ai/mastra) ⭐ 28,143 | 🐛 504 | 🌐 TypeScript | 📅 2026-09-17 - Open-source AI agent platform for building and scaling production-grade autonomous agents.
+* [agenticSeek](https://github.com/Fosowl/agenticSeek) ⭐ 27,239 | 🐛 27 | 🌐 Python | 📅 2026-09-13 - Framework for building and deploying AI agents with advanced reasoning and tool use.
+* [Agents.md](https://github.com/openai/agents.md) ⭐ 24,430 | 🐛 176 | 🌐 TypeScript | 📅 2026-09-10 - Open source framework for building agentic AI systems.
   ogrammatically.
-* [OpenWork](https://github.com/different-ai/openwork) ⭐ 23,592 | 🐛 522 | 🌐 TypeScript | 📅 2026-09-16 - Open-source desktop alternative to Claude Cowork for running agents, skills, and MCP locally with team collaboration features.
-* [Skyvern](https://github.com/Skyvern-AI/skyvern) ⭐ 23,016 | 🐛 245 | 🌐 Python | 📅 2026-09-16 - AI browser automation using LLMs & computer vision. Playwright-compatible SDK + no-code workflows.
-* [Personal Ai Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) ⭐ 19,036 | 🐛 83 | 🌐 TypeScript | 📅 2026-09-04 - Framework for building a personal AI assistant with memory, skills, and learning ability.
-* [Rowboat](https://github.com/rowboatlabs/rowboat) ⭐ 17,675 | 🐛 170 | 🌐 TypeScript | 📅 2026-09-15 - Open-source AI coworker that learns from your emails/meetings to automate drafting, prep, and tasks.
-* [web-ui](https://github.com/browser-use/web-ui) ⭐ 16,564 | 🐛 324 | 🌐 Python | 📅 2026-05-15 - AI-powered browser automation framework for web interaction.
+* [OpenWork](https://github.com/different-ai/openwork) ⭐ 23,614 | 🐛 535 | 🌐 TypeScript | 📅 2026-09-17 - Open-source desktop alternative to Claude Cowork for running agents, skills, and MCP locally with team collaboration features.
+* [Skyvern](https://github.com/Skyvern-AI/skyvern) ⭐ 23,021 | 🐛 240 | 🌐 Python | 📅 2026-09-17 - AI browser automation using LLMs & computer vision. Playwright-compatible SDK + no-code workflows.
+* [Personal Ai Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) ⭐ 19,051 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-04 - Framework for building a personal AI assistant with memory, skills, and learning ability.
+* [Rowboat](https://github.com/rowboatlabs/rowboat) ⭐ 17,875 | 🐛 175 | 🌐 TypeScript | 📅 2026-09-17 - Open-source AI coworker that learns from your emails/meetings to automate drafting, prep, and tasks.
+* [web-ui](https://github.com/browser-use/web-ui) ⭐ 16,566 | 🐛 324 | 🌐 Python | 📅 2026-05-15 - AI-powered browser automation framework for web interaction.
 * [Agent-S](https://github.com/simular-ai/Agent-S) ⭐ 12,312 | 🐛 43 | 🌐 Python | 📅 2026-09-05 - Open agentic framework that autonomously interacts with computer GUIs like a human.
-* [trae-agent](https://github.com/bytedance/trae-agent) ⭐ 12,098 | 🐛 163 | 🌐 Python | 📅 2026-02-05 - Tool-using reasoning agent with execution-augmented reasoning.
-* [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) ⭐ 9,100 | 🐛 901 | 🌐 Python | 📅 2026-09-16 - Local AI research assistant that searches web, papers, and documents.
-* [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) ⭐ 4,630 | 🐛 25 | 🌐 Python | 📅 2026-09-11 - Agentic LLM for autonomous data science, which can autonomously complete a wide range of data-centric tasks without human intervention.
+* [trae-agent](https://github.com/bytedance/trae-agent) ⭐ 12,101 | 🐛 163 | 🌐 Python | 📅 2026-02-05 - Tool-using reasoning agent with execution-augmented reasoning.
+* [Local Deep Research](https://github.com/LearningCircuit/local-deep-research) ⭐ 9,099 | 🐛 899 | 🌐 Python | 📅 2026-09-17 - Local AI research assistant that searches web, papers, and documents.
+* [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) ⭐ 4,635 | 🐛 27 | 🌐 Python | 📅 2026-09-11 - Agentic LLM for autonomous data science, which can autonomously complete a wide range of data-centric tasks without human intervention.
 * [youtu-agent](https://github.com/TencentCloudADP/youtu-agent) ⭐ 4,611 | 🐛 75 | 🌐 Python | 📅 2026-03-21 - Multi-modal intelligent agent framework by Tencent Cloud.
-* [Gptme](https://github.com/gptme/gptme) ⭐ 4,416 | 🐛 20 | 🌐 Python | 📅 2026-09-16 - AI agent CLI that writes code, uses terminal, browses web, and runs locally.
+* [Gptme](https://github.com/gptme/gptme) ⭐ 4,416 | 🐛 18 | 🌐 Python | 📅 2026-09-17 - AI agent CLI that writes code, uses terminal, browses web, and runs locally.
 * [FutureSearch SDK](https://github.com/futuresearch/futuresearch-python) ⭐ 55 | 🐛 3 | 🌐 Python | 📅 2026-09-15 - Python SDK that dispatches parallel web-research agents across
   table rows, synthesizing multi-agent findings into structured columns.
 
 #### Development Frameworks & Tools
 
-* [firecrawl](https://github.com/firecrawl/firecrawl) ⭐ 181,282 | 🐛 633 | 🌐 TypeScript | 📅 2026-09-16 - Web crawling and data extraction service for AI applications.
-* [Langflow](https://github.com/langflow-ai/langflow) ⭐ 154,895 | 🐛 1,069 | 🌐 Python | 📅 2026-09-16 - Powerful visual platform for building and deploying AI-powered agents and workflows.
-* [LangChain](https://github.com/langchain-ai/langchain) ⭐ 146,469 | 🐛 529 | 🌐 Python | 📅 2026-09-16 - Framework for developing applications powered by language models.
-* [ragflow](https://github.com/infiniflow/ragflow) ⭐ 90,832 | 🐛 1,474 | 🌐 Go | 📅 2026-09-16 - Open-source RAG (Retrieval-Augmented Generation) workflow platform.
-* [LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 52,191 | 🐛 785 | 🌐 Python | 📅 2026-09-15 - Data framework for LLM-based applications with RAG capabilities.
-* [Fabric](https://github.com/danielmiessler/Fabric) ⭐ 43,941 | 🐛 71 | 🌐 Go | 📅 2026-09-07 - Framework for augmenting humans using AI.
-* [openai-python](https://github.com/openai/openai-python) ⭐ 31,628 | 🐛 251 | 🌐 Python | 📅 2026-09-16 - Official Python library for OpenAI API.
-* [openai-agents-python](https://github.com/openai/openai-agents-python) ⭐ 29,496 | 🐛 84 | 🌐 Python | 📅 2026-09-16 - Official OpenAI framework for building AI agents.
-* [Dyad](https://github.com/dyad-sh/dyad) ⭐ 21,566 | 🐛 346 | 🌐 TypeScript | 📅 2026-09-16 - Open-source platform for building AI applications with custom API keys.
-* [NeMo](https://github.com/NVIDIA-NeMo/NeMo) ⭐ 18,465 | 🐛 315 | 🌐 Python | 📅 2026-09-16 - Scalable generative AI framework from NVIDIA for LLMs, Multimodal, and Speech AI.
-* [Deepcode](https://github.com/HKUDS/DeepCode) ⭐ 16,547 | 🐛 29 | 🌐 Python | 📅 2026-09-16 - AI-powered agent framework for automatic code generation from research papers and text.
+* [firecrawl](https://github.com/firecrawl/firecrawl) ⭐ 181,651 | 🐛 638 | 🌐 TypeScript | 📅 2026-09-17 - Web crawling and data extraction service for AI applications.
+* [Langflow](https://github.com/langflow-ai/langflow) ⭐ 154,944 | 🐛 1,087 | 🌐 Python | 📅 2026-09-17 - Powerful visual platform for building and deploying AI-powered agents and workflows.
+* [LangChain](https://github.com/langchain-ai/langchain) ⭐ 146,540 | 🐛 537 | 🌐 Python | 📅 2026-09-17 - Framework for developing applications powered by language models.
+* [ragflow](https://github.com/infiniflow/ragflow) ⭐ 90,892 | 🐛 1,437 | 🌐 Go | 📅 2026-09-17 - Open-source RAG (Retrieval-Augmented Generation) workflow platform.
+* [LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 52,203 | 🐛 803 | 🌐 Python | 📅 2026-09-17 - Data framework for LLM-based applications with RAG capabilities.
+* [Fabric](https://github.com/danielmiessler/Fabric) ⭐ 43,961 | 🐛 72 | 🌐 Go | 📅 2026-09-07 - Framework for augmenting humans using AI.
+* [openai-python](https://github.com/openai/openai-python) ⭐ 31,636 | 🐛 255 | 🌐 Python | 📅 2026-09-17 - Official Python library for OpenAI API.
+* [openai-agents-python](https://github.com/openai/openai-agents-python) ⭐ 29,525 | 🐛 78 | 🌐 Python | 📅 2026-09-17 - Official OpenAI framework for building AI agents.
+* [Dyad](https://github.com/dyad-sh/dyad) ⭐ 21,575 | 🐛 349 | 🌐 TypeScript | 📅 2026-09-17 - Open-source platform for building AI applications with custom API keys.
+* [NeMo](https://github.com/NVIDIA-NeMo/NeMo) ⭐ 18,469 | 🐛 316 | 🌐 Python | 📅 2026-09-17 - Scalable generative AI framework from NVIDIA for LLMs, Multimodal, and Speech AI.
+* [Deepcode](https://github.com/HKUDS/DeepCode) ⭐ 16,551 | 🐛 18 | 🌐 Python | 📅 2026-09-17 - AI-powered agent framework for automatic code generation from research papers and text.
 
 #### Code Generation & Assistance
 
 * [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) ⚠️ Archived - AI-powered code generation tool.
-* [tabby](https://github.com/TabbyML/tabby) ⭐ 33,882 | 🐛 336 | 🌐 Rust | 📅 2026-06-30 - Self-hosted AI coding assistant.
-* [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) ⭐ 33,678 | 🐛 252 | 🌐 Python | 📅 2026-06-18 - AI pair programmer that writes entire applications.
+* [tabby](https://github.com/TabbyML/tabby) ⭐ 33,884 | 🐛 338 | 🌐 Rust | 📅 2026-06-30 - Self-hosted AI coding assistant.
+* [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) ⭐ 33,674 | 🐛 252 | 🌐 Python | 📅 2026-06-18 - AI pair programmer that writes entire applications.
 
 #### Model Deployment & Platforms
 
-* [Ollama](https://github.com/jmorganca/ollama) ⭐ 181,186 | 🐛 4,021 | 🌐 Go | 📅 2026-09-16 - Tool for running large language models locally.
-* [dify](https://github.com/langgenius/dify) ⭐ 155,992 | 🐛 1,088 | 🌐 TypeScript | 📅 2026-09-16 - Visual LLM application development platform.
-* [unsloth](https://github.com/unslothai/unsloth) ⭐ 76,244 | 🐛 1,279 | 🌐 Python | 📅 2026-09-16 - Library for faster and more memory-efficient LLM fine-tuning.
-* [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) ⭐ 74,817 | 🐛 1,154 | 🌐 Python | 📅 2026-09-14 - Easy-to-use LLM fine-tuning framework.
-* [LocalAI](https://github.com/mudler/LocalAI) ⭐ 49,137 | 🐛 168 | 🌐 Go | 📅 2026-09-16 - Self-hosted, local-first AI model deployment platform.
-* [LocalGPT](https://github.com/PromtEngineer/localGPT) ⭐ 22,198 | 🐛 22 | 🌐 Python | 📅 2026-08-26 - Fully private, on-premise document intelligence platform for chatting with your documents using local LLMs.
-* [OpenLLM](https://github.com/bentoml/OpenLLM) ⭐ 12,534 | 🐛 17 | 🌐 Python | 📅 2026-09-14 - Open platform for operating large language models in production.
+* [Ollama](https://github.com/jmorganca/ollama) ⭐ 181,164 | 🐛 4,030 | 🌐 Go | 📅 2026-09-17 - Tool for running large language models locally.
+* [dify](https://github.com/langgenius/dify) ⭐ 156,179 | 🐛 1,093 | 🌐 TypeScript | 📅 2026-09-17 - Visual LLM application development platform.
+* [unsloth](https://github.com/unslothai/unsloth) ⭐ 76,312 | 🐛 1,235 | 🌐 Python | 📅 2026-09-17 - Library for faster and more memory-efficient LLM fine-tuning.
+* [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) ⭐ 74,837 | 🐛 1,156 | 🌐 Python | 📅 2026-09-14 - Easy-to-use LLM fine-tuning framework.
+* [LocalAI](https://github.com/mudler/LocalAI) ⭐ 49,145 | 🐛 188 | 🌐 Go | 📅 2026-09-17 - Self-hosted, local-first AI model deployment platform.
+* [LocalGPT](https://github.com/PromtEngineer/localGPT) ⭐ 22,200 | 🐛 22 | 🌐 Python | 📅 2026-08-26 - Fully private, on-premise document intelligence platform for chatting with your documents using local LLMs.
+* [OpenLLM](https://github.com/bentoml/OpenLLM) ⭐ 12,535 | 🐛 17 | 🌐 Python | 📅 2026-09-14 - Open platform for operating large language models in production.
 
 #### AI Reliability & Debugging
 
-* [DeepEval](https://github.com/confident-ai/deepeval) ⭐ 18,298 | 🐛 608 | 🌐 Python | 📅 2026-09-16 - Pytest-style unit testing framework for LLMs. Metrics for RAG, agents, hallucination, summarization, and custom criteria.
-* [RAGAS](https://github.com/vibrantlabsai/ragas) ⭐ 15,754 | 🐛 595 | 🌐 Python | 📅 2026-02-24 - Evaluation toolkit for LLM apps. Metrics, test generation, and insights for optimizing RAG pipelines and agents.
-* [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,499 | 🐛 1,002 | 🌐 Python | 📅 2026-09-16 - AI observability platform. Tracing, datasets, experiments, and playground for troubleshooting and evaluating LLM apps.
-* [WFGY](https://github.com/onestardao/WFGY) ⭐ 1,792 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-09-16 - Open-source debugging infrastructure for RAG and AI agents. Includes 16-problem RAG failure map and TXT stress-test engine.
+* [DeepEval](https://github.com/confident-ai/deepeval) ⭐ 18,313 | 🐛 613 | 🌐 Python | 📅 2026-09-16 - Pytest-style unit testing framework for LLMs. Metrics for RAG, agents, hallucination, summarization, and custom criteria.
+* [RAGAS](https://github.com/vibrantlabsai/ragas) ⭐ 15,763 | 🐛 596 | 🌐 Python | 📅 2026-02-24 - Evaluation toolkit for LLM apps. Metrics, test generation, and insights for optimizing RAG pipelines and agents.
+* [Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,519 | 🐛 1,011 | 🌐 Python | 📅 2026-09-17 - AI observability platform. Tracing, datasets, experiments, and playground for troubleshooting and evaluating LLM apps.
+* [WFGY](https://github.com/onestardao/WFGY) ⭐ 1,792 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-09-17 - Open-source debugging infrastructure for RAG and AI agents. Includes 16-problem RAG failure map and TXT stress-test engine.
 
 #### End-User Applications
 
-* [open-webui](https://github.com/open-webui/open-webui) ⭐ 152,299 | 🐛 292 | 🌐 Python | 📅 2026-09-16 - Web interface for interacting with various LLMs.
-* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 133,534 | 🐛 4,883 | 🌐 Python | 📅 2026-09-16 - Visual node-based interface for Stable Diffusion.
-* [lobe-chat](https://github.com/lobehub/lobe-chat) ⭐ 82,540 | 🐛 961 | 🌐 TypeScript | 📅 2026-09-16 - Modern AI conversation interface.
-* [upscayl](https://github.com/upscayl/upscayl) ⭐ 49,296 | 🐛 48 | 🌐 TypeScript | 📅 2026-09-15 - AI-powered image upscaling tool.
-* [LibreChat](https://github.com/danny-avila/LibreChat) ⭐ 44,178 | 🐛 760 | 🌐 TypeScript | 📅 2026-09-16 - Open-source ChatGPT alternative.
-* [DeepTutor](https://github.com/HKUDS/DeepTutor) ⭐ 39,808 | 🐛 252 | 🌐 Python | 📅 2026-09-15 - AI-powered personalized learning assistant with document Q\&A, exercise generation, and deep research capabilities.
-* [quivr](https://github.com/QuivrHQ/quivr) ⭐ 39,528 | 🐛 34 | 🌐 Python | 📅 2026-08-31 - Personal second brain and AI assistant.
-* [facefusion](https://github.com/facefusion/facefusion) ⭐ 29,929 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - AI face swapping and enhancement tool.
-* [Screenpipe](https://github.com/mediar-ai/screenpipe) ⭐ 21,603 | 🐛 46 | 🌐 TypeScript | 📅 2026-09-16 - Local AI that records, searches, and automates tasks based on your screen and audio.
-* [Deep Research](https://github.com/dzhng/deep-research) ⭐ 19,682 | 🐛 93 | 🌐 TypeScript | 📅 2026-04-11 - AI-powered research assistant for iterative, deep research on any topic.
-* [DocsGPT](https://github.com/arc53/DocsGPT) ⭐ 18,270 | 🐛 146 | 🌐 Python | 📅 2026-09-16 - Documentation-based question answering system.
-* [Jaaz](https://github.com/11cafe/jaaz) ⭐ 6,649 | 🐛 54 | 🌐 TypeScript | 📅 2026-03-02 - Open-source multimodal creative assistant and privacy-focused alternative to Canva/Manus for local image/video generation.
+* [open-webui](https://github.com/open-webui/open-webui) ⭐ 152,400 | 🐛 299 | 🌐 Python | 📅 2026-09-17 - Web interface for interacting with various LLMs.
+* [ComfyUI](https://github.com/comfyanonymous/ComfyUI) ⭐ 133,677 | 🐛 4,885 | 🌐 Python | 📅 2026-09-17 - Visual node-based interface for Stable Diffusion.
+* [lobe-chat](https://github.com/lobehub/lobe-chat) ⭐ 82,549 | 🐛 918 | 🌐 TypeScript | 📅 2026-09-17 - Modern AI conversation interface.
+* [upscayl](https://github.com/upscayl/upscayl) ⭐ 49,314 | 🐛 46 | 🌐 TypeScript | 📅 2026-09-15 - AI-powered image upscaling tool.
+* [LibreChat](https://github.com/danny-avila/LibreChat) ⭐ 44,230 | 🐛 754 | 🌐 TypeScript | 📅 2026-09-17 - Open-source ChatGPT alternative.
+* [DeepTutor](https://github.com/HKUDS/DeepTutor) ⭐ 39,896 | 🐛 265 | 🌐 Python | 📅 2026-09-15 - AI-powered personalized learning assistant with document Q\&A, exercise generation, and deep research capabilities.
+* [quivr](https://github.com/QuivrHQ/quivr) ⭐ 39,531 | 🐛 34 | 🌐 Python | 📅 2026-08-31 - Personal second brain and AI assistant.
+* [facefusion](https://github.com/facefusion/facefusion) ⭐ 29,942 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - AI face swapping and enhancement tool.
+* [Screenpipe](https://github.com/mediar-ai/screenpipe) ⭐ 21,609 | 🐛 53 | 🌐 TypeScript | 📅 2026-09-17 - Local AI that records, searches, and automates tasks based on your screen and audio.
+* [Deep Research](https://github.com/dzhng/deep-research) ⭐ 19,693 | 🐛 93 | 🌐 TypeScript | 📅 2026-04-11 - AI-powered research assistant for iterative, deep research on any topic.
+* [DocsGPT](https://github.com/arc53/DocsGPT) ⭐ 18,271 | 🐛 144 | 🌐 Python | 📅 2026-09-17 - Documentation-based question answering system.
+* [Jaaz](https://github.com/11cafe/jaaz) ⭐ 6,651 | 🐛 55 | 🌐 TypeScript | 📅 2026-03-02 - Open-source multimodal creative assistant and privacy-focused alternative to Canva/Manus for local image/video generation.
 
 #### Additional Tools
 
-* [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) ⭐ 260,189 | 🐛 217 | 🌐 JavaScript | 📅 2026-09-15 - Collection of resources, guides, and tools for effective Claude Code AI assistant use.
-* [Whisper](https://github.com/openai/whisper) ⭐ 109,219 | 🐛 149 | 🌐 Python | 📅 2026-08-31 - Robust speech recognition model for transcription and translation.
-* [ChatTTS](https://github.com/2noise/ChatTTS) ⭐ 39,843 | 🐛 61 | 🌐 Python | 📅 2026-04-10 - Generative TTS model optimized for natural, expressive daily dialogue with fine-grained prosody control.
-* [NeuTTS](https://github.com/neuphonic/neutts) ⭐ 6,281 | 🐛 37 | 🌐 Python | 📅 2026-07-30 - On-device TTS model with instant voice cloning from audio samples..
-* [Bagel](https://github.com/ByteDance-Seed/Bagel) ⭐ 6,174 | 🐛 154 | 🌐 Python | 📅 2026-05-04 - Open-source unified multimodal model for understanding and generating images.
+* [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) ⭐ 261,082 | 🐛 227 | 🌐 JavaScript | 📅 2026-09-17 - Collection of resources, guides, and tools for effective Claude Code AI assistant use.
+* [Whisper](https://github.com/openai/whisper) ⭐ 109,291 | 🐛 149 | 🌐 Python | 📅 2026-08-31 - Robust speech recognition model for transcription and translation.
+* [ChatTTS](https://github.com/2noise/ChatTTS) ⭐ 39,849 | 🐛 60 | 🌐 Python | 📅 2026-04-10 - Generative TTS model optimized for natural, expressive daily dialogue with fine-grained prosody control.
+* [NeuTTS](https://github.com/neuphonic/neutts) ⭐ 6,280 | 🐛 37 | 🌐 Python | 📅 2026-07-30 - On-device TTS model with instant voice cloning from audio samples..
+* [Bagel](https://github.com/ByteDance-Seed/Bagel) ⭐ 6,176 | 🐛 154 | 🌐 Python | 📅 2026-05-04 - Open-source unified multimodal model for understanding and generating images.
 
 [⬆ back to contents](#contents)
 
@@ -1114,19 +1114,19 @@ A collection of frameworks, platforms, and end-user applications for building an
 
 A collection of resources for mastering cloud-native technologies, containerization, and infrastructure management.
 
-* [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 319,710 | 🐛 0 | 📅 2026-09-15 - A list of Free Software network services and web applications which can be hosted locally.
-* [DevOps Exercises](https://github.com/bregman-arie/devops-exercises) ⭐ 84,492 | 🐛 56 | 🌐 Python | 📅 2025-12-27 - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, and more.
-* [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) ⭐ 49,752 | 🐛 55 | 📅 2025-04-10 - Tutorial for bootstrapping a Kubernetes cluster the hard way on Google Cloud Platform.
-* [Awesome Compose](https://github.com/docker/awesome-compose) ⭐ 46,349 | 🐛 429 | 🌐 HTML | 📅 2026-09-11 - A curated list of Docker Compose samples.
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,835 | 🐛 32 | 📅 2026-09-12 - A curated list of Docker resources and projects.
-* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 16,081 | 🐛 91 | 🌐 Shell | 📅 2026-09-03 - A curated list for awesome Kubernetes resources.
-* [Awesome Kubernetes Resources](https://github.com/tomhuang12/awesome-k8s-resources) ⭐ 4,224 | 🐛 78 | 📅 2025-05-20 - A curated list of awesome Kubernetes tutorials, tools, and resources.
+* [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 319,921 | 🐛 0 | 📅 2026-09-15 - A list of Free Software network services and web applications which can be hosted locally.
+* [DevOps Exercises](https://github.com/bregman-arie/devops-exercises) ⭐ 84,504 | 🐛 56 | 🌐 Python | 📅 2025-12-27 - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, and more.
+* [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) ⭐ 49,764 | 🐛 55 | 📅 2025-04-10 - Tutorial for bootstrapping a Kubernetes cluster the hard way on Google Cloud Platform.
+* [Awesome Compose](https://github.com/docker/awesome-compose) ⭐ 46,359 | 🐛 429 | 🌐 HTML | 📅 2026-09-11 - A curated list of Docker Compose samples.
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,842 | 🐛 32 | 📅 2026-09-12 - A curated list of Docker resources and projects.
+* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 16,082 | 🐛 91 | 🌐 Shell | 📅 2026-09-03 - A curated list for awesome Kubernetes resources.
+* [Awesome Kubernetes Resources](https://github.com/tomhuang12/awesome-k8s-resources) ⭐ 4,226 | 🐛 78 | 📅 2025-05-20 - A curated list of awesome Kubernetes tutorials, tools, and resources.
 * [Awesome Selfhosted Docker](https://github.com/hotheadhacker/awesome-selfhost-docker) ⭐ 4,068 | 🐛 41 | 🌐 HTML | 📅 2025-06-01 - A curated list of awesome selfhosted applications and solutions using Docker.
 * [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security) ⭐ 2,487 | 🐛 24 | 📅 2026-03-17 - A curated list of awesome cloud security resources, tools, and best practices.
-* [Awesome Cloud Native](https://github.com/rootsongjc/awesome-cloud-native) ⭐ 2,444 | 🐛 6 | 🌐 HTML | 📅 2026-09-14 - A curated list of resources for cloud native technologies.
-* [Awesome Cloudsec Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs) ⭐ 2,196 | 🐛 5 | 📅 2025-10-01 - Curated hands-on labs and exercises for learning cloud security platforms.
+* [Awesome Cloud Native](https://github.com/rootsongjc/awesome-cloud-native) ⭐ 2,445 | 🐛 6 | 🌐 HTML | 📅 2026-09-14 - A curated list of resources for cloud native technologies.
+* [Awesome Cloudsec Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs) ⭐ 2,195 | 🐛 5 | 📅 2025-10-01 - Curated hands-on labs and exercises for learning cloud security platforms.
 * [AWS EKS Best Practices](https://github.com/aws/aws-eks-best-practices) ⭐ 2,159 | 🐛 91 | 🌐 Python | 📅 2026-09-09 - A best practices guide for Amazon EKS.
-* [AWS Well-Architected Labs](https://github.com/awslabs/aws-well-architected-labs) ⭐ 2,140 | 🐛 62 | 🌐 Python | 📅 2026-01-14 - Hands-on labs to help you learn about the AWS Well-Architected Framework.
+* [AWS Well-Architected Labs](https://github.com/awslabs/aws-well-architected-labs) ⭐ 2,141 | 🐛 62 | 🌐 Python | 📅 2026-01-14 - Hands-on labs to help you learn about the AWS Well-Architected Framework.
 
 [⬆ back to contents](#contents)
 
@@ -1140,57 +1140,57 @@ Tools for containerization, orchestration, infrastructure as code, and cloud-nat
 
 #### Containerization & Orchestration
 
-* [Kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 127,814 | 🐛 3,044 | 🌐 Go | 📅 2026-09-16 - Production-grade container orchestration system.
-* [Docker Compose](https://github.com/docker/compose) ⭐ 38,171 | 🐛 106 | 🌐 Go | 📅 2026-09-16 - A tool for defining and running multi-container Docker applications.
-* [Kompose](https://github.com/kubernetes/kompose) ⭐ 10,621 | 🐛 21 | 🌐 Go | 📅 2026-09-16 - Conversion tool from Docker Compose to Kubernetes.
+* [Kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 127,796 | 🐛 3,053 | 🌐 Go | 📅 2026-09-17 - Production-grade container orchestration system.
+* [Docker Compose](https://github.com/docker/compose) ⭐ 38,175 | 🐛 107 | 🌐 Go | 📅 2026-09-17 - A tool for defining and running multi-container Docker applications.
+* [Kompose](https://github.com/kubernetes/kompose) ⭐ 10,623 | 🐛 21 | 🌐 Go | 📅 2026-09-16 - Conversion tool from Docker Compose to Kubernetes.
 * [Docker](https://github.com/docker) - Open platform for developing, shipping, and running applications in containers.
 
 #### Infrastructure as Code
 
-* [Terraform](https://github.com/hashicorp/terraform) ⭐ 49,670 | 🐛 1,927 | 🌐 Go | 📅 2026-09-16 - Infrastructure as Code tool.
-* [OpenTofu](https://github.com/opentofu/opentofu) ⭐ 30,196 | 🐛 323 | 🌐 Go | 📅 2026-09-16 - Open source fork of Terraform.
-* [Pulumi](https://github.com/pulumi/pulumi) ⭐ 25,691 | 🐛 2,391 | 🌐 Go | 📅 2026-09-16 - Modern IaC platform using familiar programming languages.
-* [CDK8s](https://github.com/cdk8s-team/cdk8s) ⭐ 4,854 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-16 - Define Kubernetes apps using familiar languages.
+* [Terraform](https://github.com/hashicorp/terraform) ⭐ 49,678 | 🐛 1,933 | 🌐 Go | 📅 2026-09-17 - Infrastructure as Code tool.
+* [OpenTofu](https://github.com/opentofu/opentofu) ⭐ 30,205 | 🐛 324 | 🌐 Go | 📅 2026-09-17 - Open source fork of Terraform.
+* [Pulumi](https://github.com/pulumi/pulumi) ⭐ 25,694 | 🐛 2,395 | 🌐 Go | 📅 2026-09-17 - Modern IaC platform using familiar programming languages.
+* [CDK8s](https://github.com/cdk8s-team/cdk8s) ⭐ 4,854 | 🐛 70 | 🌐 JavaScript | 📅 2026-09-17 - Define Kubernetes apps using familiar languages.
 
 #### CI/CD & GitOps
 
-* [Jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26,551 | 🐛 3,613 | 🌐 Java | 📅 2026-09-16 - Open source automation server.
-* [Argo CD](https://github.com/argoproj/argo-cd) ⭐ 24,171 | 🐛 4,365 | 🌐 Go | 📅 2026-09-16 - Declarative GitOps continuous delivery.
-* [Argo Workflows](https://github.com/argoproj/argo-workflows) ⭐ 16,982 | 🐛 1,289 | 🌐 Go | 📅 2026-09-15 - Container-native workflow engine.
-* [Dagger](https://github.com/dagger/dagger) ⭐ 16,256 | 🐛 166 | 🌐 Go | 📅 2026-09-16 - Portable devkit for CI/CD pipelines.
-* [Spinnaker](https://github.com/spinnaker/spinnaker) ⭐ 9,789 | 🐛 105 | 🌐 Java | 📅 2026-09-16 - Multi-cloud continuous delivery.
-* [Tekton](https://github.com/tektoncd/pipeline) ⭐ 9,063 | 🐛 560 | 🌐 Go | 📅 2026-09-16 - Kubernetes-native CI/CD framework.
+* [Jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26,556 | 🐛 3,614 | 🌐 Java | 📅 2026-09-17 - Open source automation server.
+* [Argo CD](https://github.com/argoproj/argo-cd) ⭐ 24,178 | 🐛 4,368 | 🌐 Go | 📅 2026-09-17 - Declarative GitOps continuous delivery.
+* [Argo Workflows](https://github.com/argoproj/argo-workflows) ⭐ 16,987 | 🐛 1,288 | 🌐 Go | 📅 2026-09-17 - Container-native workflow engine.
+* [Dagger](https://github.com/dagger/dagger) ⭐ 16,261 | 🐛 179 | 🌐 Go | 📅 2026-09-17 - Portable devkit for CI/CD pipelines.
+* [Spinnaker](https://github.com/spinnaker/spinnaker) ⭐ 9,791 | 🐛 103 | 🌐 Java | 📅 2026-09-17 - Multi-cloud continuous delivery.
+* [Tekton](https://github.com/tektoncd/pipeline) ⭐ 9,065 | 🐛 565 | 🌐 Go | 📅 2026-09-17 - Kubernetes-native CI/CD framework.
 
 #### Service Mesh & API Gateways
 
-* [Traefik](https://github.com/traefik/traefik) ⭐ 64,869 | 🐛 934 | 🌐 Go | 📅 2026-09-16 - Modern HTTP reverse proxy and load balancer.
-* [Kong](https://github.com/Kong/kong) ⭐ 44,142 | 🐛 200 | 🌐 Lua | 📅 2026-09-07 - Cloud-native API Gateway.
-* [Apache APISIX](https://github.com/apache/apisix) ⭐ 17,128 | 🐛 243 | 🌐 Lua | 📅 2026-09-16 - Dynamic API gateway.
-* [Meshery](https://github.com/meshery/meshery) ⭐ 11,803 | 🐛 2,002 | 🌐 TypeScript | 📅 2026-09-16 - Service mesh management.
-* [Higress](https://github.com/alibaba/higress) ⭐ 9,393 | 🐛 1,110 | 🌐 Go | 📅 2026-09-11 - Cloud-native API gateway based on Istio.
-* [Envoy Gateway](https://github.com/envoyproxy/gateway) ⭐ 3,036 | 🐛 759 | 🌐 Go | 📅 2026-09-16 - Manages Envoy Proxy as gateway.
+* [Traefik](https://github.com/traefik/traefik) ⭐ 64,882 | 🐛 941 | 🌐 Go | 📅 2026-09-17 - Modern HTTP reverse proxy and load balancer.
+* [Kong](https://github.com/Kong/kong) ⭐ 44,148 | 🐛 200 | 🌐 Lua | 📅 2026-09-07 - Cloud-native API Gateway.
+* [Apache APISIX](https://github.com/apache/apisix) ⭐ 17,136 | 🐛 251 | 🌐 Lua | 📅 2026-09-17 - Dynamic API gateway.
+* [Meshery](https://github.com/meshery/meshery) ⭐ 11,815 | 🐛 2,014 | 🌐 TypeScript | 📅 2026-09-17 - Service mesh management.
+* [Higress](https://github.com/alibaba/higress) ⭐ 9,397 | 🐛 1,114 | 🌐 Go | 📅 2026-09-11 - Cloud-native API gateway based on Istio.
+* [Envoy Gateway](https://github.com/envoyproxy/gateway) ⭐ 3,036 | 🐛 760 | 🌐 Go | 📅 2026-09-16 - Manages Envoy Proxy as gateway.
 
 #### Kubernetes Ecosystem
 
-* [Helm](https://github.com/helm/helm) ⭐ 30,249 | 🐛 460 | 🌐 Go | 📅 2026-09-16 - Package manager for Kubernetes.
-* [KubeSphere](https://github.com/kubesphere/kubesphere) ⭐ 17,050 | 🐛 354 | 🌐 Go | 📅 2026-07-15 - Kubernetes multi-cloud management.
-* [Skaffold](https://github.com/GoogleContainerTools/skaffold) ⭐ 15,890 | 🐛 910 | 🌐 Go | 📅 2026-09-16 - Continuous development for Kubernetes.
+* [Helm](https://github.com/helm/helm) ⭐ 30,251 | 🐛 466 | 🌐 Go | 📅 2026-09-17 - Package manager for Kubernetes.
+* [KubeSphere](https://github.com/kubesphere/kubesphere) ⭐ 17,051 | 🐛 354 | 🌐 Go | 📅 2026-07-15 - Kubernetes multi-cloud management.
+* [Skaffold](https://github.com/GoogleContainerTools/skaffold) ⭐ 15,890 | 🐛 909 | 🌐 Go | 📅 2026-09-17 - Continuous development for Kubernetes.
 * [Kubernetes Dashboard](https://github.com/kubernetes/dashboard) ⚠️ Archived - Web-based UI for Kubernetes.
-* [Kustomize](https://github.com/kubernetes-sigs/kustomize) ⭐ 12,164 | 🐛 182 | 🌐 Go | 📅 2026-09-15 - Configuration customization for Kubernetes.
-* [Tilt](https://github.com/tilt-dev/tilt) ⭐ 10,056 | 🐛 510 | 🌐 Go | 📅 2026-09-14 - Local development for Kubernetes.
-* [KubeVela](https://github.com/kubevela/kubevela) ⭐ 7,896 | 🐛 273 | 🌐 Go | 📅 2026-09-14 - Application delivery platform.
-* [Flagger](https://github.com/fluxcd/flagger) ⭐ 5,405 | 🐛 389 | 🌐 Go | 📅 2026-09-08 - Progressive delivery operator.
+* [Kustomize](https://github.com/kubernetes-sigs/kustomize) ⭐ 12,164 | 🐛 178 | 🌐 Go | 📅 2026-09-17 - Configuration customization for Kubernetes.
+* [Tilt](https://github.com/tilt-dev/tilt) ⭐ 10,058 | 🐛 507 | 🌐 Go | 📅 2026-09-17 - Local development for Kubernetes.
+* [KubeVela](https://github.com/kubevela/kubevela) ⭐ 7,897 | 🐛 272 | 🌐 Go | 📅 2026-09-17 - Application delivery platform.
+* [Flagger](https://github.com/fluxcd/flagger) ⭐ 5,406 | 🐛 389 | 🌐 Go | 📅 2026-09-08 - Progressive delivery operator.
 
 #### Developer Platforms & Control Planes
 
-* [Harness](https://github.com/harness/harness) ⭐ 38,369 | 🐛 109 | 🌐 Go | 📅 2026-09-16 - End-to-end developer platform.
-* [Crossplane](https://github.com/crossplane/crossplane) ⭐ 12,079 | 🐛 193 | 🌐 Go | 📅 2026-09-15 - Cloud native control plane.
-* [Devtron](https://github.com/devtron-labs/devtron) ⭐ 5,597 | 🐛 771 | 🌐 Go | 📅 2026-09-16 - Kubernetes dashboard.
-* [Artifact Hub](https://github.com/artifacthub/hub) ⭐ 2,089 | 🐛 30 | 🌐 TypeScript | 📅 2026-09-16 - Kubernetes packages and Helm charts.
+* [Harness](https://github.com/harness/harness) ⭐ 38,378 | 🐛 109 | 🌐 Go | 📅 2026-09-17 - End-to-end developer platform.
+* [Crossplane](https://github.com/crossplane/crossplane) ⭐ 12,083 | 🐛 195 | 🌐 Go | 📅 2026-09-15 - Cloud native control plane.
+* [Devtron](https://github.com/devtron-labs/devtron) ⭐ 5,599 | 🐛 770 | 🌐 Go | 📅 2026-09-17 - Kubernetes dashboard.
+* [Artifact Hub](https://github.com/artifacthub/hub) ⭐ 2,090 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-16 - Kubernetes packages and Helm charts.
 
 #### Additional Tools
 
-* [Vagrant](https://github.com/hashicorp/vagrant) ⭐ 27,212 | 🐛 755 | 🌐 Ruby | 📅 2026-09-07 - Tool for building and managing portable virtual development environments as code.
+* [Vagrant](https://github.com/hashicorp/vagrant) ⭐ 27,214 | 🐛 756 | 🌐 Ruby | 📅 2026-09-07 - Tool for building and managing portable virtual development environments as code.
 
 [⬆ back to contents](#contents)
 
@@ -1202,17 +1202,17 @@ Tools for containerization, orchestration, infrastructure as code, and cloud-nat
 
 Resources for building and architecting robust, scalable data systems.
 
-* [System Design Primer](https://github.com/donnemartin/system-design-primer) ⭐ 370,386 | 🐛 612 | 🌐 Python | 📅 2026-09-15 - Comprehensive guide to large-scale system design. Includes Anki flashcards for interview prep.
-* [System Design 101](https://github.com/ByteByteGoHq/system-design-101) ⭐ 89,297 | 🐛 68 | 📅 2025-04-04 - Visual introduction to system design concepts with detailed diagrams and illustrations.
-* [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 73,998 | 🐛 29 | 📅 2026-01-04 - Design patterns for building scalable systems with real-world case studies from Netflix, Facebook, and Uber.
-* [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns) ⭐ 48,956 | 🐛 26 | 📅 2024-10-25 - Collection of patterns from code-level to microservices and big data.
-* [System Design](https://github.com/karanpratapsingh/system-design) ⭐ 46,110 | 🐛 4 | 📅 2026-07-08 - Concise course covering load balancing, caching, databases, and CAP theorem.
-* [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources) ⭐ 41,476 | 🐛 18 | 🌐 Java | 📅 2026-02-16 - Curated collection of articles, videos, books, and interview questions.
-* [System Design Academy](https://github.com/systemdesign42/system-design-academy) ⭐ 28,797 | 🐛 0 | 📅 2026-09-13 - Practical system design examples and structured interview preparation.
-* [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) ⭐ 25,956 | 🐛 25 | 📅 2026-04-28 - Collection of design system guides and component libraries for large projects.
-* [System Design Resources](https://github.com/InterviewReady/system-design-resources) ⭐ 18,500 | 🐛 2 | 📅 2025-07-16 - Practical questions, diagrams, and solutions for architecture interviews.
-* [Domain-Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon) ⭐ 14,930 | 🐛 5 | 🌐 TypeScript | 📅 2024-06-11 - Deep dive into Domain-Driven Design (DDD) and hexagonal architecture.
-* [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture) ⭐ 11,665 | 🐛 49 | 🌐 TypeScript | 📅 2026-09-08 - Extensive catalog of software architecture articles, books, and tools.
+* [System Design Primer](https://github.com/donnemartin/system-design-primer) ⭐ 370,532 | 🐛 614 | 🌐 Python | 📅 2026-09-15 - Comprehensive guide to large-scale system design. Includes Anki flashcards for interview prep.
+* [System Design 101](https://github.com/ByteByteGoHq/system-design-101) ⭐ 89,339 | 🐛 68 | 📅 2025-04-04 - Visual introduction to system design concepts with detailed diagrams and illustrations.
+* [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 74,020 | 🐛 29 | 📅 2026-01-04 - Design patterns for building scalable systems with real-world case studies from Netflix, Facebook, and Uber.
+* [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns) ⭐ 48,967 | 🐛 26 | 📅 2024-10-25 - Collection of patterns from code-level to microservices and big data.
+* [System Design](https://github.com/karanpratapsingh/system-design) ⭐ 46,125 | 🐛 4 | 📅 2026-07-08 - Concise course covering load balancing, caching, databases, and CAP theorem.
+* [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources) ⭐ 41,499 | 🐛 18 | 🌐 Java | 📅 2026-02-16 - Curated collection of articles, videos, books, and interview questions.
+* [System Design Academy](https://github.com/systemdesign42/system-design-academy) ⭐ 28,820 | 🐛 0 | 📅 2026-09-17 - Practical system design examples and structured interview preparation.
+* [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems) ⭐ 25,964 | 🐛 25 | 📅 2026-04-28 - Collection of design system guides and component libraries for large projects.
+* [System Design Resources](https://github.com/InterviewReady/system-design-resources) ⭐ 18,503 | 🐛 2 | 📅 2025-07-16 - Practical questions, diagrams, and solutions for architecture interviews.
+* [Domain-Driven Hexagon](https://github.com/Sairyss/domain-driven-hexagon) ⭐ 14,934 | 🐛 5 | 🌐 TypeScript | 📅 2024-06-11 - Deep dive into Domain-Driven Design (DDD) and hexagonal architecture.
+* [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture) ⭐ 11,671 | 🐛 49 | 🌐 TypeScript | 📅 2026-09-08 - Extensive catalog of software architecture articles, books, and tools.
 
 [⬆ back to contents](#contents)
 
@@ -1228,25 +1228,25 @@ Resources for building and architecting robust, scalable data systems.
 
 A collection of resources to enhance productivity.
 
-* [screenshot-to-code](https://github.com/abi/screenshot-to-code) ⭐ 79,054 | 🐛 145 | 🌐 Python | 📅 2026-09-09 - AI tool that converts screenshots into code for various frontend stacks.
-* [AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 72,688 | 🐛 749 | 🌐 TypeScript | 📅 2026-09-15 - All-in-one workspace for notes, docs, and data visualization.
-* [MarkText](https://github.com/marktext/marktext) ⭐ 61,498 | 🐛 529 | 🌐 TypeScript | 📅 2026-09-16 - Simple and elegant markdown editor for documentation.
-* [Markdown Here](https://github.com/adam-p/markdown-here) ⭐ 60,250 | 🐛 319 | 🌐 JavaScript | 📅 2025-08-22 - Extension for writing emails in Markdown and rendering them before sending.
-* [Learn Regex](https://github.com/ziishaned/learn-regex) ⭐ 46,090 | 🐛 65 | 📅 2025-08-25 - Comprehensive guide to learning regular expressions with examples and exercises.
-* [Puter](https://github.com/HeyPuter/puter) ⭐ 43,548 | 🐛 31 | 🌐 TypeScript | 📅 2026-09-16 - An open-source, browser-based computing environment and cloud OS.
-* [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) ⭐ 37,002 | 🐛 154 | 🌐 Python | 📅 2026-09-16 - AI tool for bilingual scientific PDF translation preserving formulas, charts, and layout.
-* [Marimo](https://github.com/marimo-team/marimo) ⭐ 22,803 | 🐛 596 | 🌐 Python | 📅 2026-09-16 - Reactive Python notebook for reproducible and interactive data science.
-* [QuarkDown](https://github.com/iamgio/quarkdown) ⭐ 16,126 | 🐛 21 | 🌐 Kotlin | 📅 2026-09-16 - Lightweight markdown processor for fast document rendering.
-* [Habitica](https://github.com/HabitRPG/habitica) ⭐ 14,157 | 🐛 118 | 🌐 JavaScript | 📅 2026-09-16 - A habit-building and productivity app that treats your life like a role-playing game.
-* [Nanobrowser](https://github.com/nanobrowser/nanobrowser) ⭐ 13,806 | 🐛 81 | 🌐 TypeScript | 📅 2026-08-18 - An open-source AI web automation tool with multi-agent system that runs directly in your browser.
-* [Milkdown](https://github.com/Milkdown/milkdown) ⭐ 11,917 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-16 - Plugin-driven, WYSIWYG markdown editor framework inspired by Typora.
+* [screenshot-to-code](https://github.com/abi/screenshot-to-code) ⭐ 79,143 | 🐛 145 | 🌐 Python | 📅 2026-09-09 - AI tool that converts screenshots into code for various frontend stacks.
+* [AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 72,718 | 🐛 753 | 🌐 TypeScript | 📅 2026-09-15 - All-in-one workspace for notes, docs, and data visualization.
+* [MarkText](https://github.com/marktext/marktext) ⭐ 61,528 | 🐛 532 | 🌐 TypeScript | 📅 2026-09-17 - Simple and elegant markdown editor for documentation.
+* [Markdown Here](https://github.com/adam-p/markdown-here) ⭐ 60,251 | 🐛 319 | 🌐 JavaScript | 📅 2025-08-22 - Extension for writing emails in Markdown and rendering them before sending.
+* [Learn Regex](https://github.com/ziishaned/learn-regex) ⭐ 46,092 | 🐛 65 | 📅 2025-08-25 - Comprehensive guide to learning regular expressions with examples and exercises.
+* [Puter](https://github.com/HeyPuter/puter) ⭐ 43,557 | 🐛 33 | 🌐 TypeScript | 📅 2026-09-17 - An open-source, browser-based computing environment and cloud OS.
+* [PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) ⭐ 37,036 | 🐛 154 | 🌐 Python | 📅 2026-09-17 - AI tool for bilingual scientific PDF translation preserving formulas, charts, and layout.
+* [Marimo](https://github.com/marimo-team/marimo) ⭐ 22,818 | 🐛 594 | 🌐 Python | 📅 2026-09-17 - Reactive Python notebook for reproducible and interactive data science.
+* [QuarkDown](https://github.com/iamgio/quarkdown) ⭐ 16,132 | 🐛 22 | 🌐 Kotlin | 📅 2026-09-17 - Lightweight markdown processor for fast document rendering.
+* [Habitica](https://github.com/HabitRPG/habitica) ⭐ 14,159 | 🐛 117 | 🌐 JavaScript | 📅 2026-09-17 - A habit-building and productivity app that treats your life like a role-playing game.
+* [Nanobrowser](https://github.com/nanobrowser/nanobrowser) ⭐ 13,810 | 🐛 81 | 🌐 TypeScript | 📅 2026-08-18 - An open-source AI web automation tool with multi-agent system that runs directly in your browser.
+* [Milkdown](https://github.com/Milkdown/milkdown) ⭐ 11,923 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-17 - Plugin-driven, WYSIWYG markdown editor framework inspired by Typora.
 * [Cookiecutter Data Science](https://github.com/drivendataorg/cookiecutter-data-science) ⭐ 10,057 | 🐛 34 | 🌐 Python | 📅 2026-08-07 - A standardized project structure for data science projects.
-* [Positron](https://github.com/posit-dev/positron) ⭐ 4,268 | 🐛 1,844 | 🌐 TypeScript | 📅 2026-09-16 - A next-generation data science IDE.
-* [Deepnote](https://github.com/deepnote/deepnote) ⭐ 3,009 | 🐛 27 | 🌐 TypeScript | 📅 2026-09-16 - AI native data science notebook platform compatible with Jupyter, featuring real-time collaboration, environment management, and integrations.
-* [Readme-AI](https://github.com/eli64s/readme-ai) ⭐ 2,986 | 🐛 57 | 🌐 Python | 📅 2026-09-16 - A tool to automatically generate README.md files for your projects.
+* [Positron](https://github.com/posit-dev/positron) ⭐ 4,269 | 🐛 1,837 | 🌐 TypeScript | 📅 2026-09-17 - A next-generation data science IDE.
+* [Deepnote](https://github.com/deepnote/deepnote) ⭐ 3,008 | 🐛 28 | 🌐 TypeScript | 📅 2026-09-17 - AI native data science notebook platform compatible with Jupyter, featuring real-time collaboration, environment management, and integrations.
+* [Readme-AI](https://github.com/eli64s/readme-ai) ⭐ 2,987 | 🐛 57 | 🌐 Python | 📅 2026-09-16 - A tool to automatically generate README.md files for your projects.
 * [Awesome Regex](https://github.com/aloisdg/awesome-regex) ⭐ 1,829 | 🐛 47 | 📅 2024-10-19 - Curated collection of regex tools, libraries, and learning resources.
 * [ChatGPT Data Science Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) ⭐ 1,625 | 🐛 1 | 📅 2023-12-28 - A collection of useful prompts for data scientists using ChatGPT.
-* [Best of Jupyter](https://github.com/ml-tooling/best-of-jupyter) ⭐ 1,236 | 🐛 22 | 📅 2026-09-10 - Ranked list of notable Jupyter Notebook, Hub, and Lab projects.
+* [Best of Jupyter](https://github.com/ml-tooling/best-of-jupyter) ⭐ 1,236 | 🐛 23 | 📅 2026-09-17 - Ranked list of notable Jupyter Notebook, Hub, and Lab projects.
 * [Gamma.app](https://gamma.app/) - AI-powered platform for creating and sharing presentations and documents.
 * [The Markdown Guide](https://www.markdownguide.org/) - Comprehensive guide to learning Markdown.
 * [Codebeautify](https://codebeautify.org/) - All-in-one online code formatter and beautifier for Python, SQL, JSON, and more.
@@ -1267,36 +1267,36 @@ A collection of resources to enhance productivity.
 A selection of tools to enhance productivity and functionality in Linux environments.
 
 * [Thefuck](https://github.com/nvbn/thefuck) ⭐ 97,861 | 🐛 458 | 🌐 Python | 📅 2024-07-19 - A command line tool to correct your previous console command.
-* [Fzf](https://github.com/junegunn/fzf) ⭐ 83,022 | 🐛 328 | 🌐 Go | 📅 2026-09-14 - A command-line fuzzy finder.
-* [Ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 68,330 | 🐛 198 | 🌐 Rust | 📅 2026-08-04 - Faster grep alternative.
-* [tldr-pages](https://github.com/tldr-pages/tldr) ⭐ 63,729 | 🐛 265 | 🌐 Markdown | 📅 2026-09-16 - Simplified and community-driven man pages with practical examples.
-* [DrawIO Desktop](https://github.com/jgraph/drawio-desktop) ⭐ 63,139 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-16 - An open-source diagramming software for making flowcharts, process diagrams, and more.
-* [Bat](https://github.com/sharkdp/bat) ⭐ 60,471 | 🐛 518 | 🌐 Rust | 📅 2026-09-04 - Cat clone with syntax highlighting.
-* [fd](https://github.com/sharkdp/fd) ⭐ 44,514 | 🐛 200 | 🌐 Rust | 📅 2026-09-16 - Simple, fast and user-friendly alternative to 'find'.
-* [Zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 39,514 | 🐛 146 | 🌐 Rust | 📅 2026-09-14 - Smarter cd command.
-* [httpie](https://github.com/httpie/cli) ⭐ 38,520 | 🐛 338 | 🌐 Python | 📅 2024-12-17 - Modern command-line HTTP client for API testing and debugging.
-* [jq](https://github.com/jqlang/jq) ⭐ 35,609 | 🐛 479 | 🌐 C | 📅 2026-09-15 - Command-line JSON processor for parsing and manipulating JSON data.
-* [glances](https://github.com/nicolargo/glances) ⭐ 33,584 | 🐛 103 | 🌐 Python | 📅 2026-09-13 - Cross-platform system monitoring tool for resource usage analysis.
-* [Flameshot](https://github.com/flameshot-org/flameshot) ⭐ 30,868 | 🐛 724 | 🌐 C++ | 📅 2026-09-12 - Powerful yet simple to use screenshot software.
-* [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 28,872 | 🐛 97 | 🌐 Rust | 📅 2026-04-30 - Command-line benchmarking tool for performance testing.
-* [Exa](https://github.com/ogham/exa) ⭐ 24,445 | 🐛 213 | 🌐 Rust | 📅 2024-09-24 - Modern replacement for ls.
-* [Osquery](https://github.com/osquery/osquery) ⭐ 23,572 | 🐛 649 | 🌐 C++ | 📅 2026-09-16 - SQL powered operating system instrumentation, monitoring, and analytics.
-* [yq](https://github.com/mikefarah/yq) ⭐ 15,968 | 🐛 296 | 🌐 Go | 📅 2026-09-15 - Portable command-line YAML processor (like jq for YAML and XML).
-* [Espanso](https://github.com/espanso/espanso) ⭐ 14,490 | 🐛 539 | 🌐 Rust | 📅 2026-09-14 - Cross-platform Text Expander written in Rust.
-* [bottom](https://github.com/ClementTsang/bottom) ⭐ 14,025 | 🐛 103 | 🌐 Rust | 📅 2026-09-16 - Cross-platform graphical process/system monitor.
-* [dust](https://github.com/bootandy/dust) ⭐ 12,269 | 🐛 8 | 🌐 Rust | 📅 2026-09-16 - More intuitive version of du written in rust.
-* [CopyQ](https://github.com/hluk/CopyQ) ⭐ 12,263 | 🐛 398 | 🌐 C++ | 📅 2026-09-15 - Clipboard manager with advanced features.
+* [Fzf](https://github.com/junegunn/fzf) ⭐ 83,077 | 🐛 329 | 🌐 Go | 📅 2026-09-14 - A command-line fuzzy finder.
+* [Ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 68,379 | 🐛 199 | 🌐 Rust | 📅 2026-08-04 - Faster grep alternative.
+* [tldr-pages](https://github.com/tldr-pages/tldr) ⭐ 63,747 | 🐛 273 | 🌐 Markdown | 📅 2026-09-17 - Simplified and community-driven man pages with practical examples.
+* [DrawIO Desktop](https://github.com/jgraph/drawio-desktop) ⭐ 63,160 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-16 - An open-source diagramming software for making flowcharts, process diagrams, and more.
+* [Bat](https://github.com/sharkdp/bat) ⭐ 60,487 | 🐛 518 | 🌐 Rust | 📅 2026-09-04 - Cat clone with syntax highlighting.
+* [fd](https://github.com/sharkdp/fd) ⭐ 44,465 | 🐛 200 | 🌐 Rust | 📅 2026-09-16 - Simple, fast and user-friendly alternative to 'find'.
+* [Zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 39,537 | 🐛 146 | 🌐 Rust | 📅 2026-09-14 - Smarter cd command.
+* [httpie](https://github.com/httpie/cli) ⭐ 38,526 | 🐛 338 | 🌐 Python | 📅 2024-12-17 - Modern command-line HTTP client for API testing and debugging.
+* [jq](https://github.com/jqlang/jq) ⭐ 35,617 | 🐛 480 | 🌐 C | 📅 2026-09-15 - Command-line JSON processor for parsing and manipulating JSON data.
+* [glances](https://github.com/nicolargo/glances) ⭐ 33,594 | 🐛 103 | 🌐 Python | 📅 2026-09-13 - Cross-platform system monitoring tool for resource usage analysis.
+* [Flameshot](https://github.com/flameshot-org/flameshot) ⭐ 30,877 | 🐛 723 | 🌐 C++ | 📅 2026-09-17 - Powerful yet simple to use screenshot software.
+* [hyperfine](https://github.com/sharkdp/hyperfine) ⭐ 28,874 | 🐛 97 | 🌐 Rust | 📅 2026-04-30 - Command-line benchmarking tool for performance testing.
+* [Exa](https://github.com/ogham/exa) ⭐ 24,444 | 🐛 213 | 🌐 Rust | 📅 2024-09-24 - Modern replacement for ls.
+* [Osquery](https://github.com/osquery/osquery) ⭐ 23,579 | 🐛 646 | 🌐 C++ | 📅 2026-09-17 - SQL powered operating system instrumentation, monitoring, and analytics.
+* [yq](https://github.com/mikefarah/yq) ⭐ 15,970 | 🐛 300 | 🌐 Go | 📅 2026-09-17 - Portable command-line YAML processor (like jq for YAML and XML).
+* [Espanso](https://github.com/espanso/espanso) ⭐ 14,496 | 🐛 538 | 🌐 Rust | 📅 2026-09-16 - Cross-platform Text Expander written in Rust.
+* [bottom](https://github.com/ClementTsang/bottom) ⭐ 14,032 | 🐛 103 | 🌐 Rust | 📅 2026-09-17 - Cross-platform graphical process/system monitor.
+* [dust](https://github.com/bootandy/dust) ⭐ 12,271 | 🐛 8 | 🌐 Rust | 📅 2026-09-16 - More intuitive version of du written in rust.
+* [CopyQ](https://github.com/hluk/CopyQ) ⭐ 12,266 | 🐛 399 | 🌐 C++ | 📅 2026-09-15 - Clipboard manager with advanced features.
 * [Peek](https://github.com/phw/peek) ⚠️ Archived - Simple animated GIF screen recorder with an easy to use interface.
 * [q](https://github.com/harelba/q) ⭐ 10,361 | 🐛 132 | 🌐 Python | 📅 2026-02-06 - Run SQL directly on CSV or TSV files from the command line.
 * [Miller](https://github.com/johnkerl/miller) ⭐ 10,018 | 🐛 72 | 🌐 Go | 📅 2026-09-14 - A tool for querying, processing, and formatting data in various file formats (CSV, JSON, etc.), like awk/sed/cut for data.
-* [VisiData](https://github.com/saulpw/visidata) ⭐ 9,281 | 🐛 89 | 🌐 Python | 📅 2026-08-28 - Interactive multitool for tabular data exploration in the terminal.
-* [Translate Shell](https://github.com/soimort/translate-shell) ⭐ 7,509 | 🐛 117 | 🌐 Awk | 📅 2024-12-10 - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
-* [csvkit](https://github.com/wireservice/csvkit) ⭐ 6,410 | 🐛 44 | 🌐 Python | 📅 2026-08-03 - Suite of command-line tools for working with CSV data.
-* [Timeshift](https://github.com/linuxmint/timeshift) ⭐ 4,279 | 🐛 231 | 🌐 Vala | 📅 2026-09-05 - System restore tool for Linux that creates filesystem snapshots using rsync+hardlinks or BTRFS snapshots.
-* [Inkscape](https://github.com/inkscape/inkscape) ⭐ 3,920 | 🐛 1 | 📅 2022-03-03 - A powerful, free, and open-source vector graphics editor for creating and editing visualizations.
+* [VisiData](https://github.com/saulpw/visidata) ⭐ 9,282 | 🐛 89 | 🌐 Python | 📅 2026-09-17 - Interactive multitool for tabular data exploration in the terminal.
+* [Translate Shell](https://github.com/soimort/translate-shell) ⭐ 7,510 | 🐛 117 | 🌐 Awk | 📅 2024-12-10 - Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
+* [csvkit](https://github.com/wireservice/csvkit) ⭐ 6,408 | 🐛 44 | 🌐 Python | 📅 2026-08-03 - Suite of command-line tools for working with CSV data.
+* [Timeshift](https://github.com/linuxmint/timeshift) ⭐ 4,278 | 🐛 231 | 🌐 Vala | 📅 2026-09-05 - System restore tool for Linux that creates filesystem snapshots using rsync+hardlinks or BTRFS snapshots.
+* [Inkscape](https://github.com/inkscape/inkscape) ⭐ 3,925 | 🐛 1 | 📅 2022-03-03 - A powerful, free, and open-source vector graphics editor for creating and editing visualizations.
 * [termgraph](https://github.com/mkaz/termgraph) ⭐ 3,297 | 🐛 25 | 🌐 Python | 📅 2026-03-25 - Draw basic graphs in the terminal for quick data visualization.
-* [Backintime](https://github.com/bit-team/backintime) ⭐ 2,663 | 🐛 142 | 🌐 Python | 📅 2026-09-15 - A comfortable and well-configurable graphical frontend for incremental backups.
-* [Keychain](https://github.com/danielrobbins/keychain) ⭐ 1,086 | 🐛 9 | 🌐 Python | 📅 2026-08-29 - Tool for managing and securely storing passwords and secrets.
+* [Backintime](https://github.com/bit-team/backintime) ⭐ 2,664 | 🐛 142 | 🌐 Python | 📅 2026-09-15 - A comfortable and well-configurable graphical frontend for incremental backups.
+* [Keychain](https://github.com/danielrobbins/keychain) ⭐ 1,088 | 🐛 15 | 🌐 Python | 📅 2026-09-17 - Tool for managing and securely storing passwords and secrets.
 * [Rclone](https://rclone.org/) - A command-line program to manage files on cloud storage.
 * [Rsync](https://rsync.samba.org/) - A fast and versatile file copying tool that can synchronize files and directories between two locations over a network or locally.
 * [GNU Parallel](https://www.gnu.org/software/parallel/) - A tool to run jobs in parallel.
@@ -1367,9 +1367,9 @@ A collection of extensions to enhance functionality and productivity in Visual S
 
 A collection of resources to enhance skills and advance your career in data analysis and related fields.
 
-* [Leetcode Company Wise Problems](https://github.com/liquidslr/leetcode-company-wise-problems) ⭐ 30,116 | 🐛 30 | 📅 2026-08-16 - Company-wise Leetcode problems for interview preparation.
-* [Awesome LeetCode Resources](https://github.com/ashishps1/awesome-leetcode-resources) ⭐ 17,836 | 🐛 23 | 🌐 Java | 📅 2026-06-06 - Collection of curated resources and strategies for LeetCode practice.
-* [Official TidyTuesday Repository](https://github.com/rfordatascience/tidytuesday) ⭐ 8,395 | 🐛 210 | 🌐 HTML | 📅 2026-09-14 - Repository for the TidyTuesday project, promoting data analysis.
+* [Leetcode Company Wise Problems](https://github.com/liquidslr/leetcode-company-wise-problems) ⭐ 30,143 | 🐛 30 | 📅 2026-08-16 - Company-wise Leetcode problems for interview preparation.
+* [Awesome LeetCode Resources](https://github.com/ashishps1/awesome-leetcode-resources) ⭐ 17,845 | 🐛 23 | 🌐 Java | 📅 2026-06-06 - Collection of curated resources and strategies for LeetCode practice.
+* [Official TidyTuesday Repository](https://github.com/rfordatascience/tidytuesday) ⭐ 8,397 | 🐛 210 | 🌐 HTML | 📅 2026-09-14 - Repository for the TidyTuesday project, promoting data analysis.
 * [SQL Masterclass](https://github.com/datawithdanny/sql-masterclass?tab=readme-ov-file#course-content) ⭐ 2,334 | 🐛 10 | 📅 2023-02-22 - A course to master SQL for data analysis, complete with real-world projects.
 * [LeetCode](https://leetcode.com/problemset/) - A platform for preparing technical coding interviews.
 * [Kaggle Competitions](https://www.kaggle.com/competitions) - Platform for participating in data analysis and machine learning competitions.
@@ -1390,13 +1390,13 @@ A collection of resources to enhance skills and advance your career in data anal
 A selection of curated Jupyter notebooks to support learning and exploration in data science and analysis.
 
 * [Data Science Ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,349 | 🐛 48 | 🌐 Python | 📅 2024-03-20 - Data science Python notebooks covering various topics.
-* [Pydata Book](https://github.com/wesm/pydata-book) ⭐ 24,927 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2025-10-17 - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney.
-* [Deep Learning with Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) ⭐ 20,298 | 🐛 220 | 🌐 Jupyter Notebook | 📅 2025-09-18 - Official Jupyter notebooks from François Chollet's Deep Learning with Python book.
-* [Unsloth Notebooks](https://github.com/unslothai/notebooks) ⭐ 5,685 | 🐛 74 | 🌐 Jupyter Notebook | 📅 2026-09-09 - Optimized notebooks for faster AI model training and fine-tuning.
+* [Pydata Book](https://github.com/wesm/pydata-book) ⭐ 24,933 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2025-10-17 - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney.
+* [Deep Learning with Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) ⭐ 20,300 | 🐛 220 | 🌐 Jupyter Notebook | 📅 2025-09-18 - Official Jupyter notebooks from François Chollet's Deep Learning with Python book.
+* [Unsloth Notebooks](https://github.com/unslothai/notebooks) ⭐ 5,686 | 🐛 74 | 🌐 Jupyter Notebook | 📅 2026-09-09 - Optimized notebooks for faster AI model training and fine-tuning.
 * [Huggingface Notebooks](https://github.com/huggingface/notebooks) ⭐ 4,618 | 🐛 227 | 🌐 Jupyter Notebook | 📅 2026-09-15 - Official Hugging Face notebooks for NLP, vision, audio, and diffusion models.
 * [Awesome Notebooks](https://github.com/jupyter-naas/awesome-notebooks) ⭐ 3,017 | 🐛 116 | 🌐 Jupyter Notebook | 📅 2024-10-21 - Data & AI notebook templates catalog organized by tools.
 * [Jdwittenauer Ipython Notebooks](https://github.com/jdwittenauer/ipython-notebooks) ⭐ 2,592 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2020-10-19 - A collection of IPython notebooks covering various topics.
-* [DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython) ⭐ 2,585 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-05-15 - A collection of interactive Python notebooks for learning data science concepts.
+* [DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython) ⭐ 2,584 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-05-15 - A collection of interactive Python notebooks for learning data science concepts.
 * [Spark py Notebooks](https://github.com/jadianes/spark-py-notebooks) ⭐ 1,660 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-03-16 - Apache Spark & Python tutorials for big data analysis and machine learning.
 * [PythonNumericalDemos](https://github.com/GeostatsGuy/PythonNumericalDemos) ⭐ 1,474 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-03-03 - Python notebooks for geostatistics and numerical demonstrations.
 * [Python For Data Analysis](https://github.com/cuttlefishh/python-for-data-analysis) ⭐ 893 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2020-10-02 - An introduction to data science using Python and Pandas with Jupyter notebooks.
@@ -1413,17 +1413,17 @@ A selection of curated Jupyter notebooks to support learning and exploration in 
 
 A collection of resources for accessing datasets and data sources for analysis and projects.
 
-* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,989 | 🐛 158 | 📅 2026-09-16 - Curated list of high-quality open datasets.
-* [HuggingFace Datasets](https://github.com/huggingface/datasets) ⭐ 21,977 | 🐛 1,376 | 🌐 Python | 📅 2026-09-11 - A lightweight library to easily share and access datasets for audio, computer vision, and NLP.
-* [TorchVision Datasets](https://github.com/pytorch/vision) ⭐ 17,913 | 🐛 1,222 | 🌐 Python | 📅 2026-09-16 - The torchvision.datasets module provides many built-in computer vision datasets.
-* [Datasette](https://github.com/simonw/datasette) ⭐ 11,468 | 🐛 653 | 🌐 Python | 📅 2026-09-16 - An open source multi-tool for exploring and publishing data.
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,001 | 🐛 158 | 📅 2026-09-17 - Curated list of high-quality open datasets.
+* [HuggingFace Datasets](https://github.com/huggingface/datasets) ⭐ 21,983 | 🐛 1,382 | 🌐 Python | 📅 2026-09-17 - A lightweight library to easily share and access datasets for audio, computer vision, and NLP.
+* [TorchVision Datasets](https://github.com/pytorch/vision) ⭐ 17,917 | 🐛 1,222 | 🌐 Python | 📅 2026-09-17 - The torchvision.datasets module provides many built-in computer vision datasets.
+* [Datasette](https://github.com/simonw/datasette) ⭐ 11,472 | 🐛 671 | 🌐 Python | 📅 2026-09-17 - An open source multi-tool for exploring and publishing data.
 * [NLP Datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 5,998 | 🐛 12 | 📅 2023-02-15 - A curated list of datasets for natural language processing (NLP) tasks.
-* [LLM Datasets](https://github.com/mlabonne/llm-datasets) ⭐ 4,782 | 🐛 9 | 📅 2026-04-29 - A collection of datasets and resources for training and fine-tuning Large Language Models (LLMs).
-* [TensorFlow Datasets](https://github.com/tensorflow/datasets) ⭐ 4,589 | 🐛 689 | 🌐 Python | 📅 2026-09-16 - A collection of ready-to-use datasets for use with TensorFlow and other Python ML frameworks.
+* [LLM Datasets](https://github.com/mlabonne/llm-datasets) ⭐ 4,784 | 🐛 9 | 📅 2026-04-29 - A collection of datasets and resources for training and fine-tuning Large Language Models (LLMs).
+* [TensorFlow Datasets](https://github.com/tensorflow/datasets) ⭐ 4,590 | 🐛 689 | 🌐 Python | 📅 2026-09-16 - A collection of ready-to-use datasets for use with TensorFlow and other Python ML frameworks.
 * [Awesome JSON Datasets](https://github.com/jdorfman/awesome-json-datasets?tab=readme-ov-file#bitcoin) ⚠️ Archived - A curated list of awesome JSON datasets that are publicly available without authentication.
-* [Awesome Public Real Time Datasets](https://github.com/bytewax/awesome-public-real-time-datasets) ⭐ 2,915 | 🐛 16 | 📅 2026-07-10 - A list of publicly available datasets with real-time data.
-* [Unsplash Datasets](https://github.com/unsplash/datasets) ⭐ 2,786 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-06-26 - A collection of datasets from Unsplash, useful for computer vision and research.
-* [Voice Datasets](https://github.com/jim-schwoebel/voice_datasets) ⭐ 2,227 | 🐛 27 | 📅 2024-06-06 - A collection of audio and speech datasets for voice AI and machine learning.
+* [Awesome Public Real Time Datasets](https://github.com/bytewax/awesome-public-real-time-datasets) ⭐ 2,918 | 🐛 16 | 📅 2026-07-10 - A list of publicly available datasets with real-time data.
+* [Unsplash Datasets](https://github.com/unsplash/datasets) ⭐ 2,787 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-06-26 - A collection of datasets from Unsplash, useful for computer vision and research.
+* [Voice Datasets](https://github.com/jim-schwoebel/voice_datasets) ⭐ 2,228 | 🐛 27 | 📅 2024-06-06 - A collection of audio and speech datasets for voice AI and machine learning.
 * [Open Data Sources](https://github.com/datasciencemasters/data) ⭐ 521 | 🐛 4 | 📅 2018-05-08 - Collection of various open data sources.
 * [Opendatasets](https://github.com/JovianHQ/opendatasets) ⭐ 347 | 🐛 15 | 🌐 Python | 📅 2026-01-10 - A Python library for downloading datasets from Kaggle, Google Drive, and other online sources.
 * [Kaggle Datasets](https://www.kaggle.com/datasets) - Extensive collection of datasets for practice in data analysis.
@@ -1443,20 +1443,20 @@ A collection of resources for accessing datasets and data sources for analysis a
 
 A variety of resources to help you prepare for interviews and enhance your resume.
 
-* [Interviews](https://github.com/kdn251/interviews) ⭐ 65,244 | 🐛 122 | 🌐 Java | 📅 2025-05-12 - Personal tech interview study guide covering algorithms and data structures.
-* [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) ⭐ 43,048 | 🐛 43 | 🌐 TypeScript | 📅 2026-09-16 - Open-source resume builder with multiple templates and customization options.
-* [Awesome-CV](https://github.com/posquit0/Awesome-CV) ⭐ 28,510 | 🐛 143 | 🌐 TeX | 📅 2026-09-14 - Professional CV and resume templates built with LaTeX.
-* [Interview](https://github.com/Olshansk/interview) ⭐ 18,365 | 🐛 15 | 📅 2024-12-25 - Everything you need to prepare for your technical interview.
-* [Best Resume Ever](https://github.com/salomonelli/best-resume-ever) ⭐ 16,477 | 🐛 57 | 🌐 Vue | 📅 2024-06-11 - Collection of modern resume templates and CV examples.
-* [LeetCode Patterns](https://github.com/seanprashad/leetcode-patterns) ⭐ 13,816 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-13 - Curated collection of coding patterns and strategies for technical interviews.
+* [Interviews](https://github.com/kdn251/interviews) ⭐ 65,245 | 🐛 122 | 🌐 Java | 📅 2025-05-12 - Personal tech interview study guide covering algorithms and data structures.
+* [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) ⭐ 43,108 | 🐛 44 | 🌐 TypeScript | 📅 2026-09-17 - Open-source resume builder with multiple templates and customization options.
+* [Awesome-CV](https://github.com/posquit0/Awesome-CV) ⭐ 28,520 | 🐛 143 | 🌐 TeX | 📅 2026-09-14 - Professional CV and resume templates built with LaTeX.
+* [Interview](https://github.com/Olshansk/interview) ⭐ 18,366 | 🐛 15 | 📅 2024-12-25 - Everything you need to prepare for your technical interview.
+* [Best Resume Ever](https://github.com/salomonelli/best-resume-ever) ⭐ 16,478 | 🐛 57 | 🌐 Vue | 📅 2024-06-11 - Collection of modern resume templates and CV examples.
+* [LeetCode Patterns](https://github.com/seanprashad/leetcode-patterns) ⭐ 13,842 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-13 - Curated collection of coding patterns and strategies for technical interviews.
 * [Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews) ⭐ 10,146 | 🐛 7 | 🌐 HTML | 📅 2026-08-18 - A comprehensive collection of data science interview questions and resources.
 * [Bartosz Jarocki's CV](https://github.com/BartoszJarocki/cv) ⭐ 9,676 | 🐛 15 | 🌐 TypeScript | 📅 2026-03-03 - Modern, open-source technical resume template and example.
-* [Awesome Behavioral Interviews](https://github.com/ashishps1/awesome-behavioral-interviews) ⭐ 8,802 | 🐛 7 | 📅 2025-08-19 - Curated resources for mastering behavioral and system design interviews.
-* [Data Science Interview Questions Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers) ⭐ 5,857 | 🐛 12 | 📅 2024-09-29 - Curated list of data science interview questions and answers.
+* [Awesome Behavioral Interviews](https://github.com/ashishps1/awesome-behavioral-interviews) ⭐ 8,803 | 🐛 7 | 📅 2025-08-19 - Curated resources for mastering behavioral and system design interviews.
+* [Data Science Interview Questions Answers](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers) ⭐ 5,858 | 🐛 12 | 📅 2024-09-29 - Curated list of data science interview questions and answers.
 * [Interviews AI](https://github.com/BoltzmannEntropy/interviews.ai) ⭐ 4,894 | 🐛 10 | 📅 2025-08-22 - AI interview preparation guide with questions and solutions.
-* [MLQuestions](https://github.com/andrewekhalel/MLQuestions) ⭐ 4,891 | 🐛 6 | 🌐 Python | 📅 2026-09-10 - Collection of machine learning interview questions and answers.
+* [MLQuestions](https://github.com/andrewekhalel/MLQuestions) ⭐ 4,891 | 🐛 6 | 🌐 Python | 📅 2026-09-17 - Collection of machine learning interview questions and answers.
 * [Cracking Data Science Interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview) ⭐ 4,762 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-08-31 - A Collection of Cheatsheets, Books, Questions, and Portfolio For DS/ML Interview Prep.
-* [Machine Learning Interviews Book](https://github.com/chiphuyen/ml-interviews-book) ⭐ 4,758 | 🐛 13 | 🌐 HTML | 📅 2025-03-21 - A comprehensive guide to preparing for machine learning engineering interviews.
+* [Machine Learning Interviews Book](https://github.com/chiphuyen/ml-interviews-book) ⭐ 4,761 | 🐛 13 | 🌐 HTML | 📅 2025-03-21 - A comprehensive guide to preparing for machine learning engineering interviews.
 * [Data Science Interview Preperation Resources](https://github.com/youssefHosni/Data-Science-Interview-Preperation-Resources) ⭐ 1,274 | 🐛 2 | 📅 2024-10-01 - Resource to help you prepare for your upcoming data science interviews.
 * [The Data Science Interview Book](https://book.thedatascienceinterviewproject.com/) - A comprehensive resource to prepare for data science and machine learning interviews.
 * [Devinterview](https://devinterview.io/) - Ace your next tech interview with confidence.
@@ -1502,10 +1502,10 @@ A collection of cheatsheets across various domains to aid in quick reference and
 
 ### Python
 
-* [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet) ⭐ 38,675 | 🐛 0 | 🌐 Python | 📅 2026-07-29 - Detailed Python functions and libraries.
-* [Learn Python](https://github.com/trekhleb/learn-python) ⭐ 18,291 | 🐛 43 | 🌐 Python | 📅 2026-04-06 - Interactive Python learning.
-* [Pysheeet](https://github.com/crazyguitar/pysheeet) ⭐ 8,159 | 🐛 11 | 🌐 Python | 📅 2026-09-16 - Concise Python cheat sheet for quick reference and interview prep.
-* [Python Cheatsheet](https://github.com/wilfredinni/python-cheatsheet) ⭐ 4,958 | 🐛 23 | 🌐 Vue | 📅 2026-07-01 - A comprehensive cheatsheet for the Python programming language.
+* [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet) ⭐ 38,673 | 🐛 0 | 🌐 Python | 📅 2026-07-29 - Detailed Python functions and libraries.
+* [Learn Python](https://github.com/trekhleb/learn-python) ⭐ 18,294 | 🐛 43 | 🌐 Python | 📅 2026-04-06 - Interactive Python learning.
+* [Pysheeet](https://github.com/crazyguitar/pysheeet) ⭐ 8,159 | 🐛 11 | 🌐 Python | 📅 2026-09-17 - Concise Python cheat sheet for quick reference and interview prep.
+* [Python Cheatsheet](https://github.com/wilfredinni/python-cheatsheet) ⭐ 4,959 | 🐛 23 | 🌐 Vue | 📅 2026-07-01 - A comprehensive cheatsheet for the Python programming language.
 * [Python Cheat Sheet](https://vivitoa.github.io/python-cheat-sheet/) - Comprehensive Python syntax and examples.
 * [Pythoncheatsheet](https://www.pythoncheatsheet.org/) - Quick reference for Python basics and advanced topics.
 
@@ -1517,7 +1517,7 @@ A collection of cheatsheets across various domains to aid in quick reference and
 
 ### Data Science & Machine Learning
 
-* [DS Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) ⭐ 16,343 | 🐛 13 | 📅 2024-07-18 - List of Data Science Cheatsheets.
+* [DS Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) ⭐ 16,346 | 🐛 13 | 📅 2024-07-18 - List of Data Science Cheatsheets.
 * [Machine Learning Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet) ⭐ 8,050 | 🐛 11 | 🌐 TeX | 📅 2024-07-30 - Concise machine learning cheat sheets covering key concepts and equations.
 * [Data Science Cheat Sheets (Math)](https://github.com/ml874/Data-Science-Cheatsheet) ⭐ 2,568 | 🐛 5 | 🌐 TeX | 📅 2022-09-18 - Cheat sheets for quick reference in data science mathematics.
 * [DS Notes & Cheatsheets](https://github.com/merveenoyan/my_notes) ⭐ 1,648 | 🐛 0 | 📅 2023-02-02 - Cheatsheets for data science, ML, computer science and more.
@@ -1532,11 +1532,11 @@ A collection of cheatsheets across various domains to aid in quick reference and
 
 ### Linux & Git
 
-* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 59,104 | 🐛 48 | 📅 2024-04-15 - Git/GitHub workflows and tips.
-* [Bash Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh) ⭐ 46,477 | 🐛 135 | 🌐 JavaScript | 📅 2026-04-12 - Bash scripting essentials.
-* [Git Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh) ⭐ 46,477 | 🐛 135 | 🌐 JavaScript | 📅 2026-04-12 - Git commands and best practices.
-* [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet) ⭐ 7,453 | 🐛 2 | 📅 2026-03-04 - Branching strategies.
-* [Linux Bash Commands](https://github.com/trinib/Linux-Bash-Commands) ⭐ 4,138 | 🐛 1 | 📅 2026-01-07 - Comprehensive list of Linux/Bash commands for developers and sysadmins.
+* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) ⭐ 59,125 | 🐛 48 | 📅 2024-04-15 - Git/GitHub workflows and tips.
+* [Bash Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh) ⭐ 46,478 | 🐛 135 | 🌐 JavaScript | 📅 2026-04-12 - Bash scripting essentials.
+* [Git Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/git.sh) ⭐ 46,478 | 🐛 135 | 🌐 JavaScript | 📅 2026-04-12 - Git commands and best practices.
+* [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet) ⭐ 7,454 | 🐛 2 | 📅 2026-03-04 - Branching strategies.
+* [Linux Bash Commands](https://github.com/trinib/Linux-Bash-Commands) ⭐ 4,139 | 🐛 1 | 📅 2026-01-07 - Comprehensive list of Linux/Bash commands for developers and sysadmins.
 * [Linux Cheatsheet](https://github.com/gto76/linux-cheatsheet) ⭐ 728 | 🐛 1 | 🌐 Shell | 📅 2020-01-08 - Linux commands and shortcuts.
 * [Unix Commands Reference](https://github.com/AdiBro/Data-Science-Resources/blob/master/Cheat-Sheets/CL-Git/Unix-Commands-Reference.pdf) ⭐ 78 | 🐛 0 | 📅 2026-03-21 - Unix terminal basics.
 
@@ -1571,12 +1571,12 @@ A collection of cheatsheets across various domains to aid in quick reference and
 
 ### Miscellaneous
 
-* [VSCode Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vscode.md) ⭐ 46,477 | 🐛 135 | 🌐 JavaScript | 📅 2026-04-12 - VS Code shortcuts.
-* [Docker Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/docker.sh) ⭐ 46,477 | 🐛 135 | 🌐 JavaScript | 📅 2026-04-12 - Containerization basics.
-* [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) ⭐ 22,544 | 🐛 7 | 📅 2024-12-31 - Docker commands and workflows.
-* [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet) ⭐ 13,817 | 🐛 92 | 🌐 TypeScript | 📅 2026-09-16 - Emojis in Markdown.
+* [VSCode Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vscode.md) ⭐ 46,478 | 🐛 135 | 🌐 JavaScript | 📅 2026-04-12 - VS Code shortcuts.
+* [Docker Awesome Cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/docker.sh) ⭐ 46,478 | 🐛 135 | 🌐 JavaScript | 📅 2026-04-12 - Containerization basics.
+* [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) ⭐ 22,545 | 🐛 7 | 📅 2024-12-31 - Docker commands and workflows.
+* [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet) ⭐ 13,814 | 🐛 92 | 🌐 TypeScript | 📅 2026-09-17 - Emojis in Markdown.
 * [Matplotlib Cheatsheets](https://github.com/matplotlib/cheatsheets) ⭐ 7,732 | 🐛 16 | 🌐 Python | 📅 2026-08-04 - Official cheatsheets for the Matplotlib plotting library in Python.
-* [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet) ⭐ 5,300 | 🐛 2 | 📅 2025-08-31 - Formatting for GitHub READMEs.
+* [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet) ⭐ 5,301 | 🐛 2 | 📅 2025-08-31 - Formatting for GitHub READMEs.
 * [CheatSheet for CheatSheets](https://github.com/plusminuschirag/CheatSheet-for-CheatSheets) ⭐ 18 | 🐛 0 | 🌐 TeX | 📅 2020-06-11 - Mega-repository of cheat sheets.
 * [Dataquest - Power BI Cheat Sheet](https://www.dataquest.io/cheat-sheet/power-bi-cheat-sheet/) - A helpful resource for Power BI users.
 * [Data Structures Cheat Sheet](https://www.clear.rice.edu/comp160/data_cheat.html) - A concise reference for common data structures and their properties.
@@ -1593,16 +1593,16 @@ A collection of supplementary Python libraries that enhance development workflow
 
 ### Code Quality & Development
 
-* [Rich](https://github.com/Textualize/rich) ⭐ 57,370 | 🐛 376 | 🌐 Python | 📅 2026-06-23 - Rich text and beautiful formatting in the terminal.
-* [Black](https://github.com/psf/black) ⭐ 41,842 | 🐛 307 | 🌐 Python | 📅 2026-09-16 - Uncompromising Python code formatter.
-* [Mypy](https://github.com/python/mypy) ⭐ 20,641 | 🐛 3,232 | 🌐 Python | 📅 2026-09-16 - Optional static typing for Python.
-* [Pre-commit](https://github.com/pre-commit/pre-commit) ⭐ 15,578 | 🐛 26 | 🌐 Python | 📅 2026-08-17 - Framework for managing pre-commit hooks.
-* [Icecream](https://github.com/gruns/icecream) ⭐ 10,108 | 🐛 68 | 🌐 Python | 📅 2026-08-21 - Debugging without using print.
-* [Pylint](https://github.com/pylint-dev/pylint) ⭐ 5,724 | 🐛 1,031 | 🌐 Python | 📅 2026-09-15 - Python code static analysis.
+* [Rich](https://github.com/Textualize/rich) ⭐ 57,380 | 🐛 377 | 🌐 Python | 📅 2026-06-23 - Rich text and beautiful formatting in the terminal.
+* [Black](https://github.com/psf/black) ⭐ 41,845 | 🐛 311 | 🌐 Python | 📅 2026-09-17 - Uncompromising Python code formatter.
+* [Mypy](https://github.com/python/mypy) ⭐ 20,643 | 🐛 3,237 | 🌐 Python | 📅 2026-09-17 - Optional static typing for Python.
+* [Pre-commit](https://github.com/pre-commit/pre-commit) ⭐ 15,581 | 🐛 26 | 🌐 Python | 📅 2026-08-17 - Framework for managing pre-commit hooks.
+* [Icecream](https://github.com/gruns/icecream) ⭐ 10,109 | 🐛 68 | 🌐 Python | 📅 2026-08-21 - Debugging without using print.
+* [Pylint](https://github.com/pylint-dev/pylint) ⭐ 5,725 | 🐛 1,033 | 🌐 Python | 📅 2026-09-15 - Python code static analysis.
 * [Pydeps](https://github.com/thebjorn/pydeps) ⭐ 2,114 | 🐛 44 | 🌐 Python | 📅 2026-09-16 - Python module dependency graphs.
 * [PyForest](https://github.com/8080labs/pyforest) ⭐ 1,119 | 🐛 11 | 🌐 Python | 📅 2024-07-16 - Automated Python imports for data science.
-* [Complexipy](https://github.com/rohaquinlop/complexipy) ⭐ 852 | 🐛 16 | 🌐 Rust | 📅 2026-09-13 - Blazingly fast cognitive complexity analysis for Python, written in Rust.
-* [Pandas-log](https://github.com/eyaltrabelsi/pandas-log) ⭐ 219 | 🐛 11 | 🌐 Python | 📅 2021-06-26 - Logs pandas operations for data transformation tracking.
+* [Complexipy](https://github.com/rohaquinlop/complexipy) ⭐ 855 | 🐛 14 | 🌐 Rust | 📅 2026-09-17 - Blazingly fast cognitive complexity analysis for Python, written in Rust.
+* [Pandas-log](https://github.com/eyaltrabelsi/pandas-log) ⭐ 220 | 🐛 11 | 🌐 Python | 📅 2021-06-26 - Logs pandas operations for data transformation tracking.
 * [PandasVet](https://github.com/deppen8/pandas-vet) ⭐ 170 | 🐛 13 | 🌐 Python | 📅 2023-08-11 - Code style validator for Pandas.
 
 [⬆ back to contents](#contents)
@@ -1611,19 +1611,19 @@ A collection of supplementary Python libraries that enhance development workflow
 
 ### Documentation & File Processing
 
-* [MarkItDown](https://github.com/microsoft/markitdown) ⭐ 184,796 | 🐛 678 | 🌐 Python | 📅 2026-09-16 - Python tool for converting files and office documents to Markdown.
-* [Marker](https://github.com/datalab-to/marker) ⭐ 39,781 | 🐛 471 | 🌐 Python | 📅 2026-09-13 - Fast, high-accuracy PDF and document conversion tool with layout preservation.
-* [Mkdocs](https://github.com/mkdocs/mkdocs) ⭐ 22,440 | 🐛 190 | 🌐 Python | 📅 2025-10-20 - Project documentation with Markdown.
-* [PyMuPDF](https://github.com/pymupdf/PyMuPDF) ⭐ 10,726 | 🐛 62 | 🌐 Python | 📅 2026-09-16 - Advanced PDF manipulation library.
-* [PyPDF2](https://github.com/py-pdf/PyPDF2) ⭐ 10,206 | 🐛 133 | 🌐 Python | 📅 2026-09-16 - Reads and writes PDF files.
-* [WeasyPrint](https://github.com/Kozea/WeasyPrint) ⭐ 9,602 | 🐛 143 | 🌐 Python | 📅 2026-09-15 - Convert HTML to PDF.
-* [Sphinx](https://github.com/sphinx-doc/sphinx) ⭐ 8,017 | 🐛 1,446 | 🌐 Python | 📅 2026-09-14 - Documentation generator.
+* [MarkItDown](https://github.com/microsoft/markitdown) ⭐ 185,109 | 🐛 679 | 🌐 Python | 📅 2026-09-16 - Python tool for converting files and office documents to Markdown.
+* [Marker](https://github.com/datalab-to/marker) ⭐ 39,815 | 🐛 471 | 🌐 Python | 📅 2026-09-13 - Fast, high-accuracy PDF and document conversion tool with layout preservation.
+* [Mkdocs](https://github.com/mkdocs/mkdocs) ⭐ 22,445 | 🐛 190 | 🌐 Python | 📅 2025-10-20 - Project documentation with Markdown.
+* [PyMuPDF](https://github.com/pymupdf/PyMuPDF) ⭐ 10,733 | 🐛 62 | 🌐 Python | 📅 2026-09-17 - Advanced PDF manipulation library.
+* [PyPDF2](https://github.com/py-pdf/PyPDF2) ⭐ 10,206 | 🐛 132 | 🌐 Python | 📅 2026-09-17 - Reads and writes PDF files.
+* [WeasyPrint](https://github.com/Kozea/WeasyPrint) ⭐ 9,607 | 🐛 143 | 🌐 Python | 📅 2026-09-15 - Convert HTML to PDF.
+* [Sphinx](https://github.com/sphinx-doc/sphinx) ⭐ 8,018 | 🐛 1,449 | 🌐 Python | 📅 2026-09-14 - Documentation generator.
 * [Xmltodict](https://github.com/martinblech/xmltodict) ⭐ 5,756 | 🐛 5 | 🌐 Python | 📅 2026-08-19 - Converts XML to Python dictionaries.
-* [Python-docx](https://github.com/python-openxml/python-docx) ⭐ 5,721 | 🐛 522 | 🌐 Python | 📅 2026-08-01 - Reads and writes Word documents.
+* [Python-docx](https://github.com/python-openxml/python-docx) ⭐ 5,722 | 🐛 522 | 🌐 Python | 📅 2026-08-01 - Reads and writes Word documents.
 * [Tablib](https://github.com/jazzband/tablib) ⭐ 4,757 | 🐛 54 | 🌐 Python | 📅 2026-09-11 - Exports data to XLSX, JSON, CSV.
 * [Jupyter-book](https://github.com/executablebooks/jupyter-book) ⭐ 4,276 | 🐛 672 | 🌐 TypeScript | 📅 2026-09-09 - Build publication-quality books from Jupyter notebooks.
 * [Camelot](https://github.com/camelot-dev/camelot) ⭐ 3,822 | 🐛 54 | 🌐 Python | 📅 2026-09-14 - PDF table extraction library.
-* [Xlwings](https://github.com/xlwings/xlwings) ⭐ 3,404 | 🐛 396 | 🌐 Python | 📅 2026-09-16 - Integration of Python with Excel.
+* [Xlwings](https://github.com/xlwings/xlwings) ⭐ 3,404 | 🐛 384 | 🌐 Python | 📅 2026-09-16 - Integration of Python with Excel.
 * [Pdoc](https://github.com/mitmproxy/pdoc) ⭐ 2,512 | 🐛 71 | 🌐 Python | 📅 2026-07-01 - API documentation for Python projects.
 * [Python-markdownify](https://github.com/matthewwithanm/python-markdownify) ⭐ 2,248 | 🐛 52 | 🌐 Python | 📅 2026-06-30 - Convert HTML to Markdown.
 * [CleverCSV](https://github.com/alan-turing-institute/CleverCSV) ⭐ 1,334 | 🐛 17 | 🌐 Python | 📅 2026-08-10 - Smart CSV reader for messy data.
@@ -1635,11 +1635,11 @@ A collection of supplementary Python libraries that enhance development workflow
 
 ### Web & APIs
 
-* [FastAPI](https://github.com/fastapi/fastapi) ⭐ 102,369 | 🐛 78 | 🌐 Python | 📅 2026-09-14 - Modern web framework for building APIs.
-* [Flask](https://github.com/pallets/flask) ⭐ 74,745 | 🐛 4 | 🌐 Python | 📅 2026-09-08 - Lightweight Python web framework for building applications and APIs.
+* [FastAPI](https://github.com/fastapi/fastapi) ⭐ 102,403 | 🐛 80 | 🌐 Python | 📅 2026-09-14 - Modern web framework for building APIs.
+* [Flask](https://github.com/pallets/flask) ⭐ 74,746 | 🐛 4 | 🌐 Python | 📅 2026-09-08 - Lightweight Python web framework for building applications and APIs.
 * [Typer](https://github.com/fastapi/typer) ⭐ 19,992 | 🐛 46 | 🌐 Python | 📅 2026-09-08 - Library for building CLI applications.
-* [Aiohttp](https://github.com/aio-libs/aiohttp) ⭐ 16,548 | 🐛 222 | 🌐 Python | 📅 2026-09-16 - Asynchronous HTTP client/server framework for asyncio and Python.
-* [HTTPX](https://github.com/encode/httpx) ⭐ 15,484 | 🐛 142 | 🌐 Python | 📅 2026-03-29 - Next-generation HTTP client for Python.
+* [Aiohttp](https://github.com/aio-libs/aiohttp) ⭐ 16,549 | 🐛 220 | 🌐 Python | 📅 2026-09-17 - Asynchronous HTTP client/server framework for asyncio and Python.
+* [HTTPX](https://github.com/encode/httpx) ⭐ 15,495 | 🐛 142 | 🌐 Python | 📅 2026-03-29 - Next-generation HTTP client for Python.
 * [Requests-cache](https://github.com/reclosedev/requests-cache) ⭐ 1,501 | 🐛 26 | 🌐 Python | 📅 2026-09-14 - Persistent caching for requests library.
 
 [⬆ back to contents](#contents)
@@ -1648,23 +1648,23 @@ A collection of supplementary Python libraries that enhance development workflow
 
 ### Miscellaneous
 
-* [UV](https://github.com/astral-sh/uv) ⭐ 89,882 | 🐛 2,893 | 🌐 Rust | 📅 2026-09-16 - An extremely fast Python package installer and resolver.
+* [UV](https://github.com/astral-sh/uv) ⭐ 89,929 | 🐛 2,905 | 🌐 Rust | 📅 2026-09-17 - An extremely fast Python package installer and resolver.
 * [Diagrams](https://github.com/mingrammer/diagrams) ⭐ 42,621 | 🐛 390 | 🌐 Python | 📅 2026-09-10 - Diagrams as code for cloud architecture.
-* [Poetry](https://github.com/python-poetry/poetry) ⭐ 34,303 | 🐛 571 | 🌐 Python | 📅 2026-09-14 - Python dependency management and packaging.
-* [TQDM](https://github.com/tqdm/tqdm) ⭐ 31,336 | 🐛 623 | 🌐 Python | 📅 2026-09-11 - Progress bars for loops and operations.
-* [Python Telegram Bot](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,466 | 🐛 30 | 🌐 Python | 📅 2026-09-15 - Pure Python framework for the Telegram Bot API with async support.
-* [Loguru](https://github.com/Delgan/loguru) ⭐ 24,111 | 🐛 256 | 🌐 Python | 📅 2026-08-30 - Python logging made simple.
-* [Click](https://github.com/pallets/click) ⭐ 17,669 | 🐛 85 | 🌐 Python | 📅 2026-09-12 - Beautiful command line interfaces.
-* [Pytest](https://github.com/pytest-dev/pytest) ⭐ 14,506 | 🐛 808 | 🌐 Python | 📅 2026-09-16 - Framework for writing small tests.
-* [Pillow](https://github.com/python-pillow/Pillow) ⭐ 13,816 | 🐛 141 | 🌐 Python | 📅 2026-09-16 - Image processing library.
-* [Hydra](https://github.com/facebookresearch/hydra) ⭐ 10,658 | 🐛 71 | 🌐 Python | 📅 2026-09-16 - Elegant configuration management.
+* [Poetry](https://github.com/python-poetry/poetry) ⭐ 34,302 | 🐛 575 | 🌐 Python | 📅 2026-09-14 - Python dependency management and packaging.
+* [TQDM](https://github.com/tqdm/tqdm) ⭐ 31,337 | 🐛 625 | 🌐 Python | 📅 2026-09-11 - Progress bars for loops and operations.
+* [Python Telegram Bot](https://github.com/python-telegram-bot/python-telegram-bot) ⭐ 29,468 | 🐛 30 | 🌐 Python | 📅 2026-09-17 - Pure Python framework for the Telegram Bot API with async support.
+* [Loguru](https://github.com/Delgan/loguru) ⭐ 24,112 | 🐛 256 | 🌐 Python | 📅 2026-08-30 - Python logging made simple.
+* [Click](https://github.com/pallets/click) ⭐ 17,670 | 🐛 85 | 🌐 Python | 📅 2026-09-12 - Beautiful command line interfaces.
+* [Pytest](https://github.com/pytest-dev/pytest) ⭐ 14,511 | 🐛 819 | 🌐 Python | 📅 2026-09-17 - Framework for writing small tests.
+* [Pillow](https://github.com/python-pillow/Pillow) ⭐ 13,819 | 🐛 135 | 🌐 Python | 📅 2026-09-17 - Image processing library.
+* [Hydra](https://github.com/facebookresearch/hydra) ⭐ 10,659 | 🐛 69 | 🌐 Python | 📅 2026-09-17 - Elegant configuration management.
 * [papermill](https://github.com/nteract/papermill) ⭐ 6,486 | 🐛 196 | 🌐 Python | 📅 2026-07-06 - Tool for parameterizing and executing Jupyter notebooks programmatically.
-* [GitPython](https://github.com/gitpython-developers/GitPython) ⭐ 5,185 | 🐛 8 | 🌐 Python | 📅 2026-09-16 - A Python library used to interact with Git repositories.
+* [GitPython](https://github.com/gitpython-developers/GitPython) ⭐ 5,185 | 🐛 10 | 🌐 Python | 📅 2026-09-17 - A Python library used to interact with Git repositories.
 * [Pygorithm](https://github.com/OmkarPathak/pygorithm) ⭐ 4,382 | 🐛 9 | 🌐 Python | 📅 2025-10-11 - A Python module for learning all major algorithms.
-* [Ftfy](https://github.com/rspeer/python-ftfy) ⭐ 4,062 | 🐛 25 | 🌐 Python | 📅 2024-10-30 - Fixes broken Unicode strings.
+* [Ftfy](https://github.com/rspeer/python-ftfy) ⭐ 4,063 | 🐛 25 | 🌐 Python | 📅 2024-10-30 - Fixes broken Unicode strings.
 * [Pampy](https://github.com/santinic/pampy) ⭐ 3,522 | 🐛 23 | 🌐 Python | 📅 2025-01-16 - Pattern matching for Python dictionaries.
-* [Funcy](https://github.com/Suor/funcy) ⭐ 3,508 | 🐛 14 | 🌐 Python | 📅 2026-09-16 - Fancy functional tools for Python.
-* [JmesPath](https://github.com/jmespath/jmespath.py) ⭐ 2,449 | 🐛 76 | 🌐 Python | 📅 2026-04-20 - Queries JSON data (SQL-like for JSON).
+* [Funcy](https://github.com/Suor/funcy) ⭐ 3,510 | 🐛 15 | 🌐 Python | 📅 2026-09-16 - Fancy functional tools for Python.
+* [JmesPath](https://github.com/jmespath/jmespath.py) ⭐ 2,450 | 🐛 76 | 🌐 Python | 📅 2026-04-20 - Queries JSON data (SQL-like for JSON).
 * [Glom](https://github.com/mahmoud/glom) ⭐ 2,163 | 🐛 132 | 🌐 Python | 📅 2026-09-08 - Transforms nested data structures.
 
 [⬆ back to contents](#contents)
@@ -1677,55 +1677,55 @@ A collection of supplementary Python libraries that enhance development workflow
 
 A curated list of other awesome lists on various topics and technologies.
 
-* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 506,754 | 🐛 106 | 📅 2026-09-02 - A curated list of awesome lists.
-* [Freecodecamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 455,610 | 🐛 214 | 🌐 TypeScript | 📅 2026-09-16 - Open source platform with thousands of interactive lessons for learning web development.
-* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) ⭐ 396,983 | 🐛 81 | 🌐 Python | 📅 2026-09-15 - Largest multilingual collection of free programming books and learning materials.
-* [Awesome Chatgpt Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 170,489 | 🐛 79 | 🌐 HTML | 📅 2026-09-09 - A repository for ChatGPT prompt curation.
-* [Free for Dev](https://github.com/ripienaar/free-for-dev) ⭐ 137,618 | 🐛 11 | 🌐 HTML | 📅 2026-09-16 - List of SaaS, PaaS, and IaaS offerings with free developer tiers.
-* [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners) ⭐ 89,320 | 🐛 152 | 📅 2026-07-25 - List of beginner-friendly projects for contributing to open-source software.
-* [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) ⭐ 76,921 | 🐛 315 | 🌐 JavaScript | 📅 2026-07-15 - Icon library and toolkit for scalable vector graphics on the web.
+* [Awesome](https://github.com/sindresorhus/awesome) ⭐ 507,151 | 🐛 106 | 📅 2026-09-02 - A curated list of awesome lists.
+* [Freecodecamp](https://github.com/freeCodeCamp/freeCodeCamp) ⭐ 455,684 | 🐛 209 | 🌐 TypeScript | 📅 2026-09-17 - Open source platform with thousands of interactive lessons for learning web development.
+* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) ⭐ 397,055 | 🐛 81 | 🌐 Python | 📅 2026-09-15 - Largest multilingual collection of free programming books and learning materials.
+* [Awesome Chatgpt Prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 170,568 | 🐛 79 | 🌐 HTML | 📅 2026-09-09 - A repository for ChatGPT prompt curation.
+* [Free for Dev](https://github.com/ripienaar/free-for-dev) ⭐ 137,698 | 🐛 11 | 🌐 HTML | 📅 2026-09-17 - List of SaaS, PaaS, and IaaS offerings with free developer tiers.
+* [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners) ⭐ 89,352 | 🐛 152 | 📅 2026-07-25 - List of beginner-friendly projects for contributing to open-source software.
+* [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) ⭐ 76,926 | 🐛 315 | 🌐 JavaScript | 📅 2026-07-15 - Icon library and toolkit for scalable vector graphics on the web.
 * [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) ⚠️ Archived - Curated list of helpful websites for programmers and engineers.
-* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 48,732 | 🐛 93 | 📅 2026-08-16 - Resources, tips, and tools for finding and thriving in remote work.
-* [Awesome Shell](https://github.com/alebcay/awesome-shell) ⭐ 37,629 | 🐛 186 | 📅 2025-08-28 - A curated list of awesome command-line frameworks, toolkits, and guides.
-* [Awesome GitHub Profile Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 31,071 | 🐛 688 | 📅 2026-09-11 - A collection of awesome GitHub profile READMEs and resources.
-* [Awesome Osint](https://github.com/jivoi/awesome-osint) ⭐ 29,575 | 🐛 18 | 📅 2026-09-09 - Curated list of Open Source Intelligence (OSINT) tools and resources.
-* [Awesome Vscode](https://github.com/viatsko/awesome-vscode) ⭐ 29,041 | 🐛 62 | 🌐 JavaScript | 📅 2026-06-21 - A comprehensive list of useful VS Code extensions and resources.
-* [Awesome Actions](https://github.com/sdras/awesome-actions) ⭐ 28,232 | 🐛 309 | 📅 2024-09-01 - A curated list of awesome GitHub Actions for automation.
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 48,768 | 🐛 93 | 📅 2026-08-16 - Resources, tips, and tools for finding and thriving in remote work.
+* [Awesome Shell](https://github.com/alebcay/awesome-shell) ⭐ 37,634 | 🐛 186 | 📅 2025-08-28 - A curated list of awesome command-line frameworks, toolkits, and guides.
+* [Awesome GitHub Profile Readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) ⭐ 31,080 | 🐛 690 | 📅 2026-09-11 - A collection of awesome GitHub profile READMEs and resources.
+* [Awesome Osint](https://github.com/jivoi/awesome-osint) ⭐ 29,594 | 🐛 20 | 📅 2026-09-09 - Curated list of Open Source Intelligence (OSINT) tools and resources.
+* [Awesome Vscode](https://github.com/viatsko/awesome-vscode) ⭐ 29,044 | 🐛 62 | 🌐 JavaScript | 📅 2026-06-21 - A comprehensive list of useful VS Code extensions and resources.
+* [Awesome Actions](https://github.com/sdras/awesome-actions) ⭐ 28,235 | 🐛 310 | 📅 2024-09-01 - A curated list of awesome GitHub Actions for automation.
 * [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) ⚠️ Archived - A list of awesome applications and tools for Linux.
-* [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) ⭐ 25,539 | 🐛 1 | 📅 2026-04-18 - Collection of resources for learning and practicing algorithms and data structures.
-* [Awesome Tunneling](https://github.com/anderspitman/awesome-tunneling) ⭐ 21,743 | 🐛 13 | 🌐 Python | 📅 2026-09-15 - A list of ngrok alternatives and tunneling software.
-* [Awesome Readme](https://github.com/matiassingers/awesome-readme) ⭐ 21,447 | 🐛 1 | 📅 2026-09-10 - Collection of well-crafted README files for inspiration.
-* [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications) ⭐ 18,041 | 🐛 76 | 🌐 Jupyter Notebook | 📅 2026-07-11 - A list of free software and applications written in Python.
+* [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) ⭐ 25,545 | 🐛 1 | 📅 2026-04-18 - Collection of resources for learning and practicing algorithms and data structures.
+* [Awesome Tunneling](https://github.com/anderspitman/awesome-tunneling) ⭐ 21,754 | 🐛 13 | 🌐 Python | 📅 2026-09-15 - A list of ngrok alternatives and tunneling software.
+* [Awesome Readme](https://github.com/matiassingers/awesome-readme) ⭐ 21,449 | 🐛 1 | 📅 2026-09-17 - Collection of well-crafted README files for inspiration.
+* [Awesome Python Applications](https://github.com/mahmoud/awesome-python-applications) ⭐ 18,043 | 🐛 76 | 🌐 Jupyter Notebook | 📅 2026-07-11 - A list of free software and applications written in Python.
 * [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins) ⭐ 18,010 | 🐛 6 | 🌐 Shell | 📅 2026-09-16 - Massive collection of plugins, themes, and resources for customizing Zsh.
-* [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,328 | 🐛 12 | 🌐 HTML | 📅 2026-07-21 - Curated list of creative coding resources and libraries.
-* [Awesome Graphql](https://github.com/chentsulin/awesome-graphql) ⭐ 15,118 | 🐛 0 | 🌐 Ruby | 📅 2026-09-16 - Comprehensive collection of resources, libraries, and tools for working with GraphQL.
-* [Awesome Big Data](https://github.com/oxnr/awesome-bigdata) ⭐ 14,640 | 🐛 5 | 📅 2026-07-31 - A curated list of awesome big data frameworks, resources, and tools.
-* [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi) ⭐ 11,664 | 🐛 7 | 📅 2026-08-24 - A curated list of awesome FastAPI frameworks, libraries, and resources.
-* [Anomaly Detection Resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,387 | 🐛 14 | 🌐 Python | 📅 2026-03-02 - Books, papers, videos, and toolboxes related to anomaly detection.
-* [Books](https://github.com/linsa-io/books) ⭐ 7,651 | 🐛 16 | 📅 2026-03-04 - Collection of links to free technical books on programming, databases, DevOps, and analytics.
+* [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,330 | 🐛 12 | 🌐 HTML | 📅 2026-07-21 - Curated list of creative coding resources and libraries.
+* [Awesome Graphql](https://github.com/chentsulin/awesome-graphql) ⭐ 15,119 | 🐛 0 | 🌐 Ruby | 📅 2026-09-16 - Comprehensive collection of resources, libraries, and tools for working with GraphQL.
+* [Awesome Big Data](https://github.com/oxnr/awesome-bigdata) ⭐ 14,642 | 🐛 5 | 📅 2026-07-31 - A curated list of awesome big data frameworks, resources, and tools.
+* [Awesome FastAPI](https://github.com/mjhea0/awesome-fastapi) ⭐ 11,666 | 🐛 8 | 📅 2026-08-24 - A curated list of awesome FastAPI frameworks, libraries, and resources.
+* [Anomaly Detection Resources](https://github.com/yzhao062/anomaly-detection-resources) ⭐ 9,388 | 🐛 14 | 🌐 Python | 📅 2026-03-02 - Books, papers, videos, and toolboxes related to anomaly detection.
+* [Books](https://github.com/linsa-io/books) ⭐ 7,652 | 🐛 16 | 📅 2026-03-04 - Collection of links to free technical books on programming, databases, DevOps, and analytics.
 * [Awesome Serverless](https://github.com/anaibol/awesome-serverless) ⭐ 7,584 | 🐛 37 | 📅 2026-02-11 - Curated resources for serverless architectures and cloud computing.
-* [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) ⭐ 6,575 | 🐛 34 | 📅 2026-09-08 - Curated list of AI applications, tools, and research in finance.
+* [Awesome AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance) ⭐ 6,582 | 🐛 35 | 📅 2026-09-08 - Curated list of AI applications, tools, and research in finance.
 * [Awesome R](https://github.com/qinwf/awesome-R) ⭐ 6,511 | 🐛 29 | 🌐 R | 📅 2025-09-18 - Curated list of R packages, frameworks, and learning resources.
-* [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) ⭐ 6,336 | 🐛 115 | 🌐 TypeScript | 📅 2026-09-16 - A curated list of resources for prompt engineering with LLMs like ChatGPT.
-* [Awesome AI System Prompts](https://github.com/dontriskit/awesome-ai-system-prompts) ⭐ 6,213 | 🐛 27 | 🌐 TypeScript | 📅 2026-02-20 - Collection of effective system prompts for various AI models.
-* [Awesome Telegram](https://github.com/ebertti/awesome-telegram) ⭐ 5,820 | 🐛 4 | 📅 2026-09-16 - Collection of Telegram bots, channels, and tools for developers.
-* [Awesome Certificates](https://github.com/PanXProject/awesome-certificates) ⭐ 5,733 | 🐛 49 | 📅 2026-06-30 - A curated list of IT and developer certifications and learning resources.
-* [Awesome Claude Prompts](https://github.com/langgptai/awesome-claude-prompts) ⭐ 5,486 | 🐛 0 | 📅 2026-08-25 - Collection of powerful prompts for Anthropic's Claude AI.
-* [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,290 | 🐛 1 | 📅 2026-09-16 - A curated list of awesome geospatial libraries, tools, and resources.
-* [Awesome Code Review](https://github.com/joho/awesome-code-review?tab=readme-ov-file#awesome-code-review-) ⭐ 5,152 | 🐛 80 | 📅 2024-09-09 - A collection of resources for code review practices.
+* [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) ⭐ 6,336 | 🐛 115 | 🌐 TypeScript | 📅 2026-09-17 - A curated list of resources for prompt engineering with LLMs like ChatGPT.
+* [Awesome AI System Prompts](https://github.com/dontriskit/awesome-ai-system-prompts) ⭐ 6,217 | 🐛 27 | 🌐 TypeScript | 📅 2026-02-20 - Collection of effective system prompts for various AI models.
+* [Awesome Telegram](https://github.com/ebertti/awesome-telegram) ⭐ 5,821 | 🐛 8 | 📅 2026-09-16 - Collection of Telegram bots, channels, and tools for developers.
+* [Awesome Certificates](https://github.com/PanXProject/awesome-certificates) ⭐ 5,737 | 🐛 49 | 📅 2026-06-30 - A curated list of IT and developer certifications and learning resources.
+* [Awesome Claude Prompts](https://github.com/langgptai/awesome-claude-prompts) ⭐ 5,484 | 🐛 0 | 📅 2026-08-25 - Collection of powerful prompts for Anthropic's Claude AI.
+* [Awesome Geospatial](https://github.com/sacridini/Awesome-Geospatial) ⭐ 5,291 | 🐛 2 | 📅 2026-09-16 - A curated list of awesome geospatial libraries, tools, and resources.
+* [Awesome Code Review](https://github.com/joho/awesome-code-review?tab=readme-ov-file#awesome-code-review-) ⭐ 5,154 | 🐛 80 | 📅 2024-09-09 - A collection of resources for code review practices.
 * [Awesome Linux](https://github.com/inputsh/awesome-linux) ⚠️ Archived - Curated list of Linux applications, tools, and resources for users and developers.
 * [Awesome Asyncio](https://github.com/timofurrer/awesome-asyncio) ⭐ 5,129 | 🐛 19 | 📅 2025-12-01 - Curated list of frameworks, libraries, and utilities for asyncio-based Python programming.
-* [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) ⭐ 4,669 | 🐛 10 | 📅 2026-09-15 - Curated list of Jupyter projects, libraries, and resources.
-* [Awesome Productivity](https://github.com/jyguyomarch/awesome-productivity) ⭐ 3,344 | 🐛 198 | 📅 2024-08-14 - A curated list of delightful productivity resources.
-* [Awesome AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) ⭐ 3,083 | 🐛 26 | 📅 2023-01-24 - A curated list of awesome AutoHotkey libraries, scripts, and resources.
-* [Awesome Product Design](https://github.com/ttt30ga/awesome-product-design) ⭐ 2,713 | 🐛 16 | 📅 2025-09-22 - A collection of bookmarks, resources, articles about product design.
-* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,373 | 🐛 17 | 📅 2026-09-13 - Curated list of software testing resources: tools, frameworks, books, and best practices.
-* [Awesome Product Management](https://github.com/dend/awesome-product-management) ⭐ 2,365 | 🐛 101 | 🌐 CSS | 📅 2026-09-07 - A curated list of resources for product managers and aspiring PMs.
+* [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) ⭐ 4,671 | 🐛 10 | 📅 2026-09-16 - Curated list of Jupyter projects, libraries, and resources.
+* [Awesome Productivity](https://github.com/jyguyomarch/awesome-productivity) ⭐ 3,346 | 🐛 198 | 📅 2024-08-14 - A curated list of delightful productivity resources.
+* [Awesome AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) ⭐ 3,085 | 🐛 28 | 📅 2023-01-24 - A curated list of awesome AutoHotkey libraries, scripts, and resources.
+* [Awesome Product Design](https://github.com/ttt30ga/awesome-product-design) ⭐ 2,715 | 🐛 16 | 📅 2025-09-22 - A collection of bookmarks, resources, articles about product design.
+* [Awesome Testing](https://github.com/TheJambo/awesome-testing) ⭐ 2,374 | 🐛 17 | 📅 2026-09-13 - Curated list of software testing resources: tools, frameworks, books, and best practices.
+* [Awesome Product Management](https://github.com/dend/awesome-product-management) ⭐ 2,367 | 🐛 102 | 🌐 CSS | 📅 2026-09-07 - A curated list of resources for product managers and aspiring PMs.
 * [Awesome Business Intelligence](https://github.com/thenaturalist/awesome-business-intelligence) ⭐ 2,319 | 🐛 27 | 📅 2024-08-21 - Actively curated list of awesome BI tools.
 * [Awesome Quarto](https://github.com/mcanouil/awesome-quarto) ⭐ 2,179 | 🐛 0 | 📅 2026-09-10 - A curated list of Quarto resources, including talks, tools, examples, and articles. Contributions are welcome!
 * [Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX) ⭐ 1,668 | 🐛 6 | 📅 2026-08-08 - A curated list of LaTeX resources, libraries, and tools.
 * [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) ⭐ 1,002 | 🐛 0 | 📅 2026-09-15 - A curated list of resources for scientific writing, publishing, and research.
-* [Awesome Docs](https://github.com/testthedocs/awesome-docs) ⭐ 894 | 🐛 11 | 📅 2026-08-30 - Curated list of essential tools and resources for creating great documentation.
+* [Awesome Docs](https://github.com/testthedocs/awesome-docs) ⭐ 894 | 🐛 12 | 📅 2026-08-30 - Curated list of essential tools and resources for creating great documentation.
 
 [⬆ back to contents](#contents)
 
@@ -1737,20 +1737,20 @@ A curated list of other awesome lists on various topics and technologies.
 
 A wide range of resources and tools designed to facilitate learning, development, and exploration across different domains.
 
-* [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) ⭐ 547,706 | 🐛 643 | 🌐 Markdown | 📅 2026-07-14 - Tutorials on how to build your own technology from scratch.
-* [A collective list of free APIs](https://github.com/public-apis/public-apis) ⭐ 480,921 | 🐛 1,950 | 🌐 Python | 📅 2026-09-15 - A comprehensive list of free APIs for various purposes.
-* [OSSU Computer Science](https://github.com/ossu/computer-science) ⭐ 209,068 | 🐛 28 | 🌐 HTML | 📅 2026-07-14 - Path to a free, self-taught education in computer science.
-* [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 89,657 | 🐛 247 | 🌐 Python | 📅 2026-09-16 - Production-ready OCR toolkit with multilingual and document AI support.
-* [Devops Exercises](https://github.com/bregman-arie/devops-exercises) ⭐ 84,492 | 🐛 56 | 🌐 Python | 📅 2025-12-27 - Extensive collection of exercises and questions for DevOps and Linux interview prep.
-* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,514 | 🐛 4 | 📅 2026-09-11 - Curated list of free university computer science video courses.
-* [Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships) ⭐ 47,468 | 🐛 107 | 🌐 Python | 📅 2026-09-16 - Up-to-date list of summer internships in tech with deadline tracking.
-* [Full Stack Fastapi Template](https://github.com/fastapi/full-stack-fastapi-template) ⭐ 45,583 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-03 - Full-stack template with FastAPI, React, and PostgreSQL.
-* [What Happens When](https://github.com/alex/what-happens-when) ⭐ 43,315 | 🐛 2,066 | 📅 2024-08-19 - Technical explanation of what happens when you type a URL and press Enter.
-* [500+ AI/ML/DL/NLP Projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) ⭐ 36,875 | 🐛 69 | 📅 2025-08-01 - A massive collection of AI and machine learning projects with code for learning and portfolios.
-* [A To Z Resources For Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) ⭐ 22,260 | 🐛 49 | 📅 2026-06-17 - Comprehensive list of free resources for students learning programming and tech.
-* [Markdown Badges](https://github.com/Ileriayo/markdown-badges) ⭐ 17,046 | 🐛 1 | 🌐 SCSS | 📅 2026-08-11 - Collection of badges for GitHub profiles and Markdown files.
-* [Football Analytics](https://github.com/eddwebster/football_analytics) ⭐ 2,780 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2025-10-09 - Open learning course and toolkit for football data analysis with Python and R.
-* [Zasper](https://github.com/zasper-io/zasper) ⭐ 2,338 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-14 - High Performace IDE for Jupyter Notebooks.
+* [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) ⭐ 547,889 | 🐛 643 | 🌐 Markdown | 📅 2026-07-14 - Tutorials on how to build your own technology from scratch.
+* [A collective list of free APIs](https://github.com/public-apis/public-apis) ⭐ 481,207 | 🐛 1,943 | 🌐 Python | 📅 2026-09-17 - A comprehensive list of free APIs for various purposes.
+* [OSSU Computer Science](https://github.com/ossu/computer-science) ⭐ 209,088 | 🐛 28 | 🌐 HTML | 📅 2026-07-14 - Path to a free, self-taught education in computer science.
+* [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 89,732 | 🐛 248 | 🌐 Python | 📅 2026-09-16 - Production-ready OCR toolkit with multilingual and document AI support.
+* [Devops Exercises](https://github.com/bregman-arie/devops-exercises) ⭐ 84,504 | 🐛 56 | 🌐 Python | 📅 2025-12-27 - Extensive collection of exercises and questions for DevOps and Linux interview prep.
+* [CS Video Courses](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,524 | 🐛 4 | 📅 2026-09-17 - Curated list of free university computer science video courses.
+* [Summer Internships](https://github.com/SimplifyJobs/Summer2026-Internships) ⭐ 47,490 | 🐛 108 | 🌐 Python | 📅 2026-09-17 - Up-to-date list of summer internships in tech with deadline tracking.
+* [Full Stack Fastapi Template](https://github.com/fastapi/full-stack-fastapi-template) ⭐ 45,602 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-03 - Full-stack template with FastAPI, React, and PostgreSQL.
+* [What Happens When](https://github.com/alex/what-happens-when) ⭐ 43,317 | 🐛 2,066 | 📅 2024-08-19 - Technical explanation of what happens when you type a URL and press Enter.
+* [500+ AI/ML/DL/NLP Projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) ⭐ 36,890 | 🐛 69 | 📅 2025-08-01 - A massive collection of AI and machine learning projects with code for learning and portfolios.
+* [A To Z Resources For Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) ⭐ 22,265 | 🐛 49 | 📅 2026-06-17 - Comprehensive list of free resources for students learning programming and tech.
+* [Markdown Badges](https://github.com/Ileriayo/markdown-badges) ⭐ 17,044 | 🐛 1 | 🌐 SCSS | 📅 2026-08-11 - Collection of badges for GitHub profiles and Markdown files.
+* [Football Analytics](https://github.com/eddwebster/football_analytics) ⭐ 2,782 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2025-10-09 - Open learning course and toolkit for football data analysis with Python and R.
+* [Zasper](https://github.com/zasper-io/zasper) ⭐ 2,338 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-17 - High Performace IDE for Jupyter Notebooks.
 * [UC Berkeley - Data 8](https://github.com/data-8/textbook) ⭐ 915 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2026-06-23 - Course materials for the Data Science Foundations course.
 * [arXiv.org](https://arxiv.org/) - A free distribution service and open-access archive for scholarly articles.
 * [Elicit](https://elicit.com/) - An AI research assistant that helps automate parts of literature review.
@@ -1769,7 +1769,7 @@ A wide range of resources and tools designed to facilitate learning, development
 
 **We welcome your contributions!**
 
-See [CONTRIBUTING.md](https://github.com/PavelGrigoryevDS/awesome-data-analysis/blob/main/CONTRIBUTING.md) ⭐ 1,961 | 🐛 9 | 📅 2026-08-09 for how to add resources.
+See [CONTRIBUTING.md](https://github.com/PavelGrigoryevDS/awesome-data-analysis/blob/main/CONTRIBUTING.md) ⭐ 1,962 | 🐛 10 | 📅 2026-08-09 for how to add resources.
 
 [⬆ back to contents](#contents)
 
@@ -1787,4 +1787,4 @@ This work is dedicated to the public domain under the [CC0 1.0 Universal](https:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
